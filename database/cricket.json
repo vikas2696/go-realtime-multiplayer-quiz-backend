@@ -1,0 +1,1802 @@
+[
+  {
+    "questionId": 1,
+    "ques": "How many players are there in a cricket team on the field?",
+    "optionA": "9",
+    "optionB": "10",
+    "optionC": "11",
+    "optionD": "12",
+    "answer": "11"
+  },
+  {
+    "questionId": 2,
+    "ques": "Who is known as the 'God of Cricket'?",
+    "optionA": "Brian Lara",
+    "optionB": "Sachin Tendulkar",
+    "optionC": "Ricky Ponting",
+    "optionD": "Jacques Kallis",
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "questionId": 3,
+    "ques": "What is the maximum number of overs in a T20 match per team?",
+    "optionA": "15",
+    "optionB": "20",
+    "optionC": "25",
+    "optionD": "50",
+    "answer": "20"
+  },
+  {
+    "questionId": 4,
+    "ques": "Which country won the first Cricket World Cup in 1975?",
+    "optionA": "Australia",
+    "optionB": "England",
+    "optionC": "West Indies",
+    "optionD": "India",
+    "answer": "West Indies"
+  },
+  {
+    "questionId": 5,
+    "ques": "What is a 'duck' in cricket?",
+    "optionA": "Getting out for zero runs",
+    "optionB": "Scoring 100 runs",
+    "optionC": "Taking 5 wickets",
+    "optionD": "A fielding position",
+    "answer": "Getting out for zero runs"
+  },
+  {
+    "questionId": 6,
+    "ques": "How many runs are awarded for hitting the ball over the boundary without bouncing?",
+    "optionA": "4",
+    "optionB": "5",
+    "optionC": "6",
+    "optionD": "7",
+    "answer": "6"
+  },
+  {
+    "questionId": 7,
+    "ques": "Who holds the record for highest individual score in ODI cricket?",
+    "optionA": "Chris Gayle",
+    "optionB": "Rohit Sharma",
+    "optionC": "Martin Guptill",
+    "optionD": "Virender Sehwag",
+    "answer": "Rohit Sharma"
+  },
+  {
+    "questionId": 8,
+    "ques": "What does LBW stand for?",
+    "optionA": "Leg Before Wicket",
+    "optionB": "Leg Behind Wicket",
+    "optionC": "Left Before Wicket",
+    "optionD": "Leg Beside Wicket",
+    "answer": "Leg Before Wicket"
+  },
+  {
+    "questionId": 9,
+    "ques": "Which Indian captain led the team to its first World Cup victory in 1983?",
+    "optionA": "Sunil Gavaskar",
+    "optionB": "Kapil Dev",
+    "optionC": "Mohinder Amarnath",
+    "optionD": "K. Srikkanth",
+    "answer": "Kapil Dev"
+  },
+  {
+    "questionId": 10,
+    "ques": "What is the length of a cricket pitch?",
+    "optionA": "20 yards",
+    "optionB": "22 yards",
+    "optionC": "24 yards",
+    "optionD": "26 yards",
+    "answer": "22 yards"
+  },
+  {
+    "questionId": 11,
+    "ques": "Which bowler has taken the most wickets in Test cricket?",
+    "optionA": "Shane Warne",
+    "optionB": "Muttiah Muralitharan",
+    "optionC": "Anil Kumble",
+    "optionD": "James Anderson",
+    "answer": "Muttiah Muralitharan"
+  },
+  {
+    "questionId": 12,
+    "ques": "What is a 'maiden over'?",
+    "optionA": "First over of the match",
+    "optionB": "Over with no runs scored",
+    "optionC": "Over with a wicket",
+    "optionD": "Last over of the match",
+    "answer": "Over with no runs scored"
+  },
+  {
+    "questionId": 13,
+    "ques": "Which country is known as the 'Baggy Greens'?",
+    "optionA": "South Africa",
+    "optionB": "Australia",
+    "optionC": "New Zealand",
+    "optionD": "Pakistan",
+    "answer": "Australia"
+  },
+  {
+    "questionId": 14,
+    "ques": "Who was the first batsman to score 10,000 runs in Test cricket?",
+    "optionA": "Allan Border",
+    "optionB": "Sunil Gavaskar",
+    "optionC": "Graham Gooch",
+    "optionD": "Viv Richards",
+    "answer": "Sunil Gavaskar"
+  },
+  {
+    "questionId": 15,
+    "ques": "What is a 'hat-trick' in cricket?",
+    "optionA": "Three consecutive sixes",
+    "optionB": "Three wickets in three consecutive balls",
+    "optionC": "Three catches in a match",
+    "optionD": "Three maidens in a row",
+    "answer": "Three wickets in three consecutive balls"
+  },
+  {
+    "questionId": 16,
+    "ques": "Which Indian wicket-keeper has the most dismissals in international cricket?",
+    "optionA": "Syed Kirmani",
+    "optionB": "Nayan Mongia",
+    "optionC": "MS Dhoni",
+    "optionD": "Rishabh Pant",
+    "answer": "MS Dhoni"
+  },
+  {
+    "questionId": 17,
+    "ques": "What does DRS stand for in cricket?",
+    "optionA": "Decision Review System",
+    "optionB": "Direct Review System",
+    "optionC": "Decision Referral System",
+    "optionD": "Decisive Review System",
+    "answer": "Decision Review System"
+  },
+  {
+    "questionId": 18,
+    "ques": "Which ground is known as the 'Home of Cricket'?",
+    "optionA": "The Oval",
+    "optionB": "Lord's",
+    "optionC": "MCG",
+    "optionD": "Eden Gardens",
+    "answer": "Lord's"
+  },
+  {
+    "questionId": 19,
+    "ques": "How many balls are there in an over?",
+    "optionA": "4",
+    "optionB": "5",
+    "optionC": "6",
+    "optionD": "8",
+    "answer": "6"
+  },
+  {
+    "questionId": 20,
+    "ques": "Who hit six sixes in an over in international cricket?",
+    "optionA": "Yuvraj Singh",
+    "optionB": "Chris Gayle",
+    "optionC": "AB de Villiers",
+    "optionD": "Kieron Pollard",
+    "answer": "Yuvraj Singh"
+  },
+  {
+    "questionId": 21,
+    "ques": "What is the maximum width of a cricket bat?",
+    "optionA": "4.25 inches",
+    "optionB": "4.50 inches",
+    "optionC": "4.75 inches",
+    "optionD": "5.00 inches",
+    "answer": "4.25 inches"
+  },
+  {
+    "questionId": 22,
+    "ques": "Which format of cricket was introduced first?",
+    "optionA": "ODI",
+    "optionB": "T20",
+    "optionC": "Test",
+    "optionD": "T10",
+    "answer": "Test"
+  },
+  {
+    "questionId": 23,
+    "ques": "Who is known as 'Captain Cool' in Indian cricket?",
+    "optionA": "Sourav Ganguly",
+    "optionB": "MS Dhoni",
+    "optionC": "Virat Kohli",
+    "optionD": "Rohit Sharma",
+    "answer": "MS Dhoni"
+  },
+  {
+    "questionId": 24,
+    "ques": "What is a 'golden duck'?",
+    "optionA": "Getting out on the first ball faced",
+    "optionB": "Scoring 50 runs",
+    "optionC": "Taking a wicket on first ball",
+    "optionD": "Winning the toss",
+    "answer": "Getting out on the first ball faced"
+  },
+  {
+    "questionId": 25,
+    "ques": "Which tournament is considered the oldest in cricket?",
+    "optionA": "The Ashes",
+    "optionB": "County Championship",
+    "optionC": "Sheffield Shield",
+    "optionD": "Ranji Trophy",
+    "answer": "County Championship"
+  },
+  {
+    "questionId": 26,
+    "ques": "Who was the first cricketer to score 200 in ODI cricket?",
+    "optionA": "Virender Sehwag",
+    "optionB": "Sachin Tendulkar",
+    "optionC": "Chris Gayle",
+    "optionD": "Rohit Sharma",
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "questionId": 27,
+    "ques": "What does IPL stand for?",
+    "optionA": "International Premier League",
+    "optionB": "Indian Premier League",
+    "optionC": "Indian Professional League",
+    "optionD": "International Players League",
+    "answer": "Indian Premier League"
+  },
+  {
+    "questionId": 28,
+    "ques": "Which fielding position is closest to the batsman?",
+    "optionA": "Mid-off",
+    "optionB": "Point",
+    "optionC": "Silly point",
+    "optionD": "Long-on",
+    "answer": "Silly point"
+  },
+  {
+    "questionId": 29,
+    "ques": "Who has scored the most runs in Test cricket?",
+    "optionA": "Ricky Ponting",
+    "optionB": "Sachin Tendulkar",
+    "optionC": "Jacques Kallis",
+    "optionD": "Alastair Cook",
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "questionId": 30,
+    "ques": "What is the Duckworth-Lewis method used for?",
+    "optionA": "Calculating batting average",
+    "optionB": "Rain-affected matches",
+    "optionC": "Bowling speed",
+    "optionD": "Field placement",
+    "answer": "Rain-affected matches"
+  },
+  {
+    "questionId": 31,
+    "ques": "Which country has won the most Cricket World Cups?",
+    "optionA": "India",
+    "optionB": "West Indies",
+    "optionC": "Australia",
+    "optionD": "England",
+    "answer": "Australia"
+  },
+  {
+    "questionId": 32,
+    "ques": "What is a 'night watchman' in cricket?",
+    "optionA": "Security guard",
+    "optionB": "Lower-order batsman sent to protect better batsmen",
+    "optionC": "Umpire for day-night matches",
+    "optionD": "Fielder at night",
+    "answer": "Lower-order batsman sent to protect better batsmen"
+  },
+  {
+    "questionId": 33,
+    "ques": "Who bowled the fastest delivery in cricket history?",
+    "optionA": "Brett Lee",
+    "optionB": "Shoaib Akhtar",
+    "optionC": "Shaun Tait",
+    "optionD": "Mitchell Starc",
+    "answer": "Shoaib Akhtar"
+  },
+  {
+    "questionId": 34,
+    "ques": "What color ball is used in Test cricket?",
+    "optionA": "White",
+    "optionB": "Pink",
+    "optionC": "Red",
+    "optionD": "Yellow",
+    "answer": "Red"
+  },
+  {
+    "questionId": 35,
+    "ques": "Which Indian bowler took all 10 wickets in a Test innings?",
+    "optionA": "Kapil Dev",
+    "optionB": "Anil Kumble",
+    "optionC": "Harbhajan Singh",
+    "optionD": "Ravichandran Ashwin",
+    "answer": "Anil Kumble"
+  },
+  {
+    "questionId": 36,
+    "ques": "What is a 'yorker'?",
+    "optionA": "A short ball",
+    "optionB": "A ball pitched at the batsman's feet",
+    "optionC": "A wide ball",
+    "optionD": "A slow ball",
+    "answer": "A ball pitched at the batsman's feet"
+  },
+  {
+    "questionId": 37,
+    "ques": "Which trophy is contested between India and Australia in Test cricket?",
+    "optionA": "Ashes Trophy",
+    "optionB": "Border-Gavaskar Trophy",
+    "optionC": "Frank Worrell Trophy",
+    "optionD": "Wisden Trophy",
+    "answer": "Border-Gavaskar Trophy"
+  },
+  {
+    "questionId": 38,
+    "ques": "Who is the youngest player to score a century in international cricket?",
+    "optionA": "Sachin Tendulkar",
+    "optionB": "Mohammad Ashraful",
+    "optionC": "Shahid Afridi",
+    "optionD": "Prithvi Shaw",
+    "answer": "Shahid Afridi"
+  },
+  {
+    "questionId": 39,
+    "ques": "What does a 'googly' refer to in cricket?",
+    "optionA": "A fast bouncer",
+    "optionB": "A leg-spinner's off-break",
+    "optionC": "A slower ball",
+    "optionD": "A straight ball",
+    "answer": "A leg-spinner's off-break"
+  },
+  {
+    "questionId": 40,
+    "ques": "Which stadium in India has the largest seating capacity?",
+    "optionA": "Eden Gardens",
+    "optionB": "Wankhede Stadium",
+    "optionC": "Narendra Modi Stadium",
+    "optionD": "M. Chinnaswamy Stadium",
+    "answer": "Narendra Modi Stadium"
+  },
+  {
+    "questionId": 41,
+    "ques": "Who was the first batsman to score a double century in ODI cricket?",
+    "optionA": "Virender Sehwag",
+    "optionB": "Sachin Tendulkar",
+    "optionC": "Chris Gayle",
+    "optionD": "Martin Guptill",
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "questionId": 42,
+    "ques": "What is the minimum number of overs a team must bowl in a day of Test cricket?",
+    "optionA": "80",
+    "optionB": "85",
+    "optionC": "90",
+    "optionD": "95",
+    "answer": "90"
+  },
+  {
+    "questionId": 43,
+    "ques": "Which player has won the most 'Player of the Match' awards in international cricket?",
+    "optionA": "Virat Kohli",
+    "optionB": "Sachin Tendulkar",
+    "optionC": "Jacques Kallis",
+    "optionD": "Shahid Afridi",
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "questionId": 44,
+    "ques": "What is a 'free hit' in cricket?",
+    "optionA": "Extra run",
+    "optionB": "Batsman cannot be out except run out",
+    "optionC": "Free boundary",
+    "optionD": "Extra over",
+    "answer": "Batsman cannot be out except run out"
+  },
+  {
+    "questionId": 45,
+    "ques": "Which team won the inaugural T20 World Cup in 2007?",
+    "optionA": "Pakistan",
+    "optionB": "India",
+    "optionC": "Australia",
+    "optionD": "Sri Lanka",
+    "answer": "India"
+  },
+  {
+    "questionId": 46,
+    "ques": "What does 'c&b' mean in cricket scorecards?",
+    "optionA": "Catch and ball",
+    "optionB": "Caught and bowled",
+    "optionC": "Clean bowled",
+    "optionD": "Century and batting",
+    "answer": "Caught and bowled"
+  },
+  {
+    "questionId": 47,
+    "ques": "Who is known as 'Hitman' in cricket?",
+    "optionA": "Chris Gayle",
+    "optionB": "AB de Villiers",
+    "optionC": "Rohit Sharma",
+    "optionD": "David Warner",
+    "answer": "Rohit Sharma"
+  },
+  {
+    "questionId": 48,
+    "ques": "What is the maximum number of fielders allowed on the leg side?",
+    "optionA": "4",
+    "optionB": "5",
+    "optionC": "6",
+    "optionD": "7",
+    "answer": "5"
+  },
+  {
+    "questionId": 49,
+    "ques": "Which bowler has taken the most wickets in ODI cricket?",
+    "optionA": "Wasim Akram",
+    "optionB": "Muttiah Muralitharan",
+    "optionC": "Waqar Younis",
+    "optionD": "Shahid Afridi",
+    "answer": "Muttiah Muralitharan"
+  },
+  {
+    "questionId": 50,
+    "ques": "What is the term for scoring 100 runs and taking 5 wickets in the same match?",
+    "optionA": "Double",
+    "optionB": "All-rounder",
+    "optionC": "Match-winner",
+    "optionD": "All-rounder's double",
+    "answer": "All-rounder's double"
+  },
+  {
+    "questionId": 51,
+    "ques": "Which cricketer is known as 'The Wall'?",
+    "optionA": "Sunil Gavaskar",
+    "optionB": "Rahul Dravid",
+    "optionC": "VVS Laxman",
+    "optionD": "Cheteshwar Pujara",
+    "answer": "Rahul Dravid"
+  },
+  {
+    "questionId": 52,
+    "ques": "What happens when a batsman hits the ball twice deliberately?",
+    "optionA": "Six runs",
+    "optionB": "Out",
+    "optionC": "Dead ball",
+    "optionD": "No ball",
+    "answer": "Out"
+  },
+  {
+    "questionId": 53,
+    "ques": "Which country introduced T20 cricket?",
+    "optionA": "Australia",
+    "optionB": "India",
+    "optionC": "England",
+    "optionD": "South Africa",
+    "answer": "England"
+  },
+  {
+    "questionId": 54,
+    "ques": "Who has taken the fastest 100 wickets in Test cricket?",
+    "optionA": "Dale Steyn",
+    "optionB": "Ravichandran Ashwin",
+    "optionC": "Sydney Barnes",
+    "optionD": "Yasir Shah",
+    "answer": "Sydney Barnes"
+  },
+  {
+    "questionId": 55,
+    "ques": "What is a 'bouncer' in cricket?",
+    "optionA": "A full toss",
+    "optionB": "A short-pitched delivery",
+    "optionC": "A yorker",
+    "optionD": "A slower ball",
+    "answer": "A short-pitched delivery"
+  },
+  {
+    "questionId": 56,
+    "ques": "Which wicket-keeper has the most stumpings in international cricket?",
+    "optionA": "Adam Gilchrist",
+    "optionB": "MS Dhoni",
+    "optionC": "Kumar Sangakkara",
+    "optionD": "Mark Boucher",
+    "answer": "MS Dhoni"
+  },
+  {
+    "questionId": 57,
+    "ques": "What is the highest team score in Test cricket?",
+    "optionA": "903/7 declared",
+    "optionB": "952/6 declared",
+    "optionC": "958/6 declared",
+    "optionD": "974/6 declared",
+    "answer": "952/6 declared"
+  },
+  {
+    "questionId": 58,
+    "ques": "Who invented the 'doosra' delivery?",
+    "optionA": "Muttiah Muralitharan",
+    "optionB": "Saqlain Mushtaq",
+    "optionC": "Harbhajan Singh",
+    "optionD": "Saeed Ajmal",
+    "answer": "Saqlain Mushtaq"
+  },
+  {
+    "questionId": 59,
+    "ques": "Which trophy is awarded to the winner of India vs England Test series?",
+    "optionA": "Pataudi Trophy",
+    "optionB": "Wisden Trophy",
+    "optionC": "Anthony de Mello Trophy",
+    "optionD": "Basil D'Oliveira Trophy",
+    "answer": "Anthony de Mello Trophy"
+  },
+  {
+    "questionId": 60,
+    "ques": "What is the term for three consecutive ducks?",
+    "optionA": "Triple duck",
+    "optionB": "King pair",
+    "optionC": "Three ducks",
+    "optionD": "Trilogy of ducks",
+    "answer": "Triple duck"
+  },
+  {
+    "questionId": 61,
+    "ques": "Who was the first player to take 600 wickets in Test cricket?",
+    "optionA": "Shane Warne",
+    "optionB": "Muttiah Muralitharan",
+    "optionC": "Courtney Walsh",
+    "optionD": "Anil Kumble",
+    "answer": "Courtney Walsh"
+  },
+  {
+    "questionId": 62,
+    "ques": "What is the powerplay in ODI cricket?",
+    "optionA": "First 10 overs with fielding restrictions",
+    "optionB": "Last 10 overs",
+    "optionC": "Middle overs",
+    "optionD": "Death overs",
+    "answer": "First 10 overs with fielding restrictions"
+  },
+  {
+    "questionId": 63,
+    "ques": "Which batsman has scored the most centuries in international cricket?",
+    "optionA": "Ricky Ponting",
+    "optionB": "Virat Kohli",
+    "optionC": "Sachin Tendulkar",
+    "optionD": "Kumar Sangakkara",
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "questionId": 64,
+    "ques": "What does 'Mankading' refer to?",
+    "optionA": "A fielding technique",
+    "optionB": "Running out non-striker backing up too far",
+    "optionC": "A batting technique",
+    "optionD": "A bowling action",
+    "answer": "Running out non-striker backing up too far"
+  },
+  {
+    "questionId": 65,
+    "ques": "Which ground hosted the first-ever Test match?",
+    "optionA": "Lord's",
+    "optionB": "The Oval",
+    "optionC": "Melbourne Cricket Ground",
+    "optionD": "Sydney Cricket Ground",
+    "answer": "Melbourne Cricket Ground"
+  },
+  {
+    "questionId": 66,
+    "ques": "Who has hit the most sixes in international cricket?",
+    "optionA": "Shahid Afridi",
+    "optionB": "Chris Gayle",
+    "optionC": "MS Dhoni",
+    "optionD": "Rohit Sharma",
+    "answer": "Chris Gayle"
+  },
+  {
+    "questionId": 67,
+    "ques": "What is the minimum distance of the boundary from the pitch?",
+    "optionA": "50 yards",
+    "optionB": "55 yards",
+    "optionC": "60 yards",
+    "optionD": "65 yards",
+    "answer": "55 yards"
+  },
+  {
+    "questionId": 68,
+    "ques": "Which player has the best bowling figures in ODI cricket?",
+    "optionA": "Anil Kumble",
+    "optionB": "Chaminda Vaas",
+    "optionC": "Glenn McGrath",
+    "optionD": "Muttiah Muralitharan",
+    "answer": "Chaminda Vaas"
+  },
+  {
+    "questionId": 69,
+    "ques": "What is a 'King Pair' in cricket?",
+    "optionA": "Two centuries in a match",
+    "optionB": "Golden ducks in both innings",
+    "optionC": "Two wickets in two balls",
+    "optionD": "100 runs and 5 wickets",
+    "answer": "Golden ducks in both innings"
+  },
+  {
+    "questionId": 70,
+    "ques": "Which team has won the most IPL titles?",
+    "optionA": "Chennai Super Kings",
+    "optionB": "Mumbai Indians",
+    "optionC": "Kolkata Knight Riders",
+    "optionD": "Royal Challengers Bangalore",
+    "answer": "Mumbai Indians"
+  },
+  {
+    "questionId": 71,
+    "ques": "Who scored the fastest century in Test cricket?",
+    "optionA": "Vivian Richards",
+    "optionB": "Adam Gilchrist",
+    "optionC": "Brendon McCullum",
+    "optionD": "David Warner",
+    "answer": "Brendon McCullum"
+  },
+  {
+    "questionId": 72,
+    "ques": "What is the weight of a cricket ball?",
+    "optionA": "155.9-163 grams",
+    "optionB": "140-150 grams",
+    "optionC": "170-180 grams",
+    "optionD": "130-140 grams",
+    "answer": "155.9-163 grams"
+  },
+  {
+    "questionId": 73,
+    "ques": "Which bowler has the best bowling figures in Test cricket?",
+    "optionA": "Anil Kumble",
+    "optionB": "Jim Laker",
+    "optionC": "Shane Warne",
+    "optionD": "Muttiah Muralitharan",
+    "answer": "Jim Laker"
+  },
+  {
+    "questionId": 74,
+    "ques": "What is a 'diamond duck'?",
+    "optionA": "Out without facing a ball",
+    "optionB": "Out on 99",
+    "optionC": "Four consecutive ducks",
+    "optionD": "Out on the last ball",
+    "answer": "Out without facing a ball"
+  },
+  {
+    "questionId": 75,
+    "ques": "Which country hosted the 2011 Cricket World Cup final?",
+    "optionA": "Sri Lanka",
+    "optionB": "India",
+    "optionC": "Bangladesh",
+    "optionD": "Pakistan",
+    "answer": "India"
+  },
+  {
+    "questionId": 76,
+    "ques": "Who is known as 'Turbanator' in cricket?",
+    "optionA": "Bishan Singh Bedi",
+    "optionB": "Harbhajan Singh",
+    "optionC": "Monty Panesar",
+    "optionD": "Navjot Singh Sidhu",
+    "answer": "Harbhajan Singh"
+  },
+  {
+    "questionId": 77,
+    "ques": "What is the maximum number of reviews allowed per team in Test cricket?",
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "3",
+    "optionD": "4",
+    "answer": "3"
+  },
+  {
+    "questionId": 78,
+    "ques": "Which batsman scored the first triple century in Test cricket?",
+    "optionA": "Don Bradman",
+    "optionB": "Andy Sandham",
+    "optionC": "Wally Hammond",
+    "optionD": "Len Hutton",
+    "answer": "Andy Sandham"
+  },
+  {
+    "questionId": 79,
+    "ques": "What does the term 'sledging' mean in cricket?",
+    "optionA": "Fast bowling",
+    "optionB": "Verbal intimidation",
+    "optionC": "Field placement",
+    "optionD": "Batting technique",
+    "answer": "Verbal intimidation"
+  },
+  {
+    "questionId": 80,
+    "ques": "Which player has played the most number of Test matches?",
+    "optionA": "Sachin Tendulkar",
+    "optionB": "James Anderson",
+    "optionC": "Jacques Kallis",
+    "optionD": "Shivnarine Chanderpaul",
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "questionId": 81,
+    "ques": "What is a 'beamer' in cricket?",
+    "optionA": "A yorker",
+    "optionB": "A full toss above waist height",
+    "optionC": "A bouncer",
+    "optionD": "A slower ball",
+    "answer": "A full toss above waist height"
+  },
+  {
+    "questionId": 82,
+    "ques": "Who was the first player to score 300 in ODI cricket?",
+    "optionA": "Virender Sehwag",
+    "optionB": "Chris Gayle",
+    "optionC": "Rohit Sharma",
+    "optionD": "Martin Guptill",
+    "answer": "Rohit Sharma"
+  },
+  {
+    "questionId": 83,
+    "ques": "Which series is played between England and Australia?",
+    "optionA": "Border-Gavaskar Trophy",
+    "optionB": "The Ashes",
+    "optionC": "Trans-Tasman Trophy",
+    "optionD": "Wisden Trophy",
+    "answer": "The Ashes"
+  },
+  {
+    "questionId": 84,
+    "ques": "What is the highest partnership in Test cricket?",
+    "optionA": "576 runs",
+    "optionB": "624 runs",
+    "optionC": "576 runs",
+    "optionD": "446 runs",
+    "answer": "624 runs"
+  },
+  {
+    "questionId": 85,
+    "ques": "Who is known as 'Prince of Trinidad'?",
+    "optionA": "Vivian Richards",
+    "optionB": "Brian Lara",
+    "optionC": "Clive Lloyd",
+    "optionD": "Carl Hooper",
+    "answer": "Brian Lara"
+  },
+  {
+    "questionId": 86,
+    "ques": "What is a 'no ball' due to overstepping called?",
+    "optionA": "Front foot no ball",
+    "optionB": "Back foot no ball",
+    "optionC": "Side foot no ball",
+    "optionD": "Foot fault",
+    "answer": "Front foot no ball"
+  },
+  {
+    "questionId": 87,
+    "ques": "Which spinner has taken the most wickets in T20 internationals?",
+    "optionA": "Rashid Khan",
+    "optionB": "Shahid Afridi",
+    "optionC": "Imran Tahir",
+    "optionD": "Yuzvendra Chahal",
+    "answer": "Rashid Khan"
+  },
+  {
+    "questionId": 88,
+    "ques": "What is the circumference of a cricket ball?",
+    "optionA": "22.4-22.9 cm",
+    "optionB": "20-21 cm",
+    "optionC": "24-25 cm",
+    "optionD": "23-24 cm",
+    "answer": "22.4-22.9 cm"
+  },
+  {
+    "questionId": 89,
+    "ques": "Who has the highest batting average in Test cricket?",
+    "optionA": "Steve Smith",
+    "optionB": "Don Bradman",
+    "optionC": "Kane Williamson",
+    "optionD": "Virat Kohli",
+    "answer": "Don Bradman"
+  },
+  {
+    "questionId": 90,
+    "ques": "Which format is known as 'The Hundred'?",
+    "optionA": "100-over cricket",
+    "optionB": "100-ball cricket",
+    "optionC": "100-minute cricket",
+    "optionD": "100-run cricket",
+    "answer": "100-ball cricket"
+  },
+  {
+    "questionId": 91,
+    "ques": "Who took the first hat-trick in T20 internationals?",
+    "optionA": "Brett Lee",
+    "optionB": "Lasith Malinga",
+    "optionC": "Tim Southee",
+    "optionD": "Rashid Khan",
+    "answer": "Brett Lee"
+  },
+  {
+    "questionId": 92,
+    "ques": "What is the name of the trophy for India-Pakistan bilateral series?",
+    "optionA": "Friendship Trophy",
+    "optionB": "Peace Trophy",
+    "optionC": "Unity Trophy",
+    "optionD": "No specific trophy",
+    "answer": "No specific trophy"
+  },
+  {
+    "questionId": 93,
+    "ques": "Which bowler has taken 5 wickets in an innings most times in Tests?",
+    "optionA": "Shane Warne",
+    "optionB": "Muttiah Muralitharan",
+    "optionC": "Richard Hadlee",
+    "optionD": "James Anderson",
+    "answer": "Muttiah Muralitharan"
+  },
+  {
+    "questionId": 94,
+    "ques": "What is the term for a batsman scoring 50+ in both innings of a Test?",
+    "optionA": "Double fifty",
+    "optionB": "Twin fifties",
+    "optionC": "Dual half-centuries",
+    "optionD": "No specific term",
+    "answer": "No specific term"
+  },
+  {
+    "questionId": 95,
+    "ques": "Who has scored the fastest fifty in T20 internationals?",
+    "optionA": "Yuvraj Singh",
+    "optionB": "Chris Gayle",
+    "optionC": "David Miller",
+    "optionD": "KL Rahul",
+    "answer": "Yuvraj Singh"
+  },
+  {
+    "questionId": 96,
+    "ques": "Which umpire has officiated in the most international matches?",
+    "optionA": "Steve Bucknor",
+    "optionB": "Aleem Dar",
+    "optionC": "Rudi Koertzen",
+    "optionD": "David Shepherd",
+    "answer": "Aleem Dar"
+  },
+  {
+    "questionId": 97,
+    "ques": "What is the highest score by a number 11 batsman in Tests?",
+    "optionA": "98",
+    "optionB": "99",
+    "optionC": "100",
+    "optionD": "95",
+    "answer": "98"
+  },
+  {
+    "questionId": 98,
+    "ques": "Which team won the first IPL in 2008?",
+    "optionA": "Chennai Super Kings",
+    "optionB": "Rajasthan Royals",
+    "optionC": "Deccan Chargers",
+    "optionD": "Mumbai Indians",
+    "answer": "Rajasthan Royals"
+  },
+  {
+    "questionId": 99,
+    "ques": "What is the term for five consecutive maidens?",
+    "optionA": "Maiden five",
+    "optionB": "Wicket maiden",
+    "optionC": "Double wicket maiden",
+    "optionD": "No specific term",
+    "answer": "No specific term"
+  },
+  {
+    "questionId": 100,
+    "ques": "Who captained India to its first Test victory?",
+    "optionA": "CK Nayudu",
+    "optionB": "Vijay Hazare",
+    "optionC": "Lala Amarnath",
+    "optionD": "Vijay Merchant",
+    "answer": "Vijay Hazare"
+  },
+  {
+    "questionId": 1,
+    "ques": "Who scored 99.94 as their Test batting average?",
+    "optionA": "Steve Smith",
+    "optionB": "Don Bradman",
+    "optionC": "Herbert Sutcliffe",
+    "optionD": "Eddie Paynter",
+    "answer": "Don Bradman"
+  },
+  {
+    "questionId": 2,
+    "ques": "Which bowler took 19 wickets in a Test match?",
+    "optionA": "Sydney Barnes",
+    "optionB": "Jim Laker",
+    "optionC": "Bob Massie",
+    "optionD": "Anil Kumble",
+    "answer": "Jim Laker"
+  },
+  {
+    "questionId": 3,
+    "ques": "What was the margin of India's victory in the 1983 World Cup final?",
+    "optionA": "43 runs",
+    "optionB": "53 runs",
+    "optionC": "63 runs",
+    "optionD": "73 runs",
+    "answer": "43 runs"
+  },
+  {
+    "questionId": 4,
+    "ques": "Which Test match is known as the 'Tied Test' of 1960?",
+    "optionA": "India vs Australia",
+    "optionB": "England vs West Indies",
+    "optionC": "Australia vs West Indies",
+    "optionD": "England vs Australia",
+    "answer": "Australia vs West Indies"
+  },
+  {
+    "questionId": 5,
+    "ques": "Who bowled the 'Ball of the Century' to Mike Gatting in 1993?",
+    "optionA": "Muttiah Muralitharan",
+    "optionB": "Shane Warne",
+    "optionC": "Anil Kumble",
+    "optionD": "Abdul Qadir",
+    "answer": "Shane Warne"
+  },
+  {
+    "questionId": 6,
+    "ques": "Which player scored 365 not out in Test cricket?",
+    "optionA": "Brian Lara",
+    "optionB": "Garfield Sobers",
+    "optionC": "Len Hutton",
+    "optionD": "Matthew Hayden",
+    "answer": "Garfield Sobers"
+  },
+  {
+    "questionId": 7,
+    "ques": "In which year was the first day-night Test match played?",
+    "optionA": "2013",
+    "optionB": "2014",
+    "optionC": "2015",
+    "optionD": "2016",
+    "answer": "2015"
+  },
+  {
+    "questionId": 8,
+    "ques": "Who took 8 wickets for 43 runs against Australia at The Oval in 1956?",
+    "optionA": "Fred Trueman",
+    "optionB": "Jim Laker",
+    "optionC": "Frank Tyson",
+    "optionD": "Brian Statham",
+    "answer": "Jim Laker"
+  },
+  {
+    "questionId": 9,
+    "ques": "Which batsman was dismissed for 'Obstructing the field' in ODI World Cup?",
+    "optionA": "Inzamam-ul-Haq",
+    "optionB": "Angelo Mathews",
+    "optionC": "Ben Stokes",
+    "optionD": "Ramiz Raja",
+    "answer": "Angelo Mathews"
+  },
+  {
+    "questionId": 10,
+    "ques": "What is Don Bradman's highest Test score?",
+    "optionA": "299 not out",
+    "optionB": "304",
+    "optionC": "334",
+    "optionD": "375",
+    "answer": "334"
+  },
+  {
+    "questionId": 11,
+    "ques": "Which bowler took 4 wickets in 4 balls twice in first-class cricket?",
+    "optionA": "Lasith Malinga",
+    "optionB": "Chris Jordan",
+    "optionC": "James Franklin",
+    "optionD": "Maurice Allom",
+    "answer": "James Franklin"
+  },
+  {
+    "questionId": 12,
+    "ques": "Who scored the slowest Test century (in terms of balls faced)?",
+    "optionA": "Mudassar Nazar",
+    "optionB": "Jackie McGlew",
+    "optionC": "Shoaib Mohammad",
+    "optionD": "Derrick Robins",
+    "answer": "Mudassar Nazar"
+  },
+  {
+    "questionId": 13,
+    "ques": "Which ground witnessed the lowest Test total of 26 all out?",
+    "optionA": "Eden Park",
+    "optionB": "Lord's",
+    "optionC": "Old Trafford",
+    "optionD": "Newlands",
+    "answer": "Eden Park"
+  },
+  {
+    "questionId": 14,
+    "ques": "Who was the first batsman to be given out by the third umpire?",
+    "optionA": "Jonty Rhodes",
+    "optionB": "Sachin Tendulkar",
+    "optionC": "Allan Border",
+    "optionD": "Graham Gooch",
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "questionId": 15,
+    "ques": "Which player has a Test batting average of exactly 60.00?",
+    "optionA": "Graeme Pollock",
+    "optionB": "Herbert Sutcliffe",
+    "optionC": "Ken Barrington",
+    "optionD": "Wally Hammond",
+    "answer": "Graeme Pollock"
+  },
+  {
+    "questionId": 16,
+    "ques": "Who took 10 wickets in an innings without any fielder's help?",
+    "optionA": "Jim Laker",
+    "optionB": "Anil Kumble",
+    "optionC": "Hedley Verity",
+    "optionD": "None of them",
+    "answer": "None of them"
+  },
+  {
+    "questionId": 17,
+    "ques": "Which bowler has the best match figures in Test cricket (19/90)?",
+    "optionA": "Sydney Barnes",
+    "optionB": "Jim Laker",
+    "optionC": "Bob Massie",
+    "optionD": "Johnny Briggs",
+    "answer": "Jim Laker"
+  },
+  {
+    "questionId": 18,
+    "ques": "Who scored 501 not out in first-class cricket?",
+    "optionA": "Don Bradman",
+    "optionB": "Brian Lara",
+    "optionC": "Hanif Mohammad",
+    "optionD": "Bhausaheb Nimbalkar",
+    "answer": "Brian Lara"
+  },
+  {
+    "questionId": 19,
+    "ques": "Which team defended the lowest total (120) in ODI cricket?",
+    "optionA": "Zimbabwe",
+    "optionB": "Bangladesh",
+    "optionC": "Ireland",
+    "optionD": "Kenya",
+    "answer": "Zimbabwe"
+  },
+  {
+    "questionId": 20,
+    "ques": "Who took the fastest five-wicket haul in Test cricket (balls)?",
+    "optionA": "Ernie Toshack",
+    "optionB": "Jacques Kallis",
+    "optionC": "Stuart Broad",
+    "optionD": "Dale Steyn",
+    "answer": "Ernie Toshack"
+  },
+  {
+    "questionId": 21,
+    "ques": "Which player scored centuries in three consecutive balls in List A cricket?",
+    "optionA": "Graham Gooch",
+    "optionB": "Ravi Shastri",
+    "optionC": "No one has done this",
+    "optionD": "Viv Richards",
+    "answer": "No one has done this"
+  },
+  {
+    "questionId": 22,
+    "ques": "Who holds the record for most consecutive Test innings without a duck?",
+    "optionA": "David Gower (119)",
+    "optionB": "AB de Villiers (115)",
+    "optionC": "Sachin Tendulkar (112)",
+    "optionD": "Shivnarine Chanderpaul (117)",
+    "answer": "David Gower (119)"
+  },
+  {
+    "questionId": 23,
+    "ques": "Which wicket-keeper effected 11 dismissals in a Test match?",
+    "optionA": "Bob Taylor",
+    "optionB": "Jack Russell",
+    "optionC": "Ian Smith",
+    "optionD": "Matt Prior",
+    "answer": "Bob Taylor"
+  },
+  {
+    "questionId": 24,
+    "ques": "Who scored 1,000 Test runs in a calendar year fastest (in terms of innings)?",
+    "optionA": "Don Bradman",
+    "optionB": "Mohammad Yousuf",
+    "optionC": "Viv Richards",
+    "optionD": "Sunil Gavaskar",
+    "answer": "Don Bradman"
+  },
+  {
+    "questionId": 25,
+    "ques": "Which bowler conceded most runs in an over (77) in first-class cricket?",
+    "optionA": "Bert Vance",
+    "optionB": "Alex Tudor",
+    "optionC": "Wellington bowler",
+    "optionD": "Canterbury bowler",
+    "answer": "Wellington bowler"
+  },
+  {
+    "questionId": 26,
+    "ques": "Who was the first batsman to score 400+ in Test cricket?",
+    "optionA": "Brian Lara",
+    "optionB": "Matthew Hayden",
+    "optionC": "Don Bradman",
+    "optionD": "Len Hutton",
+    "answer": "Brian Lara"
+  },
+  {
+    "questionId": 27,
+    "ques": "Which player has the highest Test score as captain?",
+    "optionA": "Brian Lara (400*)",
+    "optionB": "Mahela Jayawardene (374)",
+    "optionC": "Graham Gooch (333)",
+    "optionD": "Bobby Simpson (311)",
+    "answer": "Brian Lara (400*)"
+  },
+  {
+    "questionId": 28,
+    "ques": "Who took 5 wickets in 6 balls in a first-class match?",
+    "optionA": "W.G. Grace",
+    "optionB": "Pat Pocock",
+    "optionC": "Vyell Walker",
+    "optionD": "V.I. Smith",
+    "answer": "Pat Pocock"
+  },
+  {
+    "questionId": 29,
+    "ques": "Which Test match had the most extras (76) in an innings?",
+    "optionA": "India vs Pakistan, 2007",
+    "optionB": "West Indies vs Pakistan, 1977",
+    "optionC": "England vs Australia, 1989",
+    "optionD": "Pakistan vs India, 1955",
+    "answer": "India vs Pakistan, 2007"
+  },
+  {
+    "questionId": 30,
+    "ques": "Who faced the most balls (970) in a Test match?",
+    "optionA": "Hanif Mohammad",
+    "optionB": "Len Hutton",
+    "optionC": "Gary Kirsten",
+    "optionD": "Bob Simpson",
+    "answer": "Hanif Mohammad"
+  },
+  {
+    "questionId": 31,
+    "ques": "Which bowler took wickets off his 0th, 1st, 2nd, and 3rd balls in Test cricket?",
+    "optionA": "Maurice Allom",
+    "optionB": "Irfan Pathan",
+    "optionC": "Dominic Cork",
+    "optionD": "Both A and B",
+    "answer": "Both A and B"
+  },
+  {
+    "questionId": 32,
+    "ques": "Who has the best bowling strike rate in Test cricket (minimum 200 wickets)?",
+    "optionA": "Dale Steyn",
+    "optionB": "Kagiso Rabada",
+    "optionC": "Malcolm Marshall",
+    "optionD": "Waqar Younis",
+    "answer": "Dale Steyn"
+  },
+  {
+    "questionId": 33,
+    "ques": "Which team scored 952/6 declared in Test cricket?",
+    "optionA": "England",
+    "optionB": "Sri Lanka",
+    "optionC": "Australia",
+    "optionD": "India",
+    "answer": "Sri Lanka"
+  },
+  {
+    "questionId": 34,
+    "ques": "Who was the oldest player to make Test debut at 49 years 119 days?",
+    "optionA": "James Southerton",
+    "optionB": "Miran Bux",
+    "optionC": "Dave Nourse",
+    "optionD": "Bert Ironmonger",
+    "answer": "James Southerton"
+  },
+  {
+    "questionId": 35,
+    "ques": "Which match saw both teams score exactly 187 in their first innings?",
+    "optionA": "England vs Australia, 1882",
+    "optionB": "India vs Australia, 2001",
+    "optionC": "Australia vs England, 1879",
+    "optionD": "West Indies vs England, 1930",
+    "answer": "Australia vs England, 1879"
+  },
+  {
+    "questionId": 36,
+    "ques": "Who took 7 wickets for 1 run in first-class cricket?",
+    "optionA": "Colin Blythe",
+    "optionB": "Hedley Verity",
+    "optionC": "Fred Spofforth",
+    "optionD": "Both A and B",
+    "answer": "Both A and B"
+  },
+  {
+    "questionId": 37,
+    "ques": "Which player scored 628 not out in first-class cricket?",
+    "optionA": "Don Bradman",
+    "optionB": "AE Stoddart",
+    "optionC": "CC Depeiaza",
+    "optionD": "AEJ Collins",
+    "answer": "AEJ Collins"
+  },
+  {
+    "questionId": 38,
+    "ques": "Who holds the record for fastest Test fifty (in minutes)?",
+    "optionA": "Misbah-ul-Haq",
+    "optionB": "Jacques Kallis",
+    "optionC": "David Warner",
+    "optionD": "Mohammad Ashraful",
+    "answer": "Jacques Kallis"
+  },
+  {
+    "questionId": 39,
+    "ques": "Which bowler has taken most Test wickets without playing an ODI?",
+    "optionA": "Sydney Barnes",
+    "optionB": "Fred Trueman",
+    "optionC": "Alec Bedser",
+    "optionD": "Clarrie Grimmett",
+    "answer": "Sydney Barnes"
+  },
+  {
+    "questionId": 40,
+    "ques": "Who was out hit-wicket on 199 in Test cricket?",
+    "optionA": "Wasim Akram",
+    "optionB": "Steve Waugh",
+    "optionC": "Mark Taylor",
+    "optionD": "No one",
+    "answer": "No one"
+  },
+  {
+    "questionId": 41,
+    "ques": "Which Test saw 17 wickets fall on Day 1 for just 157 runs?",
+    "optionA": "Lord's 2000 (Eng vs WI)",
+    "optionB": "Headingley 1972 (Eng vs Aus)",
+    "optionC": "Brisbane 1958 (Aus vs Eng)",
+    "optionD": "Cape Town 2011 (SA vs Aus)",
+    "answer": "Lord's 2000 (Eng vs WI)"
+  },
+  {
+    "questionId": 42,
+    "ques": "Who scored 99 and 96 in the same Test match?",
+    "optionA": "Steve Waugh",
+    "optionB": "Richie Richardson",
+    "optionC": "Ian Bell",
+    "optionD": "All of the above",
+    "answer": "All of the above"
+  },
+  {
+    "questionId": 43,
+    "ques": "Which bowler took 5 wickets before lunch on Test debut?",
+    "optionA": "Tom Richardson",
+    "optionB": "Alec Bedser",
+    "optionC": "Bob Massie",
+    "optionD": "Terry Alderman",
+    "answer": "Tom Richardson"
+  },
+  {
+    "questionId": 44,
+    "ques": "Who scored the slowest ODI fifty (in balls faced)?",
+    "optionA": "Javed Miandad",
+    "optionB": "Chris Tavare",
+    "optionC": "Allan Border",
+    "optionD": "Sanjay Manjrekar",
+    "answer": "Javed Miandad"
+  },
+  {
+    "questionId": 45,
+    "ques": "Which ground has hosted a Test where all 40 wickets fell to spin?",
+    "optionA": "Kanpur",
+    "optionB": "Mumbai",
+    "optionC": "Chennai",
+    "optionD": "Kolkata",
+    "answer": "Mumbai"
+  },
+  {
+    "questionId": 46,
+    "ques": "Who bowled most consecutive dot balls in T20 internationals?",
+    "optionA": "Harbhajan Singh (20)",
+    "optionB": "Saeed Ajmal (18)",
+    "optionC": "Ravichandran Ashwin (19)",
+    "optionD": "Daniel Vettori (17)",
+    "answer": "Harbhajan Singh (20)"
+  },
+  {
+    "questionId": 47,
+    "ques": "Which player scored a century in both innings on Test debut?",
+    "optionA": "Greg Blewett",
+    "optionB": "Lawrence Rowe",
+    "optionC": "Yasir Hameed",
+    "optionD": "All of the above",
+    "answer": "Lawrence Rowe"
+  },
+  {
+    "questionId": 48,
+    "ques": "Who has the best economy rate in Test cricket (minimum 2000 balls)?",
+    "optionA": "Trevor Goddard",
+    "optionB": "Bapu Nadkarni",
+    "optionC": "Jack Iverson",
+    "optionD": "Alf Valentine",
+    "answer": "Trevor Goddard"
+  },
+  {
+    "questionId": 49,
+    "ques": "Which match saw a team win after following on by an innings?",
+    "optionA": "India vs Australia, 2001",
+    "optionB": "England vs Australia, 1894",
+    "optionC": "Both A and B",
+    "optionD": "Never happened",
+    "answer": "Never happened"
+  },
+  {
+    "questionId": 50,
+    "ques": "Who bowled 21 consecutive maiden overs in Test cricket?",
+    "optionA": "Bapu Nadkarni",
+    "optionB": "Hugh Tayfield",
+    "objsonC": "RG Nadkarni",
+    "optionD": "Both A and C are same",
+    "answer": "Both A and C are same"
+  },
+  {
+    "questionId": 51,
+    "ques": "Which player took 4 wickets in 5 balls on ODI debut?",
+    "optionA": "Dennis Lillee",
+    "optionB": "Fidel Edwards",
+    "optionC": "Waqar Younis",
+    "optionD": "Both B and C",
+    "answer": "Fidel Edwards"
+  },
+  {
+    "questionId": 52,
+    "ques": "Who scored most runs in a single day of Test cricket?",
+    "optionA": "Don Bradman (309)",
+    "optionB": "Wally Hammond (336)",
+    "optionC": "Denis Compton (273)",
+    "optionD": "Brian Lara (375)",
+    "answer": "Don Bradman (309)"
+  },
+  {
+    "questionId": 53,
+    "ques": "Which was the first Test to produce four individual centuries?",
+    "optionA": "Adelaide 1947",
+    "optionB": "Manchester 1956",
+    "optionC": "Bridgetown 1930",
+    "optionD": "Kingston 1948",
+    "answer": "Bridgetown 1930"
+  },
+  {
+    "questionId": 54,
+    "ques": "Who has taken most catches as a substitute fielder in Tests?",
+    "optionA": "Younis Khan",
+    "optionB": "Virat Kohli",
+    "optionC": "Ravindra Jadeja",
+    "optionD": "Herschelle Gibbs",
+    "answer": "Younis Khan"
+  },
+  {
+    "questionId": 55,
+    "ques": "Which bowler has the worst bowling figures in an innings (0/298)?",
+    "optionA": "Leslie Hylton",
+    "optionB": "Chuck Fleetwood-Smith",
+    "optionC": "Khan Mohammad",
+    "optionD": "Imran Khan",
+    "answer": "Leslie Hylton"
+  },
+  {
+    "questionId": 56,
+    "ques": "Who scored a triple century at the fastest rate in Test cricket?",
+    "optionA": "Virender Sehwag",
+    "optionB": "Brian Lara",
+    "optionC": "Don Bradman",
+    "optionD": "Chris Gayle",
+    "answer": "Virender Sehwag"
+  },
+  {
+    "questionId": 57,
+    "ques": "Which match saw 35 wickets fall in a single day?",
+    "optionA": "Lord's 1888",
+    "optionB": "The Oval 1896",
+    "optionC": "Manchester 1888",
+    "optionD": "Sydney 1902",
+    "answer": "Lord's 1888"
+  },
+  {
+    "questionId": 58,
+    "ques": "Who hit most sixes in a Test innings (12)?",
+    "optionA": "Brendon McCullum",
+    "optionB": "Wasim Akram",
+    "optionC": "Both A and B",
+    "optionD": "Ben Stokes",
+    "answer": "Both A and B"
+  },
+  {
+    "questionId": 59,
+    "ques": "Which team won a Test by 1 run?",
+    "optionA": "Australia vs England",
+    "optionB": "West Indies vs Australia",
+    "optionC": "England vs Australia",
+    "optionD": "South Africa vs England",
+    "answer": "West Indies vs Australia"
+  },
+  {
+    "questionId": 60,
+    "ques": "Who took most Test wickets in a calendar year?",
+    "optionA": "Dennis Lillee (85 in 1981)",
+    "optionB": "Allan Donald (80 in 1998)",
+    "optionC": "Muttiah Muralitharan (90 in 2000)",
+    "optionD": "Kapil Dev (74 in 1983)",
+    "answer": "Dennis Lillee (85 in 1981)"
+  },
+  {
+    "questionId": 61,
+    "ques": "Which batsman was stranded on 99* when the 10th wicket fell?",
+    "optionA": "Steve Waugh",
+    "optionB": "Donald Bradman",
+    "optionC": "Alex Tudor",
+    "optionD": "All of the above",
+    "answer": "All of the above"
+  },
+  {
+    "questionId": 62,
+    "ques": "Who took 6 wickets in 7 balls in first-class cricket?",
+    "optionA": "Anurag Singh",
+    "optionB": "Vijaykumar Yadav",
+    "optionC": "Both of the above",
+    "optionD": "Joginder Rao",
+    "answer": "Both of the above"
+  },
+  {
+    "questionId": 63,
+    "ques": "Which Test featured four run-outs in a single innings?",
+    "optionA": "Sydney 1993 (Aus vs WI)",
+    "optionB": "Adelaide 2014 (Aus vs Ind)",
+    "optionC": "Lord's 2011 (Eng vs Ind)",
+    "optionD": "Mumbai 2004 (Ind vs Aus)",
+    "answer": "Sydney 1993 (Aus vs WI)"
+  },
+  {
+    "questionId": 64,
+    "ques": "Who batted on all five days of a Test match?",
+    "optionA": "ML Jaisimha",
+    "optionB": "Geoffrey Boycott",
+    "optionC": "Ravi Shastri",
+    "optionD": "All of the above",
+    "answer": "All of the above"
+  },
+  {
+    "questionId": 65,
+    "ques": "Which bowler conceded 6 sixes in an over in first-class cricket first?",
+    "optionA": "Malcolm Nash",
+    "optionB": "Tilak Raj",
+    "optionC": "Roger Iddison",
+    "optionD": "Shawn Tait",
+    "answer": "Malcolm Nash"
+  },
+  {
+    "questionId": 66,
+    "ques": "Who was the youngest Test captain at 20 years 358 days?",
+    "optionA": "Tatenda Taibu",
+    "optionB": "Rashid Khan",
+    "optionC": "Graeme Smith",
+    "optionD": "Waqar Younis",
+    "answer": "Rashid Khan"
+  },
+  {
+    "questionId": 67,
+    "ques": "Which team scored 36 all out in Test cricket?",
+    "optionA": "South Africa",
+    "optionB": "Australia",
+    "optionC": "New Zealand",
+    "optionD": "Both B and C",
+    "answer": "Both B and C"
+  },
+  {
+    "questionId": 68,
+    "ques": "Who took 10 wickets in a day of Test cricket?",
+    "optionA": "Jim Laker",
+    "optionB": "Anil Kumble",
+    "optionC": "Both A and B",
+    "optionD": "Neither",
+    "answer": "Both A and B"
+  },
+  {
+    "questionId": 69,
+    "ques": "Which match had the most ducks (27) in Test cricket?",
+    "optionA": "Auckland 2013 (NZ vs Eng)",
+    "optionB": "Lord's 2018 (Eng vs Ire)",
+    "optionC": "Cape Town 2016 (SA vs Eng)",
+    "optionD": "Perth 2015 (Aus vs NZ)",
+    "answer": "Auckland 2013 (NZ vs Eng)"
+  },
+  {
+    "questionId": 70,
+    "ques": "Who scored 123* batting at number 11 in first-class cricket?",
+    "optionA": "FC Cobden",
+    "optionB": "Thomas Wass",
+    "optionC": "Ted Allsopp",
+    "optionD": "Arnold Warren",
+    "answer": "FC Cobden"
+  },
+  {
+    "questionId": 71,
+    "ques": "Which bowler took 300 Test wickets fastest (in matches)?",
+    "optionA": "Dennis Lillee (56)",
+    "optionB": "Ravichandran Ashwin (54)",
+    "optionC": "Muttiah Muralitharan (58)",
+    "optionD": "Dale Steyn (61)",
+    "answer": "Ravichandran Ashwin (54)"
+  },
+  {
+    "questionId": 72,
+    "ques": "Who faced 77 balls for his maiden Test run?",
+    "optionA": "Tino Best",
+    "optionB": "Geoff Allott",
+    "optionC": "Curtly Ambrose",
+    "optionD": "Glenn McGrath",
+    "answer": "Geoff Allott"
+  },
+  {
+    "questionId": 73,
+    "ques": "Which match featured 15 lbw dismissals?",
+    "optionA": "Mumbai 1999 (Ind vs NZ)",
+    "optionB": "Galle 2001 (SL vs Ind)",
+    "optionC": "Lord's 1991 (Eng vs WI)",
+    "optionD": "Adelaide 1993 (Aus vs WI)",
+    "answer": "Mumbai 1999 (Ind vs NZ)"
+  },
+  {
+    "questionId": 74,
+    "ques": "Who scored 0 and 0* on Test debut?",
+    "optionA": "Marvan Atapattu",
+    "optionB": "Shoaib Bashir",
+    "optionC": "Both of the above",
+    "optionD": "None of the above",
+    "answer": "Both of the above"
+  },
+  {
+    "questionId": 75,
+    "ques": "Which ground saw 19 wickets fall to pace on Day 1 of a Test?",
+    "optionA": "Sabina Park 1998",
+    "optionB": "Perth 2012",
+    "optionC": "Leeds 2000",
+    "optionD": "Green Park 1969",
+    "answer": "Sabina Park 1998"
+  },
+  {
+    "questionId": 76,
+    "ques": "Who bowled most balls in a Test match (774)?",
+    "optionA": "Sonny Ramadhin",
+    "optionB": "Alf Valentine",
+    "optionC": "Brian Lara (as fielder)",
+    "optionD": "Garfield Sobers",
+    "answer": "Sonny Ramadhin"
+  },
+  {
+    "questionId": 77,
+    "ques": "Which batsman was dismissed for 299 in Test cricket?",
+    "optionA": "Don Bradman",
+    "optionB": "Martin Crowe",
+    "optionC": "Ross Taylor",
+    "optionD": "Both B and C",
+    "answer": "Both B and C"
+  },
+  {
+    "questionId": 78,
+    "ques": "Who took 8 wickets without conceding a run in an innings?",
+    "optionA": "Joginder Rao",
+    "optionB": "Premangsu Chatterjee",
+    "optionC": "Ahsan Malik",
+    "optionD": "All of the above",
+    "answer": "All of the above"
+  },
+  {
+    "questionId": 79,
+    "ques": "Which Test had three batsmen score 150+ in the same innings?",
+    "optionA": "Karachi 2009 (Pak vs SL)",
+    "optionB": "St John's 1994 (WI vs Eng)",
+    "optionC": "Adelaide 2012 (Aus vs SA)",
+    "optionD": "All of the above",
+    "answer": "All of the above"
+  },
+  {
+    "questionId": 80,
+    "ques": "Who scored the slowest Test double century (in balls)?",
+    "optionA": "Brendon Kuruppu",
+    "optionB": "Dilip Sardesai",
+    "optionC": "Mudassar Nazar",
+    "optionD": "Glenn Turner",
+    "answer": "Brendon Kuruppu"
+  },
+  {
+    "questionId": 81,
+    "ques": "Which spinner took a wicket off his first ball in Tests and ODIs?",
+    "optionA": "Saqlain Mushtaq",
+    "optionB": "Anil Kumble",
+    "optionC": "Muttiah Muralitharan",
+    "optionD": "None of them",
+    "answer": "None of them"
+  },
+  {
+    "questionId": 82,
+    "ques": "Who has bowled most no-balls in a Test innings (22)?",
+    "optionA": "Sohail Khan",
+    "optionB": "Fidel Edwards",
+    "optionC": "Mitchell Johnson",
+    "optionD": "Mohammad Zahid",
+    "answer": "Sohail Khan"
+  },
+  {
+    "questionId": 83,
+    "ques": "Which team won by 675 runs in Test cricket?",
+    "optionA": "Australia vs England",
+    "optionB": "England vs Australia",
+    "optionC": "South Africa vs Australia",
+    "optionD": "Australia vs South Africa",
+    "answer": "England vs Australia"
+  },
+  {
+    "questionId": 84,
+    "ques": "Who scored a century before lunch on Day 1 of his debut Test?",
+    "optionA": "Shikhar Dhawan",
+    "optionB": "Dwayne Smith",
+    "optionC": "Both of the above",
+    "optionD": "Neither",
+    "answer": "Both of the above"
+  },
+  {
+    "questionId": 85,
+    "ques": "Which bowler took 16 wickets in a day of first-class cricket?",
+    "optionA": "Hedley Verity",
+    "optionB": "Jim Laker",
+    "optionC": "Colin Blythe",
+    "optionD": "Tom Goddard",
+    "answer": "Hedley Verity"
+  },
+  {
+    "questionId": 86,
+    "ques": "Who scored 268 runs on Test debut?",
+    "optionA": "Bob Massie",
+    "optionB": "Tip Foster",
+    "optionC": "Charles Bannerman",
+    "optionD": "Frank Worrell",
+    "answer": "Tip Foster"
+  },
+  {
+    "questionId": 87,
+    "ques": "Which match saw 7 batsmen dismissed in the 90s?",
+    "optionA": "Jo'burg 2006 (SA vs Ind)",
+    "optionB": "Perth 2012 (Aus vs Ind)",
+    "optionC": "Lord's 1990 (Eng vs Ind)",
+    "optionD": "Sydney 2008 (Aus vs Ind)",
+    "answer": "Perth 2012 (Aus vs Ind)"
+  },
+  {
+    "questionId": 88,
+    "ques": "Who took 4 wickets in 4 balls on Test debut?",
+    "optionA": "Maurice Allom",
+    "optionB": "Chris Old",
+    "optionC": "Wasim Akram",
+    "optionD": "None of them on debut",
+    "answer": "Maurice Allom"
+  },
+  {
+    "questionId": 89,
+    "ques": "Which batsman scored 54 and 46 batting at number 11?",
+    "optionA": "Ashton Agar",
+    "optionB": "Tino Best",
+    "optionC": "Jason Gillespie",
+    "optionD": "Zaheer Khan",
+    "answer": "Ashton Agar"
+  },
+  {
+    "questionId": 90,
+    "ques": "Who has the best bowling average in Test cricket (min 25 wickets)?",
+    "optionA": "George Lohmann",
+    "optionB": "Sydney Barnes",
+    "optionC": "Charlie Turner",
+    "optionD": "Allan Steel",
+    "answer": "George Lohmann"
+  },
+  {
+    "questionId": 91,
+    "ques": "Which Test had only 5 runs scored off the bat in an innings?",
+    "optionA": "Manchester 1956",
+    "optionB": "Birmingham 1906",
+    "optionC": "Auckland 1946",
+    "optionD": "Never happened",
+    "answer": "Never happened"
+  },
+  {
+    "questionId": 92,
+    "ques": "Who took 5 wickets in an innings most consecutively (7 times)?",
+    "optionA": "Waqar Younis",
+    "optionB": "Rangana Herath",
+    "optionC": "Clarrie Grimmett",
+    "optionD": "Muttiah Muralitharan",
+    "answer": "Waqar Younis"
+  },
+  {
+    "questionId": 93,
+    "ques": "Which batsman made 6 ducks in consecutive Test innings?",
+    "optionA": "Ajit Wadekar",
+    "optionB": "Danny Morrison",
+    "optionC": "Bob Holland",
+    "optionD": "All made 5, not 6",
+    "answer": "All made 5, not 6"
+  },
+  {
+    "questionId": 94,
+    "ques": "Who scored most Test runs without a six?",
+    "optionA": "Rahul Dravid",
+    "optionB": "Allan Border",
+    "optionC": "Geoffrey Boycott",
+    "optionD": "Ken Barrington",
+    "answer": "Ken Barrington"
+  },
+  {
+    "questionId": 95,
+    "ques": "Which Test saw a team score 400+ in fourth innings to win?",
+    "optionA": "Port of Spain 2003",
+    "optionB": "Perth 2008",
+    "optionC": "Chennai 2008",
+    "optionD": "All of the above",
+    "answer": "All of the above"
+  },
+  {
+    "questionId": 96,
+    "ques": "Who took most wickets in a first-class season (304)?",
+    "optionA": "Tich Freeman",
+    "optionB": "Wilfred Rhodes",
+    "optionC": "Charlie Turner",
+    "optionD": "Tom Richardson",
+    "answer": "Tich Freeman"
+  },
+  {
+    "questionId": 97,
+    "ques": "Which player appeared in most consecutive Test matches (153)?",
+    "optionA": "Allan Border",
+    "optionB": "Mark Waugh",
+    "optionC": "Sunil Gavaskar",
+    "optionD": "Alastair Cook",
+    "answer": "Allan Border"
+  },
+  {
+    "questionId": 98,
+    "ques": "Who scored 67* in both innings of a Test match three times?",
+    "optionA": "Michael Atherton",
+    "optionB": "No one",
+    "optionC": "Alec Stewart",
+    "optionD": "Graham Thorpe",
+    "answer": "Michael Atherton"
+  },
+  {
+    "questionId": 99,
+    "ques": "Which bowler took 17 five-wicket hauls without a ten-wicket match haul?",
+    "optionA": "Brett Lee",
+    "optionB": "Stuart Broad",
+    "optionC": "Neil Wagner",
+    "optionD": "Tim Southee",
+    "answer": "Brett Lee"
+  },
+  {
+    "questionId": 100,
+    "ques": "Who dismissed Don Bradman for a duck in his final Test innings?",
+    "optionA": "Eric Hollies",
+    "optionB": "Alec Bedser",
+    "optionC": "Jim Laker",
+    "optionD": "Ray Lindwall",
+    "answer": "Eric Hollies"
+  }
+]

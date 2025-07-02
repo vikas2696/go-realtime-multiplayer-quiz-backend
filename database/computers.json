@@ -1,0 +1,1245 @@
+[
+  {
+    "questionId": 1,
+    "ques": "What does CPU stand for?",
+    "optionA": "Central Processing Unit",
+    "optionB": "Computer Processing Unit",
+    "optionC": "Central Program Unit",
+    "optionD": "Computer Program Unit",
+    "answer": "Central Processing Unit"
+  },
+  {
+    "questionId": 2,
+    "ques": "Which programming language is known for its use in web development and has a snake as its mascot?",
+    "optionA": "Java",
+    "optionB": "Python",
+    "optionC": "Ruby",
+    "optionD": "JavaScript",
+    "answer": "Python"
+  },
+  {
+    "questionId": 3,
+    "ques": "What does HTTP stand for?",
+    "optionA": "HyperText Transfer Protocol",
+    "optionB": "HyperText Transmission Protocol",
+    "optionC": "HyperTransfer Text Protocol",
+    "optionD": "High Transfer Text Protocol",
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "questionId": 4,
+    "ques": "Which data structure follows the LIFO (Last In, First Out) principle?",
+    "optionA": "Queue",
+    "optionB": "Array",
+    "optionC": "Stack",
+    "optionD": "Linked List",
+    "answer": "Stack"
+  },
+  {
+    "questionId": 5,
+    "ques": "What is the binary representation of the decimal number 10?",
+    "optionA": "1010",
+    "optionB": "1100",
+    "optionC": "1001",
+    "optionD": "1110",
+    "answer": "1010"
+  },
+  {
+    "questionId": 6,
+    "ques": "Which company developed the Java programming language?",
+    "optionA": "Microsoft",
+    "optionB": "Sun Microsystems",
+    "optionC": "Apple",
+    "optionD": "IBM",
+    "answer": "Sun Microsystems"
+  },
+  {
+    "questionId": 7,
+    "ques": "What does SQL stand for?",
+    "optionA": "Structured Query Language",
+    "optionB": "Standard Query Language",
+    "optionC": "Simple Query Language",
+    "optionD": "System Query Language",
+    "answer": "Structured Query Language"
+  },
+  {
+    "questionId": 8,
+    "ques": "Which of the following is NOT an operating system?",
+    "optionA": "Windows",
+    "optionB": "macOS",
+    "optionC": "Linux",
+    "optionD": "Oracle",
+    "answer": "Oracle"
+  },
+  {
+    "questionId": 9,
+    "ques": "What is the time complexity of binary search?",
+    "optionA": "O(n)",
+    "optionB": "O(log n)",
+    "optionC": "O(n²)",
+    "optionD": "O(1)",
+    "answer": "O(log n)"
+  },
+  {
+    "questionId": 10,
+    "ques": "Which protocol is used for secure web browsing?",
+    "optionA": "HTTP",
+    "optionB": "HTTPS",
+    "optionC": "FTP",
+    "optionD": "SMTP",
+    "answer": "HTTPS"
+  },
+  {
+    "questionId": 11,
+    "ques": "What does RAM stand for?",
+    "optionA": "Read Access Memory",
+    "optionB": "Random Access Memory",
+    "optionC": "Rapid Access Memory",
+    "optionD": "Remote Access Memory",
+    "answer": "Random Access Memory"
+  },
+  {
+    "questionId": 12,
+    "ques": "Which programming paradigm does Python primarily support?",
+    "optionA": "Object-oriented only",
+    "optionB": "Functional only",
+    "optionC": "Multi-paradigm",
+    "optionD": "Procedural only",
+    "answer": "Multi-paradigm"
+  },
+  {
+    "questionId": 13,
+    "ques": "What is the maximum number of characters in a Tweet on Twitter (as of 2023)?",
+    "optionA": "140",
+    "optionB": "280",
+    "optionC": "320",
+    "optionD": "500",
+    "answer": "280"
+  },
+  {
+    "questionId": 14,
+    "ques": "Which sorting algorithm has the best average-case time complexity?",
+    "optionA": "Bubble Sort",
+    "optionB": "Selection Sort",
+    "optionC": "Quick Sort",
+    "optionD": "Insertion Sort",
+    "answer": "Quick Sort"
+  },
+  {
+    "questionId": 15,
+    "ques": "What does API stand for?",
+    "optionA": "Application Programming Interface",
+    "optionB": "Advanced Programming Interface",
+    "optionC": "Automated Programming Interface",
+    "optionD": "Application Process Interface",
+    "answer": "Application Programming Interface"
+  },
+  {
+    "questionId": 16,
+    "ques": "Which database management system is known for being NoSQL?",
+    "optionA": "MySQL",
+    "optionB": "PostgreSQL",
+    "optionC": "MongoDB",
+    "optionD": "Oracle",
+    "answer": "MongoDB"
+  },
+  {
+    "questionId": 17,
+    "ques": "What is the standard port number for HTTP?",
+    "optionA": "21",
+    "optionB": "25",
+    "optionC": "80",
+    "optionD": "443",
+    "answer": "80"
+  },
+  {
+    "questionId": 18,
+    "ques": "Which programming language is primarily used for iOS app development?",
+    "optionA": "Java",
+    "optionB": "Swift",
+    "optionC": "Kotlin",
+    "optionD": "C#",
+    "answer": "Swift"
+  },
+  {
+    "questionId": 19,
+    "ques": "What does CSS stand for?",
+    "optionA": "Computer Style Sheets",
+    "optionB": "Creative Style Sheets",
+    "optionC": "Cascading Style Sheets",
+    "optionD": "Colorful Style Sheets",
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "questionId": 20,
+    "ques": "Which data structure is best for implementing a priority queue?",
+    "optionA": "Array",
+    "optionB": "Linked List",
+    "optionC": "Heap",
+    "optionD": "Stack",
+    "answer": "Heap"
+  },
+  {
+    "questionId": 21,
+    "ques": "What is the purpose of the 'git clone' command?",
+    "optionA": "Create a new repository",
+    "optionB": "Copy a repository from remote to local",
+    "optionC": "Delete a repository",
+    "optionD": "Merge two repositories",
+    "answer": "Copy a repository from remote to local"
+  },
+  {
+    "questionId": 22,
+    "ques": "Which company owns GitHub?",
+    "optionA": "Google",
+    "optionB": "Microsoft",
+    "optionC": "Facebook",
+    "optionD": "Amazon",
+    "answer": "Microsoft"
+  },
+  {
+    "questionId": 23,
+    "ques": "What does JSON stand for?",
+    "optionA": "JavaScript Object Notation",
+    "optionB": "Java Standard Object Notation",
+    "optionC": "JavaScript Oriented Notation",
+    "optionD": "Java Script Object Network",
+    "answer": "JavaScript Object Notation"
+  },
+  {
+    "questionId": 24,
+    "ques": "Which algorithm is used for finding the shortest path in a graph?",
+    "optionA": "Bubble Sort",
+    "optionB": "Dijkstra's Algorithm",
+    "optionC": "Binary Search",
+    "optionD": "Quick Sort",
+    "answer": "Dijkstra's Algorithm"
+  },
+  {
+    "questionId": 25,
+    "ques": "What is the default port for HTTPS?",
+    "optionA": "80",
+    "optionB": "443",
+    "optionC": "8080",
+    "optionD": "22",
+    "answer": "443"
+  },
+  {
+    "questionId": 26,
+    "ques": "Which programming language is known as the 'mother of all languages'?",
+    "optionA": "Assembly",
+    "optionB": "C",
+    "optionC": "FORTRAN",
+    "optionD": "COBOL",
+    "answer": "C"
+  },
+  {
+    "questionId": 27,
+    "ques": "What does IDE stand for?",
+    "optionA": "Integrated Development Environment",
+    "optionB": "Interactive Development Environment",
+    "optionC": "Internet Development Environment",
+    "optionD": "Internal Development Environment",
+    "answer": "Integrated Development Environment"
+  },
+  {
+    "questionId": 28,
+    "ques": "Which technology is used to style web pages?",
+    "optionA": "HTML",
+    "optionB": "JavaScript",
+    "optionC": "CSS",
+    "optionD": "PHP",
+    "answer": "CSS"
+  },
+  {
+    "questionId": 29,
+    "ques": "What is the primary purpose of a firewall?",
+    "optionA": "Speed up internet connection",
+    "optionB": "Block unauthorized access",
+    "optionC": "Compress data",
+    "optionD": "Store passwords",
+    "answer": "Block unauthorized access"
+  },
+  {
+    "questionId": 30,
+    "ques": "Which of the following is a version control system?",
+    "optionA": "MySQL",
+    "optionB": "Git",
+    "optionC": "Apache",
+    "optionD": "Node.js",
+    "answer": "Git"
+  },
+  {
+    "questionId": 31,
+    "ques": "What does URL stand for?",
+    "optionA": "Universal Resource Locator",
+    "optionB": "Uniform Resource Locator",
+    "optionC": "Universal Reference Link",
+    "optionD": "Uniform Reference Link",
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "questionId": 32,
+    "ques": "Which data type in programming can store decimal numbers?",
+    "optionA": "Integer",
+    "optionB": "Boolean",
+    "optionC": "Float",
+    "optionD": "Character",
+    "answer": "Float"
+  },
+  {
+    "questionId": 33,
+    "ques": "What is the main purpose of DNS?",
+    "optionA": "Encrypt data",
+    "optionB": "Translate domain names to IP addresses",
+    "optionC": "Compress files",
+    "optionD": "Store cookies",
+    "answer": "Translate domain names to IP addresses"
+  },
+  {
+    "questionId": 34,
+    "ques": "Which company developed the C++ programming language?",
+    "optionA": "Microsoft",
+    "optionB": "Bell Labs",
+    "optionC": "IBM",
+    "optionD": "Google",
+    "answer": "Bell Labs"
+  },
+  {
+    "questionId": 35,
+    "ques": "What is the time complexity of accessing an element in an array by index?",
+    "optionA": "O(1)",
+    "optionB": "O(n)",
+    "optionC": "O(log n)",
+    "optionD": "O(n²)",
+    "answer": "O(1)"
+  },
+  {
+    "questionId": 36,
+    "ques": "Which protocol is used for sending emails?",
+    "optionA": "HTTP",
+    "optionB": "FTP",
+    "optionC": "SMTP",
+    "optionD": "POP3",
+    "answer": "SMTP"
+  },
+  {
+    "questionId": 37,
+    "ques": "What does XML stand for?",
+    "optionA": "eXtreme Markup Language",
+    "optionB": "eXtensible Markup Language",
+    "optionC": "eXtra Modern Language",
+    "optionD": "eXecutable Markup Language",
+    "answer": "eXtensible Markup Language"
+  },
+  {
+    "questionId": 38,
+    "ques": "Which of the following is a cloud computing service?",
+    "optionA": "Adobe Photoshop",
+    "optionB": "Microsoft Word",
+    "optionC": "Amazon Web Services",
+    "optionD": "VLC Media Player",
+    "answer": "Amazon Web Services"
+  },
+  {
+    "questionId": 1,
+    "ques": "What is the time complexity of merge sort?",
+    "optionA": "O(n)",
+    "optionB": "O(n log n)",
+    "optionC": "O(n²)",
+    "optionD": "O(log n)",
+    "answer": "O(n log n)"
+  },
+  {
+    "questionId": 2,
+    "ques": "Which data structure uses LIFO principle?",
+    "optionA": "Queue",
+    "optionB": "Stack",
+    "optionC": "Array",
+    "optionD": "Tree",
+    "answer": "Stack"
+  },
+  {
+    "questionId": 3,
+    "ques": "What is the purpose of a virtual memory?",
+    "optionA": "Increase CPU speed",
+    "optionB": "Store temporary files",
+    "optionC": "Extend available memory using disk space",
+    "optionD": "Cache frequently used data",
+    "answer": "Extend available memory using disk space"
+  },
+  {
+    "questionId": 4,
+    "ques": "Which normal form removes partial dependencies?",
+    "optionA": "1NF",
+    "optionB": "2NF",
+    "optionC": "3NF",
+    "optionD": "BCNF",
+    "answer": "2NF"
+  },
+  {
+    "questionId": 5,
+    "ques": "What layer of OSI model handles routing?",
+    "optionA": "Physical Layer",
+    "optionB": "Data Link Layer",
+    "optionC": "Network Layer",
+    "optionD": "Transport Layer",
+    "answer": "Network Layer"
+  },
+  {
+    "questionId": 6,
+    "ques": "Which sorting algorithm has the best average case time complexity?",
+    "optionA": "Bubble Sort",
+    "optionB": "Quick Sort",
+    "optionC": "Insertion Sort",
+    "optionD": "Selection Sort",
+    "answer": "Quick Sort"
+  },
+  {
+    "questionId": 7,
+    "ques": "What is a deadlock in operating systems?",
+    "optionA": "System crash",
+    "optionB": "Infinite loop",
+    "optionC": "Circular wait for resources",
+    "optionD": "Memory overflow",
+    "answer": "Circular wait for resources"
+  },
+  {
+    "questionId": 8,
+    "ques": "Which SQL command is used to remove a table?",
+    "optionA": "DELETE",
+    "optionB": "DROP",
+    "optionC": "TRUNCATE",
+    "optionD": "REMOVE",
+    "answer": "DROP"
+  },
+  {
+    "questionId": 9,
+    "ques": "What is the maximum number of nodes at level k in a binary tree?",
+    "optionA": "2^k",
+    "optionB": "2^(k-1)",
+    "optionC": "2^(k+1)",
+    "optionD": "k^2",
+    "answer": "2^k"
+  },
+  {
+    "questionId": 10,
+    "ques": "Which protocol is used for secure web browsing?",
+    "optionA": "HTTP",
+    "optionB": "FTP",
+    "optionC": "HTTPS",
+    "optionD": "SMTP",
+    "answer": "HTTPS"
+  },
+  {
+    "questionId": 11,
+    "ques": "What is the worst-case time complexity of binary search?",
+    "optionA": "O(1)",
+    "optionB": "O(log n)",
+    "optionC": "O(n)",
+    "optionD": "O(n log n)",
+    "answer": "O(log n)"
+  },
+  {
+    "questionId": 12,
+    "ques": "Which scheduling algorithm can cause starvation?",
+    "optionA": "Round Robin",
+    "optionB": "FCFS",
+    "optionC": "Priority Scheduling",
+    "optionD": "Shortest Job First",
+    "answer": "Priority Scheduling"
+  },
+  {
+    "questionId": 13,
+    "ques": "What does ACID stand for in database transactions?",
+    "optionA": "Atomicity, Consistency, Isolation, Durability",
+    "optionB": "Addition, Consistency, Integration, Database",
+    "optionC": "Atomicity, Concurrency, Isolation, Database",
+    "optionD": "Access, Control, Isolation, Durability",
+    "answer": "Atomicity, Consistency, Isolation, Durability"
+  },
+  {
+    "questionId": 14,
+    "ques": "Which data structure is used in BFS algorithm?",
+    "optionA": "Stack",
+    "optionB": "Queue",
+    "optionC": "Array",
+    "optionD": "Heap",
+    "answer": "Queue"
+  },
+  {
+    "questionId": 15,
+    "ques": "What is the port number for HTTP?",
+    "optionA": "21",
+    "optionB": "80",
+    "optionC": "443",
+    "optionD": "25",
+    "answer": "80"
+  },
+  {
+    "questionId": 16,
+    "ques": "Which design pattern ensures a class has only one instance?",
+    "optionA": "Factory Pattern",
+    "optionB": "Singleton Pattern",
+    "optionC": "Observer Pattern",
+    "optionD": "Strategy Pattern",
+    "answer": "Singleton Pattern"
+  },
+  {
+    "questionId": 17,
+    "ques": "What is the size of int in a 32-bit system?",
+    "optionA": "2 bytes",
+    "optionB": "4 bytes",
+    "optionC": "8 bytes",
+    "optionD": "16 bytes",
+    "answer": "4 bytes"
+  },
+  {
+    "questionId": 18,
+    "ques": "Which algorithm is used for minimum spanning tree?",
+    "optionA": "Dijkstra's",
+    "optionB": "Floyd-Warshall",
+    "optionC": "Kruskal's",
+    "optionD": "Bellman-Ford",
+    "answer": "Kruskal's"
+  },
+  {
+    "questionId": 19,
+    "ques": "What is a race condition?",
+    "optionA": "Fast execution of code",
+    "optionB": "Competition between processes",
+    "optionC": "Unpredictable behavior due to timing of events",
+    "optionD": "Optimized algorithm",
+    "answer": "Unpredictable behavior due to timing of events"
+  },
+  {
+    "questionId": 20,
+    "ques": "Which JOIN returns all rows when there's a match in either table?",
+    "optionA": "INNER JOIN",
+    "optionB": "LEFT JOIN",
+    "optionC": "RIGHT JOIN",
+    "optionD": "FULL OUTER JOIN",
+    "answer": "FULL OUTER JOIN"
+  },
+  {
+    "questionId": 21,
+    "ques": "What is the time complexity of heap sort?",
+    "optionA": "O(n)",
+    "optionB": "O(n log n)",
+    "optionC": "O(n²)",
+    "optionD": "O(log n)",
+    "answer": "O(n log n)"
+  },
+  {
+    "questionId": 22,
+    "ques": "Which memory allocation is done at compile time?",
+    "optionA": "Static",
+    "optionB": "Dynamic",
+    "optionC": "Heap",
+    "optionD": "Stack",
+    "answer": "Static"
+  },
+  {
+    "questionId": 23,
+    "ques": "What is the purpose of an index in a database?",
+    "optionA": "Store data",
+    "optionB": "Speed up data retrieval",
+    "optionC": "Encrypt data",
+    "optionD": "Compress data",
+    "answer": "Speed up data retrieval"
+  },
+  {
+    "questionId": 24,
+    "ques": "Which traversal of BST gives sorted order?",
+    "optionA": "Preorder",
+    "optionB": "Inorder",
+    "optionC": "Postorder",
+    "optionD": "Level order",
+    "answer": "Inorder"
+  },
+  {
+    "questionId": 25,
+    "ques": "What is the subnet mask for a Class C network?",
+    "optionA": "255.0.0.0",
+    "optionB": "255.255.0.0",
+    "optionC": "255.255.255.0",
+    "optionD": "255.255.255.255",
+    "answer": "255.255.255.0"
+  },
+  {
+    "questionId": 26,
+    "ques": "Which keyword is used for inheritance in Java?",
+    "optionA": "inherits",
+    "optionB": "extends",
+    "optionC": "implements",
+    "optionD": "derives",
+    "answer": "extends"
+  },
+  {
+    "questionId": 27,
+    "ques": "What is thrashing in OS?",
+    "optionA": "High CPU usage",
+    "optionB": "Excessive paging activity",
+    "optionC": "Memory leak",
+    "optionD": "Disk failure",
+    "answer": "Excessive paging activity"
+  },
+  {
+    "questionId": 28,
+    "ques": "Which data structure is used to implement recursion?",
+    "optionA": "Queue",
+    "optionB": "Stack",
+    "optionC": "Array",
+    "optionD": "Linked List",
+    "answer": "Stack"
+  },
+  {
+    "questionId": 29,
+    "ques": "What is the main purpose of DNS?",
+    "optionA": "Data encryption",
+    "optionB": "File transfer",
+    "optionC": "Domain name to IP resolution",
+    "optionD": "Email routing",
+    "answer": "Domain name to IP resolution"
+  },
+  {
+    "questionId": 30,
+    "ques": "Which algorithm uses divide and conquer approach?",
+    "optionA": "Linear Search",
+    "optionB": "Bubble Sort",
+    "optionC": "Merge Sort",
+    "optionD": "Insertion Sort",
+    "answer": "Merge Sort"
+  },
+  {
+    "questionId": 31,
+    "ques": "What is a semaphore used for?",
+    "optionA": "Memory management",
+    "optionB": "Process synchronization",
+    "optionC": "File handling",
+    "optionD": "Network communication",
+    "answer": "Process synchronization"
+  },
+  {
+    "questionId": 32,
+    "ques": "Which SQL clause is used to filter groups?",
+    "optionA": "WHERE",
+    "optionB": "GROUP BY",
+    "optionC": "HAVING",
+    "optionD": "ORDER BY",
+    "answer": "HAVING"
+  },
+  {
+    "questionId": 33,
+    "ques": "What is the height of a complete binary tree with n nodes?",
+    "optionA": "log n",
+    "optionB": "floor(log n)",
+    "optionC": "ceil(log n)",
+    "optionD": "n/2",
+    "answer": "floor(log n)"
+  },
+  {
+    "questionId": 34,
+    "ques": "Which layer provides end-to-end communication?",
+    "optionA": "Network Layer",
+    "optionB": "Transport Layer",
+    "optionC": "Session Layer",
+    "optionD": "Application Layer",
+    "answer": "Transport Layer"
+  },
+  {
+    "questionId": 35,
+    "ques": "What is polymorphism in OOP?",
+    "optionA": "Multiple inheritance",
+    "optionB": "Data hiding",
+    "optionC": "Multiple forms of a function",
+    "optionD": "Code reusability",
+    "answer": "Multiple forms of a function"
+  },
+  {
+    "questionId": 36,
+    "ques": "Which page replacement algorithm is optimal?",
+    "optionA": "FIFO",
+    "optionB": "LRU",
+    "optionC": "Optimal Page Replacement",
+    "optionD": "Clock Algorithm",
+    "answer": "Optimal Page Replacement"
+  },
+  {
+    "questionId": 37,
+    "ques": "What is the primary key in a database?",
+    "optionA": "Any unique column",
+    "optionB": "First column of table",
+    "optionC": "Unique identifier for each row",
+    "optionD": "Foreign key reference",
+    "answer": "Unique identifier for each row"
+  },
+  {
+    "questionId": 38,
+    "ques": "Which data structure is used in DFS?",
+    "optionA": "Queue",
+    "optionB": "Stack",
+    "optionC": "Array",
+    "optionD": "Heap",
+    "answer": "Stack"
+  },
+  {
+    "questionId": 39,
+    "ques": "What is the default port for HTTPS?",
+    "optionA": "80",
+    "optionB": "443",
+    "optionC": "21",
+    "optionD": "22",
+    "answer": "443"
+  },
+  {
+    "questionId": 40,
+    "ques": "Which design pattern defines a family of algorithms?",
+    "optionA": "Factory Pattern",
+    "optionB": "Strategy Pattern",
+    "optionC": "Singleton Pattern",
+    "optionD": "Observer Pattern",
+    "answer": "Strategy Pattern"
+  },
+  {
+    "questionId": 41,
+    "ques": "What is the space complexity of merge sort?",
+    "optionA": "O(1)",
+    "optionB": "O(n)",
+    "optionC": "O(log n)",
+    "optionD": "O(n²)",
+    "answer": "O(n)"
+  },
+  {
+    "questionId": 42,
+    "ques": "Which system call creates a new process?",
+    "optionA": "exec()",
+    "optionB": "fork()",
+    "optionC": "wait()",
+    "optionD": "exit()",
+    "answer": "fork()"
+  },
+  {
+    "questionId": 43,
+    "ques": "What is normalization in databases?",
+    "optionA": "Adding indexes",
+    "optionB": "Organizing data to reduce redundancy",
+    "optionC": "Query optimization",
+    "optionD": "Data encryption",
+    "answer": "Organizing data to reduce redundancy"
+  },
+  {
+    "questionId": 44,
+    "ques": "Which tree is always balanced?",
+    "optionA": "Binary Tree",
+    "optionB": "BST",
+    "optionC": "AVL Tree",
+    "optionD": "B Tree",
+    "answer": "AVL Tree"
+  },
+  {
+    "questionId": 45,
+    "ques": "What protocol does ping command use?",
+    "optionA": "TCP",
+    "optionB": "UDP",
+    "optionC": "ICMP",
+    "optionD": "ARP",
+    "answer": "ICMP"
+  },
+  {
+    "questionId": 46,
+    "ques": "What is encapsulation in OOP?",
+    "optionA": "Inheritance",
+    "optionB": "Data hiding",
+    "optionC": "Polymorphism",
+    "optionD": "Abstraction",
+    "answer": "Data hiding"
+  },
+  {
+    "questionId": 47,
+    "ques": "Which scheduling algorithm has minimum average waiting time?",
+    "optionA": "FCFS",
+    "optionB": "SJF",
+    "optionC": "Round Robin",
+    "optionD": "Priority",
+    "answer": "SJF"
+  },
+  {
+    "questionId": 48,
+    "ques": "What is a foreign key?",
+    "optionA": "Primary key of same table",
+    "optionB": "Unique key",
+    "optionC": "Reference to primary key of another table",
+    "optionD": "Index key",
+    "answer": "Reference to primary key of another table"
+  },
+  {
+    "questionId": 49,
+    "ques": "What is the time complexity to search in a hash table?",
+    "optionA": "O(1) average case",
+    "optionB": "O(n)",
+    "optionC": "O(log n)",
+    "optionD": "O(n²)",
+    "answer": "O(1) average case"
+  },
+  {
+    "questionId": 50,
+    "ques": "Which topology has a central hub?",
+    "optionA": "Bus",
+    "optionB": "Ring",
+    "optionC": "Star",
+    "optionD": "Mesh",
+    "answer": "Star"
+  },
+  {
+    "questionId": 51,
+    "ques": "What is method overloading?",
+    "optionA": "Same method name with different parameters",
+    "optionB": "Overriding parent method",
+    "optionC": "Abstract method",
+    "optionD": "Static method",
+    "answer": "Same method name with different parameters"
+  },
+  {
+    "questionId": 52,
+    "ques": "What is a mutex?",
+    "optionA": "Memory unit",
+    "optionB": "Mutual exclusion lock",
+    "optionC": "Multi-threading",
+    "optionD": "Memory extension",
+    "answer": "Mutual exclusion lock"
+  },
+  {
+    "questionId": 53,
+    "ques": "Which command shows database schema in SQL?",
+    "optionA": "SHOW",
+    "optionB": "DESCRIBE",
+    "optionC": "EXPLAIN",
+    "optionD": "VIEW",
+    "answer": "DESCRIBE"
+  },
+  {
+    "questionId": 54,
+    "ques": "What is a self-balancing BST?",
+    "optionA": "A tree that maintains height balance",
+    "optionB": "A tree with equal nodes",
+    "optionC": "A complete tree",
+    "optionD": "A perfect tree",
+    "answer": "A tree that maintains height balance"
+  },
+  {
+    "questionId": 55,
+    "ques": "What is the maximum window size in TCP?",
+    "optionA": "16 bits",
+    "optionB": "32 bits",
+    "optionC": "64 bits",
+    "optionD": "128 bits",
+    "answer": "16 bits"
+  },
+  {
+    "questionId": 56,
+    "ques": "Which keyword makes a variable constant in C++?",
+    "optionA": "static",
+    "optionB": "const",
+    "optionC": "final",
+    "optionD": "fixed",
+    "answer": "const"
+  },
+  {
+    "questionId": 57,
+    "ques": "What is internal fragmentation?",
+    "optionA": "Unused memory within allocated block",
+    "optionB": "Memory between blocks",
+    "optionC": "Disk fragmentation",
+    "optionD": "Cache fragmentation",
+    "answer": "Unused memory within allocated block"
+  },
+  {
+    "questionId": 58,
+    "ques": "What is a view in database?",
+    "optionA": "Physical table",
+    "optionB": "Virtual table",
+    "optionC": "Index",
+    "optionD": "Schema",
+    "answer": "Virtual table"
+  },
+  {
+    "questionId": 59,
+    "ques": "Which algorithm finds shortest path from source to all vertices?",
+    "optionA": "Kruskal's",
+    "optionB": "Prim's",
+    "optionC": "Dijkstra's",
+    "optionD": "Floyd-Warshall",
+    "answer": "Dijkstra's"
+  },
+  {
+    "questionId": 60,
+    "ques": "What is ARP used for?",
+    "optionA": "IP to MAC resolution",
+    "optionB": "MAC to IP resolution",
+    "optionC": "DNS resolution",
+    "optionD": "Routing",
+    "answer": "IP to MAC resolution"
+  },
+  {
+    "questionId": 61,
+    "ques": "What is an abstract class?",
+    "optionA": "Class with all abstract methods",
+    "optionB": "Class that cannot be instantiated",
+    "optionC": "Interface",
+    "optionD": "Final class",
+    "answer": "Class that cannot be instantiated"
+  },
+  {
+    "questionId": 62,
+    "ques": "Which file system is used in Linux?",
+    "optionA": "NTFS",
+    "optionB": "FAT32",
+    "optionC": "ext4",
+    "optionD": "HFS+",
+    "answer": "ext4"
+  },
+  {
+    "questionId": 63,
+    "ques": "What is a trigger in database?",
+    "optionA": "Stored procedure",
+    "optionB": "Automatic procedure on data modification",
+    "optionC": "Index",
+    "optionD": "Constraint",
+    "answer": "Automatic procedure on data modification"
+  },
+  {
+    "questionId": 64,
+    "ques": "What is the maximum height of an AVL tree with n nodes?",
+    "optionA": "log n",
+    "optionB": "1.44 log n",
+    "optionC": "2 log n",
+    "optionD": "n",
+    "answer": "1.44 log n"
+  },
+  {
+    "questionId": 65,
+    "ques": "Which device operates at Data Link Layer?",
+    "optionA": "Router",
+    "optionB": "Switch",
+    "optionC": "Hub",
+    "optionD": "Gateway",
+    "answer": "Switch"
+  },
+  {
+    "questionId": 66,
+    "ques": "What is a lambda function?",
+    "optionA": "Named function",
+    "optionB": "Anonymous function",
+    "optionC": "Recursive function",
+    "optionD": "Main function",
+    "answer": "Anonymous function"
+  },
+  {
+    "questionId": 67,
+    "ques": "What is context switching?",
+    "optionA": "Switching between users",
+    "optionB": "Switching between processes",
+    "optionC": "Switching between threads",
+    "optionD": "Switching between CPU modes",
+    "answer": "Switching between processes"
+  },
+  {
+    "questionId": 68,
+    "ques": "What is denormalization?",
+    "optionA": "Removing redundancy",
+    "optionB": "Adding redundancy for performance",
+    "optionC": "Creating indexes",
+    "optionD": "Data validation",
+    "answer": "Adding redundancy for performance"
+  },
+  {
+    "questionId": 69,
+    "ques": "Which traversal requires queue data structure?",
+    "optionA": "Inorder",
+    "optionB": "Preorder",
+    "optionC": "Postorder",
+    "optionD": "Level order",
+    "answer": "Level order"
+  },
+  {
+    "questionId": 70,
+    "ques": "What is the three-way handshake used for?",
+    "optionA": "UDP connection",
+    "optionB": "TCP connection establishment",
+    "optionC": "DNS query",
+    "optionD": "HTTP request",
+    "answer": "TCP connection establishment"
+  },
+  {
+    "questionId": 71,
+    "ques": "What is dynamic binding?",
+    "optionA": "Compile time binding",
+    "optionB": "Runtime binding",
+    "optionC": "Static binding",
+    "optionD": "Early binding",
+    "answer": "Runtime binding"
+  },
+  {
+    "questionId": 72,
+    "ques": "What is the purpose of PCB in OS?",
+    "optionA": "Store program code",
+    "optionB": "Store process information",
+    "optionC": "Memory management",
+    "optionD": "I/O management",
+    "answer": "Store process information"
+  },
+  {
+    "questionId": 73,
+    "ques": "What is a composite key?",
+    "optionA": "Single column key",
+    "optionB": "Foreign key",
+    "optionC": "Primary key with multiple columns",
+    "optionD": "Unique key",
+    "answer": "Primary key with multiple columns"
+  },
+  {
+    "questionId": 74,
+    "ques": "What is the time complexity of building a heap?",
+    "optionA": "O(n log n)",
+    "optionB": "O(n)",
+    "optionC": "O(log n)",
+    "optionD": "O(n²)",
+    "answer": "O(n)"
+  },
+  {
+    "questionId": 75,
+    "ques": "Which protocol is connectionless?",
+    "optionA": "TCP",
+    "optionB": "UDP",
+    "optionC": "FTP",
+    "optionD": "HTTP",
+    "answer": "UDP"
+  },
+  {
+    "questionId": 76,
+    "ques": "What is multiple inheritance?",
+    "optionA": "Class inheriting from multiple classes",
+    "optionB": "Multiple classes from one class",
+    "optionC": "Interface inheritance",
+    "optionD": "Hierarchical inheritance",
+    "answer": "Class inheriting from multiple classes"
+  },
+  {
+    "questionId": 77,
+    "ques": "What is a critical section?",
+    "optionA": "Important code",
+    "optionB": "Code accessing shared resources",
+    "optionC": "Main function",
+    "optionD": "Error handling code",
+    "answer": "Code accessing shared resources"
+  },
+  {
+    "questionId": 78,
+    "ques": "What is referential integrity?",
+    "optionA": "Data validation",
+    "optionB": "Foreign key constraint",
+    "optionC": "Primary key constraint",
+    "optionD": "Unique constraint",
+    "answer": "Foreign key constraint"
+  },
+  {
+    "questionId": 79,
+    "ques": "Which data structure is used in Kruskal's algorithm?",
+    "optionA": "Stack",
+    "optionB": "Queue",
+    "optionC": "Disjoint Set",
+    "optionD": "Heap",
+    "answer": "Disjoint Set"
+  },
+  {
+    "questionId": 80,
+    "ques": "What is NAT?",
+    "optionA": "Network Access Technology",
+    "optionB": "Network Address Translation",
+    "optionC": "Network Allocation Table",
+    "optionD": "Network Authentication Token",
+    "answer": "Network Address Translation"
+  },
+  {
+    "questionId": 81,
+    "ques": "What is the diamond problem in OOP?",
+    "optionA": "Circular dependency",
+    "optionB": "Multiple inheritance ambiguity",
+    "optionC": "Memory leak",
+    "optionD": "Infinite recursion",
+    "answer": "Multiple inheritance ambiguity"
+  },
+  {
+    "questionId": 82,
+    "ques": "What is demand paging?",
+    "optionA": "Loading all pages at once",
+    "optionB": "Loading pages when needed",
+    "optionC": "Page replacement",
+    "optionD": "Memory allocation",
+    "answer": "Loading pages when needed"
+  },
+  {
+    "questionId": 83,
+    "ques": "What is a stored procedure?",
+    "optionA": "Database table",
+    "optionB": "Precompiled SQL statements",
+    "optionC": "Index",
+    "optionD": "View",
+    "answer": "Precompiled SQL statements"
+  },
+  {
+    "questionId": 84,
+    "ques": "What is the advantage of B+ tree over B tree?",
+    "optionA": "Less height",
+    "optionB": "All data in leaf nodes",
+    "optionC": "Faster insertion",
+    "optionD": "Less memory",
+    "answer": "All data in leaf nodes"
+  },
+  {
+    "questionId": 85,
+    "ques": "What is CSMA/CD?",
+    "optionA": "Encryption protocol",
+    "optionB": "Collision detection in Ethernet",
+    "optionC": "Routing protocol",
+    "optionD": "Error correction",
+    "answer": "Collision detection in Ethernet"
+  },
+  {
+    "questionId": 86,
+    "ques": "What is a pure virtual function?",
+    "optionA": "Function with body",
+    "optionB": "Function without implementation",
+    "optionC": "Static function",
+    "optionD": "Friend function",
+    "answer": "Function without implementation"
+  },
+  {
+    "questionId": 87,
+    "ques": "What is the Belady's anomaly?",
+    "optionA": "More frames, more page faults",
+    "optionB": "Deadlock situation",
+    "optionC": "Cache miss",
+    "optionD": "Memory leak",
+    "answer": "More frames, more page faults"
+  },
+  {
+    "questionId": 88,
+    "ques": "What isolation level prevents dirty reads?",
+    "optionA": "Read Uncommitted",
+    "optionB": "Read Committed",
+    "optionC": "Repeatable Read",
+    "optionD": "Serializable",
+    "answer": "Read Committed"
+  },
+  {
+    "questionId": 89,
+    "ques": "What is a trie data structure used for?",
+    "optionA": "Sorting",
+    "optionB": "String storage and retrieval",
+    "optionC": "Graph traversal",
+    "optionD": "Hashing",
+    "answer": "String storage and retrieval"
+  },
+  {
+    "questionId": 90,
+    "ques": "What is the purpose of TTL in IP header?",
+    "optionA": "Encryption",
+    "optionB": "Prevent infinite loops",
+    "optionC": "Priority",
+    "optionD": "Fragmentation",
+    "answer": "Prevent infinite loops"
+  },
+  {
+    "questionId": 91,
+    "ques": "What is RAII in C++?",
+    "optionA": "Runtime allocation",
+    "optionB": "Resource Acquisition Is Initialization",
+    "optionC": "Random access iterator",
+    "optionD": "Reference and initialization",
+    "answer": "Resource Acquisition Is Initialization"
+  },
+  {
+    "questionId": 92,
+    "ques": "What is a zombie process?",
+    "optionA": "Running process",
+    "optionB": "Terminated process not reaped by parent",
+    "optionC": "Sleeping process",
+    "optionD": "Init process",
+    "answer": "Terminated process not reaped by parent"
+  },
+  {
+    "questionId": 93,
+    "ques": "What is sharding in databases?",
+    "optionA": "Backup strategy",
+    "optionB": "Horizontal partitioning",
+    "optionC": "Vertical partitioning",
+    "optionD": "Indexing",
+    "answer": "Horizontal partitioning"
+  },
+  {
+    "questionId": 94,
+    "ques": "What is the space complexity of DFS?",
+    "optionA": "O(V)",
+    "optionB": "O(E)",
+    "optionC": "O(V+E)",
+    "optionD": "O(h) where h is height",
+    "answer": "O(h) where h is height"
+  },
+  {
+    "questionId": 95,
+    "ques": "What does DHCP provide?",
+    "optionA": "Static IP",
+    "optionB": "Dynamic IP assignment",
+    "optionC": "DNS resolution",
+    "optionD": "Routing",
+    "answer": "Dynamic IP assignment"
+  },
+  {
+    "questionId": 96,
+    "ques": "What is covariance in OOP?",
+    "optionA": "Return type compatibility",
+    "optionB": "Parameter compatibility",
+    "optionC": "Multiple inheritance",
+    "optionD": "Operator overloading",
+    "answer": "Return type compatibility"
+  },
+  {
+    "questionId": 97,
+    "ques": "What is convoy effect in OS?",
+    "optionA": "Deadlock",
+    "optionB": "Short processes waiting for long process",
+    "optionC": "Priority inversion",
+    "optionD": "Starvation",
+    "answer": "Short processes waiting for long process"
+  },
+  {
+    "questionId": 98,
+    "ques": "What is eventual consistency?",
+    "optionA": "Immediate consistency",
+    "optionB": "Consistency achieved over time",
+    "optionC": "Strong consistency",
+    "optionD": "No consistency",
+    "answer": "Consistency achieved over time"
+  },
+  {
+    "questionId": 99,
+    "ques": "What is a Red-Black tree?",
+    "optionA": "Binary tree",
+    "optionB": "Self-balancing BST with color properties",
+    "optionC": "Heap",
+    "optionD": "B-tree",
+    "answer": "Self-balancing BST with color properties"
+  },
+  {
+    "questionId": 100,
+    "ques": "What is BGP?",
+    "optionA": "Interior gateway protocol",
+    "optionB": "Border Gateway Protocol",
+    "optionC": "Broadcast protocol",
+    "optionD": "Binary protocol",
+    "answer": "Border Gateway Protocol"
+  }
+
+]

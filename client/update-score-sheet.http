@@ -1,0 +1,7 @@
+PATCH http://localhost:8080/quizrooms/4/update-scoresheet
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDgyMDQzMTIsInVzZXJfaWQiOjIsInVzZXJuYW1lIjoidGVzdDIifQ.nWaKU360cRrtHiIhYwh2u0CHX1Pdt0OzgtQroOCrPRw
+
+{
+    "2": 0
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "questionId": 1,
+    "ques": "Who invented the telephone?",
+    "optionA": "Thomas Edison",
+    "optionB": "Alexander Graham Bell",
+    "optionC": "Nikola Tesla",
+    "optionD": "Samuel Morse",
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "questionId": 2,
+    "ques": "What did Marie Curie discover?",
+    "optionA": "Oxygen",
+    "optionB": "Radium and Polonium",
+    "optionC": "DNA structure",
+    "optionD": "Penicillin",
+    "answer": "Radium and Polonium"
+  },
+  {
+    "questionId": 3,
+    "ques": "Who invented the light bulb?",
+    "optionA": "Benjamin Franklin",
+    "optionB": "Nikola Tesla",
+    "optionC": "Thomas Edison",
+    "optionD": "Joseph Swan",
+    "answer": "Thomas Edison"
+  },
+  {
+    "questionId": 4,
+    "ques": "What did Alexander Fleming discover in 1928?",
+    "optionA": "Insulin",
+    "optionB": "Penicillin",
+    "optionC": "Aspirin",
+    "optionD": "Morphine",
+    "answer": "Penicillin"
+  },
+  {
+    "questionId": 5,
+    "ques": "Who invented the printing press?",
+    "optionA": "Johannes Gutenberg",
+    "optionB": "Leonardo da Vinci",
+    "optionC": "Galileo Galilei",
+    "optionD": "Isaac Newton",
+    "answer": "Johannes Gutenberg"
+  },
+  {
+    "questionId": 6,
+    "ques": "What did James Watson and Francis Crick discover?",
+    "optionA": "The electron",
+    "optionB": "DNA structure",
+    "optionC": "The atom",
+    "optionD": "Gravity",
+    "answer": "DNA structure"
+  },
+  {
+    "questionId": 7,
+    "ques": "Who invented the airplane?",
+    "optionA": "Henry Ford",
+    "optionB": "Wright Brothers",
+    "optionC": "Charles Lindbergh",
+    "optionD": "Amelia Earhart",
+    "answer": "Wright Brothers"
+  },
+  {
+    "questionId": 8,
+    "ques": "What did Galileo Galilei invent to observe the stars?",
+    "optionA": "Microscope",
+    "optionB": "Telescope",
+    "optionC": "Compass",
+    "optionD": "Barometer",
+    "answer": "Telescope"
+  },
+  {
+    "questionId": 9,
+    "ques": "Who discovered gravity?",
+    "optionA": "Albert Einstein",
+    "optionB": "Isaac Newton",
+    "optionC": "Galileo Galilei",
+    "optionD": "Johannes Kepler",
+    "answer": "Isaac Newton"
+  },
+  {
+    "questionId": 10,
+    "ques": "What did Benjamin Franklin invent for protection during thunderstorms?",
+    "optionA": "Umbrella",
+    "optionB": "Lightning rod",
+    "optionC": "Raincoat",
+    "optionD": "Weather vane",
+    "answer": "Lightning rod"
+  },
+  {
+    "questionId": 11,
+    "ques": "Who invented the steam engine?",
+    "optionA": "James Watt",
+    "optionB": "George Stephenson",
+    "optionC": "Robert Fulton",
+    "optionD": "Eli Whitney",
+    "answer": "James Watt"
+  },
+  {
+    "questionId": 12,
+    "ques": "What did Wilhelm Röntgen discover in 1895?",
+    "optionA": "Gamma rays",
+    "optionB": "X-rays",
+    "optionC": "Ultraviolet rays",
+    "optionD": "Infrared rays",
+    "answer": "X-rays"
+  },
+  {
+    "questionId": 13,
+    "ques": "Who invented the vaccine for smallpox?",
+    "optionA": "Louis Pasteur",
+    "optionB": "Edward Jenner",
+    "optionC": "Robert Koch",
+    "optionD": "Joseph Lister",
+    "answer": "Edward Jenner"
+  },
+  {
+    "questionId": 14,
+    "ques": "What did Charles Darwin discover?",
+    "optionA": "The cell",
+    "optionB": "Evolution by natural selection",
+    "optionC": "Photosynthesis",
+    "optionD": "Blood circulation",
+    "answer": "Evolution by natural selection"
+  },
+  {
+    "questionId": 15,
+    "ques": "Who invented the computer?",
+    "optionA": "Bill Gates",
+    "optionB": "Charles Babbage",
+    "optionC": "Steve Jobs",
+    "optionD": "Alan Turing",
+    "answer": "Charles Babbage"
+  },
+  {
+    "questionId": 16,
+    "ques": "What did Dmitri Mendeleev create?",
+    "optionA": "Atomic theory",
+    "optionB": "Periodic table",
+    "optionC": "Molecular structure",
+    "optionD": "Chemical bonds",
+    "answer": "Periodic table"
+  },
+  {
+    "questionId": 17,
+    "ques": "Who invented the phonograph?",
+    "optionA": "Alexander Graham Bell",
+    "optionB": "Thomas Edison",
+    "optionC": "Guglielmo Marconi",
+    "optionD": "Samuel Morse",
+    "answer": "Thomas Edison"
+  },
+  {
+    "questionId": 18,
+    "ques": "What did Gregor Mendel discover?",
+    "optionA": "Cell division",
+    "optionB": "Laws of inheritance",
+    "optionC": "Photosynthesis",
+    "optionD": "Respiration",
+    "answer": "Laws of inheritance"
+  },
+  {
+    "questionId": 19,
+    "ques": "Who invented the radio?",
+    "optionA": "Thomas Edison",
+    "optionB": "Guglielmo Marconi",
+    "optionC": "Nikola Tesla",
+    "optionD": "Heinrich Hertz",
+    "answer": "Guglielmo Marconi"
+  },
+  {
+    "questionId": 20,
+    "ques": "What did Louis Pasteur develop?",
+    "optionA": "Antibiotics",
+    "optionB": "Pasteurization",
+    "optionC": "Anesthesia",
+    "optionD": "Surgery",
+    "answer": "Pasteurization"
+  },
+  {
+    "questionId": 21,
+    "ques": "Who invented the microscope?",
+    "optionA": "Robert Hooke",
+    "optionB": "Antonie van Leeuwenhoek",
+    "optionC": "Galileo Galilei",
+    "optionD": "Johannes Kepler",
+    "answer": "Antonie van Leeuwenhoek"
+  },
+  {
+    "questionId": 22,
+    "ques": "What did John Dalton propose?",
+    "optionA": "Wave theory",
+    "optionB": "Atomic theory",
+    "optionC": "Quantum theory",
+    "optionD": "Relativity theory",
+    "answer": "Atomic theory"
+  },
+  {
+    "questionId": 23,
+    "ques": "Who invented dynamite?",
+    "optionA": "Marie Curie",
+    "optionB": "Alfred Nobel",
+    "optionC": "Pierre Curie",
+    "optionD": "Ernest Rutherford",
+    "answer": "Alfred Nobel"
+  },
+  {
+    "questionId": 24,
+    "ques": "What did Michael Faraday discover?",
+    "optionA": "Magnetism",
+    "optionB": "Electromagnetic induction",
+    "optionC": "Static electricity",
+    "optionD": "Electric current",
+    "answer": "Electromagnetic induction"
+  },
+  {
+    "questionId": 25,
+    "ques": "Who invented the cotton gin?",
+    "optionA": "Samuel Slater",
+    "optionB": "Eli Whitney",
+    "optionC": "Cyrus McCormick",
+    "optionD": "John Deere",
+    "answer": "Eli Whitney"
+  },
+  {
+    "questionId": 26,
+    "ques": "What did Ernest Rutherford discover?",
+    "optionA": "Proton",
+    "optionB": "Atomic nucleus",
+    "optionC": "Electron",
+    "optionD": "Neutron",
+    "answer": "Atomic nucleus"
+  },
+  {
+    "questionId": 27,
+    "ques": "Who invented the sewing machine?",
+    "optionA": "Isaac Singer",
+    "optionB": "Elias Howe",
+    "optionC": "Barthélemy Thimonnier",
+    "optionD": "Walter Hunt",
+    "answer": "Elias Howe"
+  },
+  {
+    "questionId": 28,
+    "ques": "What did Albert Einstein develop?",
+    "optionA": "Quantum mechanics",
+    "optionB": "Theory of relativity",
+    "optionC": "Atomic theory",
+    "optionD": "Wave theory",
+    "answer": "Theory of relativity"
+  },
+  {
+    "questionId": 29,
+    "ques": "Who invented the telegraph?",
+    "optionA": "Alexander Graham Bell",
+    "optionB": "Samuel Morse",
+    "optionC": "Thomas Edison",
+    "optionD": "Guglielmo Marconi",
+    "answer": "Samuel Morse"
+  },
+  {
+    "questionId": 30,
+    "ques": "What did Niels Bohr contribute to science?",
+    "optionA": "Planetary motion",
+    "optionB": "Atomic structure model",
+    "optionC": "Electromagnetic waves",
+    "optionD": "Thermodynamics",
+    "answer": "Atomic structure model"
+  },
+  {
+    "questionId": 31,
+    "ques": "Who invented the thermometer?",
+    "optionA": "Daniel Fahrenheit",
+    "optionB": "Galileo Galilei",
+    "optionC": "Anders Celsius",
+    "optionD": "Lord Kelvin",
+    "answer": "Galileo Galilei"
+  },
+  {
+    "questionId": 32,
+    "ques": "What did Rosalind Franklin contribute to?",
+    "optionA": "Atomic structure",
+    "optionB": "DNA structure discovery",
+    "optionC": "Protein synthesis",
+    "optionD": "Cell division",
+    "answer": "DNA structure discovery"
+  },
+  {
+    "questionId": 33,
+    "ques": "Who invented the compass?",
+    "optionA": "Marco Polo",
+    "optionB": "Ancient Chinese",
+    "optionC": "Christopher Columbus",
+    "optionD": "Vasco da Gama",
+    "answer": "Ancient Chinese"
+  },
+  {
+    "questionId": 34,
+    "ques": "What did Max Planck discover?",
+    "optionA": "Relativity",
+    "optionB": "Quantum theory",
+    "optionC": "Atomic theory",
+    "optionD": "Electromagnetic theory",
+    "answer": "Quantum theory"
+  },
+  {
+    "questionId": 35,
+    "ques": "Who invented the pneumatic tire?",
+    "optionA": "Charles Goodyear",
+    "optionB": "John Boyd Dunlop",
+    "optionC": "Michelin Brothers",
+    "optionD": "Harvey Firestone",
+    "answer": "John Boyd Dunlop"
+  },
+  {
+    "questionId": 36,
+    "ques": "What did Antoine Lavoisier discover?",
+    "optionA": "Hydrogen",
+    "optionB": "Oxygen",
+    "optionC": "Nitrogen",
+    "optionD": "Carbon",
+    "answer": "Oxygen"
+  },
+  {
+    "questionId": 37,
+    "ques": "Who invented the safety pin?",
+    "optionA": "Elias Howe",
+    "optionB": "Walter Hunt",
+    "optionC": "Isaac Singer",
+    "optionD": "Levi Strauss",
+    "answer": "Walter Hunt"
+  },
+  {
+    "questionId": 38,
+    "ques": "What did J.J. Thomson discover?",
+    "optionA": "Proton",
+    "optionB": "Electron",
+    "optionC": "Neutron",
+    "optionD": "Nucleus",
+    "answer": "Electron"
+  },
+  {
+    "questionId": 39,
+    "ques": "Who invented the zipper?",
+    "optionA": "Elias Howe",
+    "optionB": "Whitcomb Judson",
+    "optionC": "Gideon Sundback",
+    "optionD": "Walter Hunt",
+    "answer": "Whitcomb Judson"
+  },
+  {
+    "questionId": 40,
+    "ques": "What did Archimedes discover?",
+    "optionA": "Gravity",
+    "optionB": "Buoyancy principle",
+    "optionC": "Magnetism",
+    "optionD": "Electricity",
+    "answer": "Buoyancy principle"
+  },
+  {
+    "questionId": 41,
+    "ques": "Who invented the stethoscope?",
+    "optionA": "William Harvey",
+    "optionB": "René Laennec",
+    "optionC": "Joseph Lister",
+    "optionD": "Louis Pasteur",
+    "answer": "René Laennec"
+  },
+  {
+    "questionId": 42,
+    "ques": "What did Copernicus propose?",
+    "optionA": "Geocentric model",
+    "optionB": "Heliocentric model",
+    "optionC": "Planetary motion laws",
+    "optionD": "Gravity theory",
+    "answer": "Heliocentric model"
+  },
+  {
+    "questionId": 43,
+    "ques": "Who invented the mechanical clock?",
+    "optionA": "Galileo Galilei",
+    "optionB": "Medieval Europeans",
+    "optionC": "Ancient Greeks",
+    "optionD": "Leonardo da Vinci",
+    "answer": "Medieval Europeans"
+  },
+  {
+    "questionId": 44,
+    "ques": "What did William Harvey discover?",
+    "optionA": "Respiration",
+    "optionB": "Blood circulation",
+    "optionC": "Digestion",
+    "optionD": "Nervous system",
+    "answer": "Blood circulation"
+  },
+  {
+    "questionId": 45,
+    "ques": "Who invented the laser?",
+    "optionA": "Albert Einstein",
+    "optionB": "Theodore Maiman",
+    "optionC": "Charles Townes",
+    "optionD": "Gordon Gould",
+    "answer": "Theodore Maiman"
+  },
+  {
+    "questionId": 46,
+    "ques": "What did James Clerk Maxwell develop?",
+    "optionA": "Quantum mechanics",
+    "optionB": "Electromagnetic theory",
+    "optionC": "Thermodynamics",
+    "optionD": "Relativity",
+    "answer": "Electromagnetic theory"
+  },
+  {
+    "questionId": 47,
+    "ques": "Who invented the parachute?",
+    "optionA": "Wright Brothers",
+    "optionB": "Leonardo da Vinci",
+    "optionC": "André-Jacques Garnerin",
+    "optionD": "Louis Lenormand",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "questionId": 48,
+    "ques": "What did Enrico Fermi achieve?",
+    "optionA": "Splitting the atom",
+    "optionB": "First nuclear reactor",
+    "optionC": "Atomic bomb",
+    "optionD": "Nuclear fusion",
+    "answer": "First nuclear reactor"
+  },
+  {
+    "questionId": 49,
+    "ques": "Who invented the typewriter?",
+    "optionA": "Samuel Colt",
+    "optionB": "Christopher Sholes",
+    "optionC": "Elias Howe",
+    "optionD": "Isaac Singer",
+    "answer": "Christopher Sholes"
+  },
+  {
+    "questionId": 50,
+    "ques": "What did Robert Hooke discover?",
+    "optionA": "Bacteria",
+    "optionB": "Plant cells",
+    "optionC": "Viruses",
+    "optionD": "Genes",
+    "answer": "Plant cells"
+  },
+  {
+    "questionId": 51,
+    "ques": "Who invented the refrigerator?",
+    "optionA": "William Cullen",
+    "optionB": "Jacob Perkins",
+    "optionC": "John Gorrie",
+    "optionD": "Carl von Linde",
+    "answer": "Jacob Perkins"
+  },
+  {
+    "questionId": 52,
+    "ques": "What did Kepler discover?",
+    "optionA": "Gravity",
+    "optionB": "Planetary motion laws",
+    "optionC": "Telescope",
+    "optionD": "Heliocentric model",
+    "answer": "Planetary motion laws"
+  },
+  {
+    "questionId": 53,
+    "ques": "Who invented the battery?",
+    "optionA": "Benjamin Franklin",
+    "optionB": "Alessandro Volta",
+    "optionC": "Luigi Galvani",
+    "optionD": "Michael Faraday",
+    "answer": "Alessandro Volta"
+  },
+  {
+    "questionId": 54,
+    "ques": "What did Linus Pauling discover?",
+    "optionA": "DNA structure",
+    "optionB": "Chemical bonding",
+    "optionC": "Protein structure",
+    "optionD": "Vitamin C",
+    "answer": "Chemical bonding"
+  },
+  {
+    "questionId": 55,
+    "ques": "Who invented the camera?",
+    "optionA": "George Eastman",
+    "optionB": "Louis Daguerre",
+    "optionC": "William Talbot",
+    "optionD": "Nicéphore Niépce",
+    "answer": "Nicéphore Niépce"
+  },
+  {
+    "questionId": 56,
+    "ques": "What did Mendeleev predict?",
+    "optionA": "Atomic structure",
+    "optionB": "Undiscovered elements",
+    "optionC": "Chemical reactions",
+    "optionD": "Molecular bonds",
+    "answer": "Undiscovered elements"
+  },
+  {
+    "questionId": 57,
+    "ques": "Who invented the elevator?",
+    "optionA": "Elisha Otis",
+    "optionB": "Alexander Miles",
+    "optionC": "Jesse Reno",
+    "optionD": "Werner von Siemens",
+    "answer": "Elisha Otis"
+  },
+  {
+    "questionId": 58,
+    "ques": "What did Pasteur prove wrong?",
+    "optionA": "Germ theory",
+    "optionB": "Spontaneous generation",
+    "optionC": "Cell theory",
+    "optionD": "Evolution",
+    "answer": "Spontaneous generation"
+  },
+  {
+    "questionId": 59,
+    "ques": "Who invented the motorcycle?",
+    "optionA": "Gottlieb Daimler",
+    "optionB": "Karl Benz",
+    "optionC": "Henry Ford",
+    "optionD": "Nikolaus Otto",
+    "answer": "Gottlieb Daimler"
+  },
+  {
+    "questionId": 60,
+    "ques": "What did Becquerel discover?",
+    "optionA": "X-rays",
+    "optionB": "Radioactivity",
+    "optionC": "Electrons",
+    "optionD": "Atoms",
+    "answer": "Radioactivity"
+  },
+  {
+    "questionId": 61,
+    "ques": "Who invented the match?",
+    "optionA": "Robert Boyle",
+    "optionB": "John Walker",
+    "optionC": "Antoine Lavoisier",
+    "optionD": "Joseph Priestley",
+    "answer": "John Walker"
+  },
+  {
+    "questionId": 62,
+    "ques": "What did Schrödinger develop?",
+    "optionA": "Relativity equation",
+    "optionB": "Wave equation",
+    "optionC": "Uncertainty principle",
+    "optionD": "Atomic model",
+    "answer": "Wave equation"
+  },
+  {
+    "questionId": 63,
+    "ques": "Who invented the submarine?",
+    "optionA": "Robert Fulton",
+    "optionB": "Cornelis Drebbel",
+    "optionC": "John Holland",
+    "optionD": "Simon Lake",
+    "answer": "Cornelis Drebbel"
+  },
+  {
+    "questionId": 64,
+    "ques": "What did Heisenberg formulate?",
+    "optionA": "Relativity principle",
+    "optionB": "Uncertainty principle",
+    "optionC": "Quantum mechanics",
+    "optionD": "Wave theory",
+    "answer": "Uncertainty principle"
+  },
+  {
+    "questionId": 65,
+    "ques": "Who invented the airplane propeller?",
+    "optionA": "Wright Brothers",
+    "optionB": "Glenn Curtiss",
+    "optionC": "Alberto Santos-Dumont",
+    "optionD": "Louis Blériot",
+    "answer": "Wright Brothers"
+  },
+  {
+    "questionId": 66,
+    "ques": "What did Chadwick discover?",
+    "optionA": "Proton",
+    "optionB": "Neutron",
+    "optionC": "Electron",
+    "optionD": "Positron",
+    "answer": "Neutron"
+  },
+  {
+    "questionId": 67,
+    "ques": "Who invented the revolver?",
+    "optionA": "John Browning",
+    "optionB": "Samuel Colt",
+    "optionC": "Eli Whitney",
+    "optionD": "Richard Gatling",
+    "answer": "Samuel Colt"
+  },
+  {
+    "questionId": 68,
+    "ques": "What did Pauling discover about proteins?",
+    "optionA": "Primary structure",
+    "optionB": "Alpha helix structure",
+    "optionC": "Amino acids",
+    "optionD": "Protein synthesis",
+    "answer": "Alpha helix structure"
+  },
+  {
+    "questionId": 69,
+    "ques": "Who invented the escalator?",
+    "optionA": "Elisha Otis",
+    "optionB": "Jesse Reno",
+    "optionC": "Charles Seeberger",
+    "optionD": "Nathan Ames",
+    "answer": "Jesse Reno"
+  },
+  {
+    "questionId": 70,
+    "ques": "What did Curie discover about radioactivity?",
+    "optionA": "It's atomic property",
+    "optionB": "It's electromagnetic",
+    "optionC": "It's chemical reaction",
+    "optionD": "It's molecular",
+    "answer": "It's atomic property"
+  },
+  {
+    "questionId": 71,
+    "ques": "Who invented the helicopter?",
+    "optionA": "Wright Brothers",
+    "optionB": "Igor Sikorsky",
+    "optionC": "Juan de la Cierva",
+    "optionD": "Paul Cornu",
+    "answer": "Igor Sikorsky"
+  },
+  {
+    "questionId": 72,
+    "ques": "What did Boyle discover?",
+    "optionA": "Gas pressure law",
+    "optionB": "Boyle's law",
+    "optionC": "Atomic theory",
+    "optionD": "Chemical elements",
+    "answer": "Boyle's law"
+  },
+  {
+    "questionId": 73,
+    "ques": "Who invented the mechanical calculator?",
+    "optionA": "Charles Babbage",
+    "optionB": "Blaise Pascal",
+    "optionC": "Gottfried Leibniz",
+    "optionD": "Ada Lovelace",
+    "answer": "Blaise Pascal"
+  },
+  {
+    "questionId": 74,
+    "ques": "What did Ohm discover?",
+    "optionA": "Magnetism",
+    "optionB": "Ohm's law",
+    "optionC": "Electric current",
+    "optionD": "Resistance",
+    "answer": "Ohm's law"
+  },
+  {
+    "questionId": 75,
+    "ques": "Who invented the transistor?",
+    "optionA": "Thomas Edison",
+    "optionB": "Bardeen, Brattain, Shockley",
+    "optionC": "Lee de Forest",
+    "optionD": "John Fleming",
+    "answer": "Bardeen, Brattain, Shockley"
+  },
+  {
+    "questionId": 76,
+    "ques": "What did Ampère discover?",
+    "optionA": "Electricity",
+    "optionB": "Electromagnetism",
+    "optionC": "Magnetism",
+    "optionD": "Electric current",
+    "answer": "Electromagnetism"
+  },
+  {
+    "questionId": 77,
+    "ques": "Who invented the modern bicycle?",
+    "optionA": "Karl Drais",
+    "optionB": "John Kemp Starley",
+    "optionC": "Kirkpatrick MacMillan",
+    "optionD": "Pierre Michaux",
+    "answer": "John Kemp Starley"
+  },
+  {
+    "questionId": 78,
+    "ques": "What did Coulomb discover?",
+    "optionA": "Magnetism",
+    "optionB": "Coulomb's law",
+    "optionC": "Electric current",
+    "optionD": "Resistance",
+    "answer": "Coulomb's law"
+  },
+  {
+    "questionId": 79,
+    "ques": "Who invented the jet engine?",
+    "optionA": "Wright Brothers",
+    "optionB": "Frank Whittle",
+    "optionC": "Hans von Ohain",
+    "optionD": "Igor Sikorsky",
+    "answer": "Frank Whittle"
+  },
+  {
+    "questionId": 80,
+    "ques": "What did Joule discover?",
+    "optionA": "Heat theory",
+    "optionB": "Mechanical equivalent of heat",
+    "optionC": "Thermodynamics",
+    "optionD": "Energy conservation",
+    "answer": "Mechanical equivalent of heat"
+  },
+  {
+    "questionId": 81,
+    "ques": "Who invented the electric motor?",
+    "optionA": "Nikola Tesla",
+    "optionB": "Michael Faraday",
+    "optionC": "Thomas Edison",
+    "optionD": "Joseph Henry",
+    "answer": "Michael Faraday"
+  },
+  {
+    "questionId": 82,
+    "ques": "What did Volta invent?",
+    "optionA": "Light bulb",
+    "optionB": "Electric battery",
+    "optionC": "Telegraph",
+    "optionD": "Generator",
+    "answer": "Electric battery"
+  },
+  {
+    "questionId": 83,
+    "ques": "Who invented the internal combustion engine?",
+    "optionA": "James Watt",
+    "optionB": "Nikolaus Otto",
+    "optionC": "Rudolf Diesel",
+    "optionD": "Karl Benz",
+    "answer": "Nikolaus Otto"
+  },
+  {
+    "questionId": 84,
+    "ques": "What did Kelvin develop?",
+    "optionA": "Celsius scale",
+    "optionB": "Absolute temperature scale",
+    "optionC": "Fahrenheit scale",
+    "optionD": "Thermometer",
+    "answer": "Absolute temperature scale"
+  },
+  {
+    "questionId": 85,
+    "ques": "Who invented the television?",
+    "optionA": "Thomas Edison",
+    "optionB": "John Logie Baird",
+    "optionC": "Philo Farnsworth",
+    "optionD": "Vladimir Zworykin",
+    "answer": "John Logie Baird"
+  },
+  {
+    "questionId": 86,
+    "ques": "What did Torricelli invent?",
+    "optionA": "Thermometer",
+    "optionB": "Barometer",
+    "optionC": "Hygrometer",
+    "optionD": "Anemometer",
+    "answer": "Barometer"
+  },
+  {
+    "questionId": 87,
+    "ques": "Who invented the safety razor?",
+    "optionA": "Gillette",
+    "optionB": "King Gillette",
+    "optionC": "Jacob Schick",
+    "optionD": "Jean-Jacques Perret",
+    "answer": "King Gillette"
+  },
+  {
+    "questionId": 88,
+    "ques": "What did Bernoulli discover?",
+    "optionA": "Gravity",
+    "optionB": "Bernoulli's principle",
+    "optionC": "Fluid dynamics",
+    "optionD": "Air pressure",
+    "answer": "Bernoulli's principle"
+  },
+  {
+    "questionId": 89,
+    "ques": "Who invented the pneumatic drill?",
+    "optionA": "Simon Ingersoll",
+    "optionB": "Charles King",
+    "optionC": "Joseph Fowle",
+    "optionD": "Germain Sommeiller",
+    "answer": "Germain Sommeiller"
+  },
+  {
+    "questionId": 90,
+    "ques": "What did Hertz discover?",
+    "optionA": "Sound waves",
+    "optionB": "Radio waves",
+    "optionC": "Light waves",
+    "optionD": "Heat waves",
+    "answer": "Radio waves"
+  },
+  {
+    "questionId": 91,
+    "ques": "Who invented the dishwasher?",
+    "optionA": "Josephine Cochrane",
+    "optionB": "Joel Houghton",
+    "optionC": "William Howard Livens",
+    "optionD": "Eugene Daquin",
+    "answer": "Josephine Cochrane"
+  },
+  {
+    "questionId": 92,
+    "ques": "What did Gay-Lussac discover?",
+    "optionA": "Atomic theory",
+    "optionB": "Gas laws",
+    "optionC": "Chemical bonding",
+    "optionD": "Molecular structure",
+    "answer": "Gas laws"
+  },
+  {
+    "questionId": 93,
+    "ques": "Who invented the mechanical reaper?",
+    "optionA": "John Deere",
+    "optionB": "Cyrus McCormick",
+    "optionC": "Eli Whitney",
+    "optionD": "Jethro Wood",
+    "answer": "Cyrus McCormick"
+  },
+  {
+    "questionId": 94,
+    "ques": "What did Avogadro propose?",
+    "optionA": "Atomic theory",
+    "optionB": "Avogadro's number",
+    "optionC": "Molecular theory",
+    "optionD": "Gas law",
+    "answer": "Avogadro's number"
+  },
+  {
+    "questionId": 95,
+    "ques": "Who invented the air conditioning?",
+    "optionA": "John Gorrie",
+    "optionB": "Willis Carrier",
+    "optionC": "Stuart Cramer",
+    "optionD": "Frederick McKinley Jones",
+    "answer": "Willis Carrier"
+  },
+  {
+    "questionId": 96,
+    "ques": "What did Doppler discover?",
+    "optionA": "Sound theory",
+    "optionB": "Doppler effect",
+    "optionC": "Wave motion",
+    "optionD": "Frequency",
+    "answer": "Doppler effect"
+  },
+  {
+    "questionId": 97,
+    "ques": "Who invented the electric light switch?",
+    "optionA": "Thomas Edison",
+    "optionB": "John Henry Holmes",
+    "optionC": "William Newton",
+    "optionD": "Harvey Hubbell",
+    "answer": "John Henry Holmes"
+  },
+  {
+    "questionId": 98,
+    "ques": "What did Kirchhoff discover?",
+    "optionA": "Electricity",
+    "optionB": "Kirchhoff's laws",
+    "optionC": "Magnetism",
+    "optionD": "Spectroscopy",
+    "answer": "Kirchhoff's laws"
+  },
+  {
+    "questionId": 99,
+    "ques": "Who invented the cash register?",
+    "optionA": "John Patterson",
+    "optionB": "James Ritty",
+    "optionC": "William Burroughs",
+    "optionD": "Herman Hollerith",
+    "answer": "James Ritty"
+  },
+  {
+    "questionId": 100,
+    "ques": "What did Lister introduce to surgery?",
+    "optionA": "Anesthesia",
+    "optionB": "Antiseptic surgery",
+    "optionC": "Surgical instruments",
+    "optionD": "Operating room",
+    "answer": "Antiseptic surgery"
+  }
+]

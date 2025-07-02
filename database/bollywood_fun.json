@@ -1,0 +1,640 @@
+[
+  {
+    "questionId": 1,
+    "ques": "Which actor is known as the 'King of Bollywood'?",
+    "optionA": "Aamir Khan",
+    "optionB": "Shah Rukh Khan",
+    "optionC": "Salman Khan",
+    "optionD": "Akshay Kumar",
+    "answer": "Shah Rukh Khan"
+  },
+  {
+    "questionId": 2,
+    "ques": "In which movie did Amitabh Bachchan play the role of 'Vijay'?",
+    "optionA": "Sholay",
+    "optionB": "Deewaar",
+    "optionC": "Zanjeer",
+    "optionD": "All of the above",
+    "answer": "All of the above"
+  },
+  {
+    "questionId": 3,
+    "ques": "Which actress is known as the 'Dream Girl' of Bollywood?",
+    "optionA": "Madhuri Dixit",
+    "optionB": "Sridevi",
+    "optionC": "Hema Malini",
+    "optionD": "Rekha",
+    "answer": "Hema Malini"
+  },
+  {
+    "questionId": 4,
+    "ques": "Complete the famous dialogue: 'Kitne aadmi the?'",
+    "optionA": "Sholay",
+    "optionB": "Deewaar",
+    "optionC": "Amar Akbar Anthony",
+    "optionD": "Don",
+    "answer": "Sholay"
+  },
+  {
+    "questionId": 5,
+    "ques": "Which movie features the song 'Jai Ho'?",
+    "optionA": "3 Idiots",
+    "optionB": "Slumdog Millionaire",
+    "optionC": "Rang De Basanti",
+    "optionD": "Lagaan",
+    "answer": "Slumdog Millionaire"
+  },
+  {
+    "questionId": 6,
+    "ques": "Who directed the movie 'Mughal-e-Azam'?",
+    "optionA": "Guru Dutt",
+    "optionB": "K. Asif",
+    "optionC": "Raj Kapoor",
+    "optionD": "Bimal Roy",
+    "answer": "K. Asif"
+  },
+  {
+    "questionId": 7,
+    "ques": "In which movie did Aamir Khan play the role of a college student at age 44?",
+    "optionA": "Rang De Basanti",
+    "optionB": "3 Idiots",
+    "optionC": "Dangal",
+    "optionD": "PK",
+    "answer": "3 Idiots"
+  },
+  {
+    "questionId": 8,
+    "ques": "Which movie is known for the dialogue 'Pushpa, I hate tears'?",
+    "optionA": "Amar Prem",
+    "optionB": "Anand",
+    "optionC": "Safar",
+    "optionD": "Bawarchi",
+    "answer": "Amar Prem"
+  },
+  {
+    "questionId": 9,
+    "ques": "Who composed the music for 'Dilwale Dulhania Le Jayenge'?",
+    "optionA": "A.R. Rahman",
+    "optionB": "Jatin-Lalit",
+    "optionC": "Shankar-Ehsaan-Loy",
+    "optionD": "Ilaiyaraaja",
+    "answer": "Jatin-Lalit"
+  },
+  {
+    "questionId": 10,
+    "ques": "Which actress played the role of 'Geet' in Jab We Met?",
+    "optionA": "Deepika Padukone",
+    "optionB": "Kareena Kapoor",
+    "optionC": "Priyanka Chopra",
+    "optionD": "Katrina Kaif",
+    "answer": "Kareena Kapoor"
+  },
+  {
+    "questionId": 11,
+    "ques": "In which movie did Hrithik Roshan make his debut?",
+    "optionA": "Kaho Naa... Pyaar Hai",
+    "optionB": "Fiza",
+    "optionC": "Mission Kashmir",
+    "optionD": "Koi... Mil Gaya",
+    "answer": "Kaho Naa... Pyaar Hai"
+  },
+  {
+    "questionId": 12,
+    "ques": "Which movie features the famous train scene with Shah Rukh Khan?",
+    "optionA": "Dilwale Dulhania Le Jayenge",
+    "optionB": "Chennai Express",
+    "optionC": "Raees",
+    "optionD": "Both A and B",
+    "answer": "Both A and B"
+  },
+  {
+    "questionId": 13,
+    "ques": "Who played the role of 'Mogambo' in Mr. India?",
+    "optionA": "Amrish Puri",
+    "optionB": "Pran",
+    "optionC": "Shakti Kapoor",
+    "optionD": "Kulbhushan Kharbanda",
+    "answer": "Amrish Puri"
+  },
+  {
+    "questionId": 14,
+    "ques": "Which movie won the first National Film Award for Best Popular Film?",
+    "optionA": "Sholay",
+    "optionB": "Bobby",
+    "optionC": "Amar Akbar Anthony",
+    "optionD": "Hum Aapke Hain Koun..!",
+    "answer": "Hum Aapke Hain Koun..!"
+  },
+  {
+    "questionId": 15,
+    "ques": "In which movie did Madhuri Dixit dance to 'Ek Do Teen'?",
+    "optionA": "Tezaab",
+    "optionB": "Dil",
+    "optionC": "Beta",
+    "optionD": "Hum Aapke Hain Koun..!",
+    "answer": "Tezaab"
+  },
+  {
+    "questionId": 16,
+    "ques": "Which actor is known as 'Bhaijaan' in Bollywood?",
+    "optionA": "Shah Rukh Khan",
+    "optionB": "Aamir Khan",
+    "optionC": "Salman Khan",
+    "optionD": "Akshay Kumar",
+    "answer": "Salman Khan"
+  },
+  {
+    "questionId": 17,
+    "ques": "What is the name of Amitabh Bachchan's character in Sholay?",
+    "optionA": "Jai",
+    "optionB": "Veeru",
+    "optionC": "Thakur",
+    "optionD": "Gabbar",
+    "answer": "Jai"
+  },
+  {
+    "questionId": 18,
+    "ques": "Which movie features the song 'Chaiyya Chaiyya'?",
+    "optionA": "Dil Se",
+    "optionB": "Taal",
+    "optionC": "Rangeela",
+    "optionD": "Bombay",
+    "answer": "Dil Se"
+  },
+  {
+    "questionId": 19,
+    "ques": "Who directed the movie 'Lagaan'?",
+    "optionA": "Rajkumar Hirani",
+    "optionB": "Ashutosh Gowariker",
+    "optionC": "Farhan Akhtar",
+    "optionD": "Karan Johar",
+    "answer": "Ashutosh Gowariker"
+  },
+  {
+    "questionId": 20,
+    "ques": "In which movie did Deepika Padukone make her Bollywood debut?",
+    "optionA": "Love Aaj Kal",
+    "optionB": "Bachna Ae Haseeno",
+    "optionC": "Om Shanti Om",
+    "optionD": "Housefull",
+    "answer": "Om Shanti Om"
+  },
+  {
+    "questionId": 21,
+    "ques": "Which movie is known for the dialogue 'Mere Karan Arjun aayenge'?",
+    "optionA": "Karan Arjun",
+    "optionB": "Kuch Kuch Hota Hai",
+    "optionC": "Kabhi Khushi Kabhie Gham",
+    "optionD": "Mohabbatein",
+    "answer": "Karan Arjun"
+  },
+  {
+    "questionId": 22,
+    "ques": "Who played the role of 'Phunsukh Wangdu' in 3 Idiots?",
+    "optionA": "Aamir Khan",
+    "optionB": "R. Madhavan",
+    "optionC": "Sharman Joshi",
+    "optionD": "Boman Irani",
+    "answer": "Aamir Khan"
+  },
+  {
+    "questionId": 23,
+    "ques": "Which actress is known as the 'Dhak Dhak Girl'?",
+    "optionA": "Sridevi",
+    "optionB": "Madhuri Dixit",
+    "optionC": "Juhi Chawla",
+    "optionD": "Manisha Koirala",
+    "answer": "Madhuri Dixit"
+  },
+  {
+    "questionId": 24,
+    "ques": "In which movie did Aishwarya Rai play the role of 'Paro'?",
+    "optionA": "Hum Dil De Chuke Sanam",
+    "optionB": "Devdas",
+    "optionC": "Taal",
+    "optionD": "Mohabbatein",
+    "answer": "Devdas"
+  },
+  {
+    "questionId": 25,
+    "ques": "Which movie features the famous 'Yeh Dosti' song?",
+    "optionA": "Sholay",
+    "optionB": "Dosti",
+    "optionC": "Amar Akbar Anthony",
+    "optionD": "Anand",
+    "answer": "Sholay"
+  },
+  {
+    "questionId": 26,
+    "ques": "Who directed the movie 'Zindagi Na Milegi Dobara'?",
+    "optionA": "Farhan Akhtar",
+    "optionB": "Zoya Akhtar",
+    "optionC": "Karan Johar",
+    "optionD": "Imtiaz Ali",
+    "answer": "Zoya Akhtar"
+  },
+  {
+    "questionId": 27,
+    "ques": "In which movie did Ranbir Kapoor play the role of 'Bunny'?",
+    "optionA": "Yeh Jawaani Hai Deewani",
+    "optionB": "Wake Up Sid",
+    "optionC": "Rockstar",
+    "optionD": "Barfi!",
+    "answer": "Yeh Jawaani Hai Deewani"
+  },
+  {
+    "questionId": 28,
+    "ques": "Which movie is known for the dialogue 'Bade bade deshon mein aisi choti choti baatein hoti rehti hain'?",
+    "optionA": "Dilwale Dulhania Le Jayenge",
+    "optionB": "Kuch Kuch Hota Hai",
+    "optionC": "Kabhi Khushi Kabhie Gham",
+    "optionD": "Mohabbatein",
+    "answer": "Dilwale Dulhania Le Jayenge"
+  },
+  {
+    "questionId": 29,
+    "ques": "Who composed the music for the movie 'Rockstar'?",
+    "optionA": "A.R. Rahman",
+    "optionB": "Shankar-Ehsaan-Loy",
+    "optionC": "Vishal-Shekhar",
+    "optionD": "Pritam",
+    "answer": "A.R. Rahman"
+  },
+  {
+    "questionId": 30,
+    "ques": "In which movie did Priyanka Chopra play the role of 'Meghna'?",
+    "optionA": "Fashion",
+    "optionB": "Aitraaz",
+    "optionC": "Dostana",
+    "optionD": "Barfi!",
+    "answer": "Fashion"
+  },
+  {
+    "questionId": 31,
+    "ques": "Which movie features the character 'Circuit'?",
+    "optionA": "Lage Raho Munna Bhai",
+    "optionB": "Munna Bhai M.B.B.S.",
+    "optionC": "Both A and B",
+    "optionD": "3 Idiots",
+    "answer": "Both A and B"
+  },
+  {
+    "questionId": 32,
+    "ques": "Who played the role of 'Babli' in Bunty Aur Babli?",
+    "optionA": "Rani Mukerji",
+    "optionB": "Preity Zinta",
+    "optionC": "Kajol",
+    "optionD": "Bipasha Basu",
+    "answer": "Rani Mukerji"
+  },
+  {
+    "questionId": 33,
+    "ques": "Which movie is known for the dialogue 'Rahul, naam toh suna hi hoga'?",
+    "optionA": "Darr",
+    "optionB": "Baazigar",
+    "optionC": "Kuch Kuch Hota Hai",
+    "optionD": "Dilwale Dulhania Le Jayenge",
+    "answer": "Darr"
+  },
+  {
+    "questionId": 34,
+    "ques": "In which movie did Vidya Balan play the role of 'Silk'?",
+    "optionA": "Kahaani",
+    "optionB": "The Dirty Picture",
+    "optionC": "Paa",
+    "optionD": "Ishqiya",
+    "answer": "The Dirty Picture"
+  },
+  {
+    "questionId": 35,
+    "ques": "Which actor is known as 'Mr. Perfectionist'?",
+    "optionA": "Shah Rukh Khan",
+    "optionB": "Aamir Khan",
+    "optionC": "Salman Khan",
+    "optionD": "Hrithik Roshan",
+    "answer": "Aamir Khan"
+  },
+  {
+    "questionId": 36,
+    "ques": "Who directed the movie 'Queen'?",
+    "optionA": "Vikas Bahl",
+    "optionB": "Anurag Kashyap",
+    "optionC": "Rajkumar Hirani",
+    "optionD": "Imtiaz Ali",
+    "answer": "Vikas Bahl"
+  },
+  {
+    "questionId": 37,
+    "ques": "In which movie did John Abraham play the role of a bike thief?",
+    "optionA": "Dhoom",
+    "optionB": "Dostana",
+    "optionC": "Force",
+    "optionD": "Madras Cafe",
+    "answer": "Dhoom"
+  },
+  {
+    "questionId": 38,
+    "ques": "Which movie features the song 'Nagada Sang Dhol'?",
+    "optionA": "Goliyon Ki Raasleela Ram-Leela",
+    "optionB": "Bajirao Mastani",
+    "optionC": "Padmaavat",
+    "optionD": "Dangal",
+    "answer": "Goliyon Ki Raasleela Ram-Leela"
+  },
+  {
+    "questionId": 39,
+    "ques": "Who played the role of 'Ganga' in Gangaajal?",
+    "optionA": "Ajay Devgn",
+    "optionB": "Akshay Kumar",
+    "optionC": "Sunny Deol",
+    "optionD": "Sanjay Dutt",
+    "answer": "Ajay Devgn"
+  },
+  {
+    "questionId": 40,
+    "ques": "Which actress played the role of 'Mastani' in Bajirao Mastani?",
+    "optionA": "Priyanka Chopra",
+    "optionB": "Deepika Padukone",
+    "optionC": "Katrina Kaif",
+    "optionD": "Anushka Sharma",
+    "answer": "Deepika Padukone"
+  },
+  {
+    "questionId": 41,
+    "ques": "In which movie did Kangana Ranaut play the role of 'Rani'?",
+    "optionA": "Queen",
+    "optionB": "Tanu Weds Manu",
+    "optionC": "Fashion",
+    "optionD": "Gangster",
+    "answer": "Queen"
+  },
+  {
+    "questionId": 42,
+    "ques": "Which movie is known for the dialogue 'Rishte mein toh hum tumhare baap lagte hain'?",
+    "optionA": "Shahenshah",
+    "optionB": "Agneepath",
+    "optionC": "Deewaar",
+    "optionD": "Zanjeer",
+    "answer": "Shahenshah"
+  },
+  {
+    "questionId": 43,
+    "ques": "Who composed the music for 'Kabir Singh'?",
+    "optionA": "Pritam",
+    "optionB": "Vishal Mishra",
+    "optionC": "Sachet-Parampara",
+    "optionD": "All of the above",
+    "answer": "All of the above"
+  },
+  {
+    "questionId": 44,
+    "ques": "In which movie did Tabu play the role of a police officer?",
+    "optionA": "Drishyam",
+    "optionB": "Andhadhun",
+    "optionC": "Haider",
+    "optionD": "Pink",
+    "answer": "Drishyam"
+  },
+  {
+    "questionId": 45,
+    "ques": "Which movie features the famous 'Malhari' song?",
+    "optionA": "Bajirao Mastani",
+    "optionB": "Padmaavat",
+    "optionC": "Goliyon Ki Raasleela Ram-Leela",
+    "optionD": "Dangal",
+    "answer": "Bajirao Mastani"
+  },
+  {
+    "questionId": 46,
+    "ques": "Who directed the movie 'Andhadhun'?",
+    "optionA": "Sriram Raghavan",
+    "optionB": "Anurag Kashyap",
+    "optionC": "Vishal Bhardwaj",
+    "optionD": "Imtiaz Ali",
+    "answer": "Sriram Raghavan"
+  },
+  {
+    "questionId": 47,
+    "ques": "In which movie did Rishi Kapoor play the role of 'Rauf Lala'?",
+    "optionA": "Agneepath",
+    "optionB": "D-Day",
+    "optionC": "Mulk",
+    "optionD": "102 Not Out",
+    "answer": "Agneepath"
+  },
+  {
+    "questionId": 48,
+    "ques": "Which actress is known as 'Lady Superstar'?",
+    "optionA": "Sridevi",
+    "optionB": "Madhuri Dixit",
+    "optionC": "Rekha",
+    "optionD": "Hema Malini",
+    "answer": "Sridevi"
+  },
+  {
+    "questionId": 49,
+    "ques": "Who played the role of 'Chulbul Pandey' in Dabangg?",
+    "optionA": "Akshay Kumar",
+    "optionB": "Salman Khan",
+    "optionC": "Ajay Devgn",
+    "optionD": "Sunny Deol",
+    "answer": "Salman Khan"
+  },
+  {
+    "questionId": 50,
+    "ques": "Which movie features the dialogue 'Main apni favourite hoon'?",
+    "optionA": "Jab We Met",
+    "optionB": "Kareeb",
+    "optionC": "Heroine",
+    "optionD": "Chameli",
+    "answer": "Jab We Met"
+  },
+  {
+    "questionId": 51,
+    "ques": "In which movie did Irrfan Khan play the role of 'Saajan Fernandes'?",
+    "optionA": "The Lunchbox",
+    "optionB": "Piku",
+    "optionC": "Hindi Medium",
+    "optionD": "Karwaan",
+    "answer": "The Lunchbox"
+  },
+  {
+    "questionId": 52,
+    "ques": "Which movie is known for the song 'Tum Hi Ho'?",
+    "optionA": "Aashiqui 2",
+    "optionB": "Ek Villain",
+    "optionC": "Half Girlfriend",
+    "optionD": "Sanam Re",
+    "answer": "Aashiqui 2"
+  },
+  {
+    "questionId": 53,
+    "ques": "Who directed the movie 'Gully Boy'?",
+    "optionA": "Zoya Akhtar",
+    "optionB": "Farhan Akhtar",
+    "optionC": "Karan Johar",
+    "optionD": "Anurag Kashyap",
+    "answer": "Zoya Akhtar"
+  },
+  {
+    "questionId": 54,
+    "ques": "In which movie did Nawazuddin Siddiqui play the role of 'Faisal'?",
+    "optionA": "Gangs of Wasseypur",
+    "optionB": "Bajrangi Bhaijaan",
+    "optionC": "Kick",
+    "optionD": "Raees",
+    "answer": "Gangs of Wasseypur"
+  },
+  {
+    "questionId": 55,
+    "ques": "Which actress played the role of 'Piku' in the movie Piku?",
+    "optionA": "Deepika Padukone",
+    "optionB": "Priyanka Chopra",
+    "optionC": "Anushka Sharma",
+    "optionD": "Alia Bhatt",
+    "answer": "Deepika Padukone"
+  },
+  {
+    "questionId": 56,
+    "ques": "Who played the role of 'Bhuvan' in Lagaan?",
+    "optionA": "Aamir Khan",
+    "optionB": "Shah Rukh Khan",
+    "optionC": "Hrithik Roshan",
+    "optionD": "Akshay Kumar",
+    "answer": "Aamir Khan"
+  },
+  {
+    "questionId": 57,
+    "ques": "Which movie features the song 'Apna Time Aayega'?",
+    "optionA": "Gully Boy",
+    "optionB": "Sacred Games",
+    "optionC": "Mirzapur",
+    "optionD": "Super 30",
+    "answer": "Gully Boy"
+  },
+  {
+    "questionId": 58,
+    "ques": "In which movie did Rajkummar Rao play the role of 'Pritam Vidrohi'?",
+    "optionA": "Bareilly Ki Barfi",
+    "optionB": "Newton",
+    "optionC": "Stree",
+    "optionD": "Badhaai Ho",
+    "answer": "Bareilly Ki Barfi"
+  },
+  {
+    "questionId": 59,
+    "ques": "Which movie is known for the dialogue 'Ye badhiya hai'?",
+    "optionA": "Fukrey",
+    "optionB": "Golmaal",
+    "optionC": "Hera Pheri",
+    "optionD": "Welcome",
+    "answer": "Fukrey"
+  },
+  {
+    "questionId": 60,
+    "ques": "Who composed the music for 'Dangal'?",
+    "optionA": "Pritam",
+    "optionB": "A.R. Rahman",
+    "optionC": "Shankar-Ehsaan-Loy",
+    "optionD": "Vishal-Shekhar",
+    "answer": "Pritam"
+  },
+  {
+    "questionId": 61,
+    "ques": "In which movie did Ayushmann Khurrana play the role of a sperm donor?",
+    "optionA": "Vicky Donor",
+    "optionB": "Shubh Mangal Saavdhan",
+    "optionC": "Badhaai Ho",
+    "optionD": "Article 15",
+    "answer": "Vicky Donor"
+  },
+  {
+    "questionId": 62,
+    "ques": "Which actress played the role of 'Geeta' in Dangal?",
+    "optionA": "Fatima Sana Shaikh",
+    "optionB": "Sanya Malhotra",
+    "optionC": "Zaira Wasim",
+    "optionD": "Sakshi Tanwar",
+    "answer": "Fatima Sana Shaikh"
+  },
+  {
+    "questionId": 63,
+    "ques": "Who directed the movie 'Tumhari Sulu'?",
+    "optionA": "Suresh Triveni",
+    "optionB": "Ashwiny Iyer Tiwari",
+    "optionC": "Meghna Gulzar",
+    "optionD": "Gauri Shinde",
+    "answer": "Suresh Triveni"
+  },
+  {
+    "questionId": 64,
+    "ques": "In which movie did Vicky Kaushal play the role of 'Kamli'?",
+    "optionA": "Sanju",
+    "optionB": "Raazi",
+    "optionC": "URI: The Surgical Strike",
+    "optionD": "Manmarziyaan",
+    "answer": "Sanju"
+  },
+  {
+    "questionId": 65,
+    "ques": "Which movie features the song 'Befikra'?",
+    "optionA": "Tiger Shroff",
+    "optionB": "Befikre",
+    "optionC": "Student of the Year 2",
+    "optionD": "War",
+    "answer": "Befikre"
+  },
+  {
+    "questionId": 66,
+    "ques": "Who played the role of 'Sehmat' in Raazi?",
+    "optionA": "Alia Bhatt",
+    "optionB": "Anushka Sharma",
+    "optionC": "Shraddha Kapoor",
+    "optionD": "Parineeti Chopra",
+    "answer": "Alia Bhatt"
+  },
+  {
+    "questionId": 67,
+    "ques": "Which movie is known for the dialogue 'Utha le re deva'?",
+    "optionA": "Singham",
+    "optionB": "Dabangg",
+    "optionC": "Rowdy Rathore",
+    "optionD": "Golmaal",
+    "answer": "Singham"
+  },
+  {
+    "questionId": 68,
+    "ques": "In which movie did Ranveer Singh play the role of 'Alauddin Khilji'?",
+    "optionA": "Bajirao Mastani",
+    "optionB": "Padmaavat",
+    "optionC": "Goliyon Ki Raasleela Ram-Leela",
+    "optionD": "Lootera",
+    "answer": "Padmaavat"
+  },
+  {
+    "questionId": 69,
+    "ques": "Which actress is known as 'Bebo'?",
+    "optionA": "Karisma Kapoor",
+    "optionB": "Kareena Kapoor",
+    "optionC": "Kajol",
+    "optionD": "Kriti Sanon",
+    "answer": "Kareena Kapoor"
+  },
+  {
+    "questionId": 70,
+    "ques": "Who directed the movie 'Pink'?",
+    "optionA": "Anirudh Roy Chowdhury",
+    "optionB": "Shoojit Sircar",
+    "optionC": "Meghna Gulzar",
+    "optionD": "Gauri Shinde",
+    "answer": "Anirudh Roy Chowdhury"
+  },
+  {
+    "questionId": 71,
+    "ques": "In which movie did Shahid Kapoor play the role of 'Tommy Singh'?",
+    "optionA": "Udta Punjab",
+    "optionB": "Haider",
+    "optionC": "Padmaavat",
+    "optionD": "Kabir Singh",
+    "answer": "Udta Punjab"
+  }]

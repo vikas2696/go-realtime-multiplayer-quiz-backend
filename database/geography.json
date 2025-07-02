@@ -1,0 +1,1352 @@
+[
+  {
+    "questionId": 1,
+    "ques": "Which mountain range forms the natural border between Europe and Asia?",
+    "optionA": "Caucasus Mountains",
+    "optionB": "Ural Mountains",
+    "optionC": "Carpathian Mountains",
+    "optionD": "Altai Mountains",
+    "answer": "Ural Mountains"
+  },
+  {
+    "questionId": 2,
+    "ques": "What is the longest river in South America?",
+    "optionA": "Orinoco River",
+    "optionB": "Paraná River",
+    "optionC": "Amazon River",
+    "optionD": "Magdalena River",
+    "answer": "Amazon River"
+  },
+  {
+    "questionId": 3,
+    "ques": "Which African country is completely surrounded by South Africa?",
+    "optionA": "Swaziland",
+    "optionB": "Lesotho",
+    "optionC": "Botswana",
+    "optionD": "Mozambique",
+    "answer": "Lesotho"
+  },
+  {
+    "questionId": 4,
+    "ques": "What is the capital of Kazakhstan?",
+    "optionA": "Almaty",
+    "optionB": "Astana",
+    "optionC": "Shymkent",
+    "optionD": "Aktobe",
+    "answer": "Astana"
+  },
+  {
+    "questionId": 5,
+    "ques": "Which strait separates Europe from Africa?",
+    "optionA": "Strait of Hormuz",
+    "optionB": "Strait of Gibraltar",
+    "optionC": "Bosphorus Strait",
+    "optionD": "Strait of Malacca",
+    "answer": "Strait of Gibraltar"
+  },
+  {
+    "questionId": 6,
+    "ques": "What is the deepest lake in the world?",
+    "optionA": "Lake Superior",
+    "optionB": "Lake Tanganyika",
+    "optionC": "Lake Baikal",
+    "optionD": "Caspian Sea",
+    "answer": "Lake Baikal"
+  },
+  {
+    "questionId": 7,
+    "ques": "Which country has the most time zones?",
+    "optionA": "United States",
+    "optionB": "Russia",
+    "optionC": "China",
+    "optionD": "France",
+    "answer": "France"
+  },
+  {
+    "questionId": 8,
+    "ques": "What is the smallest country in Central America?",
+    "optionA": "Belize",
+    "optionB": "Costa Rica",
+    "optionC": "El Salvador",
+    "optionD": "Panama",
+    "answer": "El Salvador"
+  },
+  {
+    "questionId": 9,
+    "ques": "Which desert is located in northern Chile?",
+    "optionA": "Gobi Desert",
+    "optionB": "Atacama Desert",
+    "optionC": "Kalahari Desert",
+    "optionD": "Patagonian Desert",
+    "answer": "Atacama Desert"
+  },
+  {
+    "questionId": 10,
+    "ques": "What is the capital of Bangladesh?",
+    "optionA": "Chittagong",
+    "optionB": "Sylhet",
+    "optionC": "Dhaka",
+    "optionD": "Rajshahi",
+    "answer": "Dhaka"
+  },
+  {
+    "questionId": 11,
+    "ques": "Which island nation is located southeast of India?",
+    "optionA": "Maldives",
+    "optionB": "Sri Lanka",
+    "optionC": "Mauritius",
+    "optionD": "Seychelles",
+    "answer": "Sri Lanka"
+  },
+  {
+    "questionId": 12,
+    "ques": "What is the highest waterfall in the world?",
+    "optionA": "Niagara Falls",
+    "optionB": "Victoria Falls",
+    "optionC": "Angel Falls",
+    "optionD": "Iguazu Falls",
+    "answer": "Angel Falls"
+  },
+  {
+    "questionId": 13,
+    "ques": "Which European country is known as the 'Land of a Thousand Lakes'?",
+    "optionA": "Sweden",
+    "optionB": "Norway",
+    "optionC": "Finland",
+    "optionD": "Denmark",
+    "answer": "Finland"
+  },
+  {
+    "questionId": 14,
+    "ques": "What is the capital of Morocco?",
+    "optionA": "Casablanca",
+    "optionB": "Marrakech",
+    "optionC": "Rabat",
+    "optionD": "Fez",
+    "answer": "Rabat"
+  },
+  {
+    "questionId": 15,
+    "ques": "Which river flows through Baghdad?",
+    "optionA": "Euphrates",
+    "optionB": "Tigris",
+    "optionC": "Jordan",
+    "optionD": "Nile",
+    "answer": "Tigris"
+  },
+  {
+    "questionId": 16,
+    "ques": "What is the largest island in the Mediterranean Sea?",
+    "optionA": "Sardinia",
+    "optionB": "Cyprus",
+    "optionC": "Sicily",
+    "optionD": "Corsica",
+    "answer": "Sicily"
+  },
+  {
+    "questionId": 17,
+    "ques": "Which country is home to the ancient city of Petra?",
+    "optionA": "Syria",
+    "optionB": "Lebanon",
+    "optionC": "Jordan",
+    "optionD": "Israel",
+    "answer": "Jordan"
+  },
+  {
+    "questionId": 18,
+    "ques": "What is the northernmost capital city in the world?",
+    "optionA": "Oslo",
+    "optionB": "Helsinki",
+    "optionC": "Stockholm",
+    "optionD": "Reykjavik",
+    "answer": "Reykjavik"
+  },
+  {
+    "questionId": 19,
+    "ques": "Which mountain range runs along the western coast of South America?",
+    "optionA": "Rocky Mountains",
+    "optionB": "Andes Mountains",
+    "optionC": "Sierra Nevada",
+    "optionD": "Appalachian Mountains",
+    "answer": "Andes Mountains"
+  },
+  {
+    "questionId": 20,
+    "ques": "What is the capital of Vietnam?",
+    "optionA": "Ho Chi Minh City",
+    "optionB": "Da Nang",
+    "optionC": "Hanoi",
+    "optionD": "Hue",
+    "answer": "Hanoi"
+  },
+  {
+    "questionId": 21,
+    "ques": "Which sea is located between Greece and Turkey?",
+    "optionA": "Ionian Sea",
+    "optionB": "Aegean Sea",
+    "optionC": "Adriatic Sea",
+    "optionD": "Tyrrhenian Sea",
+    "answer": "Aegean Sea"
+  },
+  {
+    "questionId": 22,
+    "ques": "What is the largest country in Africa by area?",
+    "optionA": "Democratic Republic of Congo",
+    "optionB": "Sudan",
+    "optionC": "Algeria",
+    "optionD": "Libya",
+    "answer": "Algeria"
+  },
+  {
+    "questionId": 23,
+    "ques": "Which country has the longest coastline in the world?",
+    "optionA": "Russia",
+    "optionB": "Australia",
+    "optionC": "Canada",
+    "optionD": "Norway",
+    "answer": "Canada"
+  },
+  {
+    "questionId": 24,
+    "ques": "What is the capital of Peru?",
+    "optionA": "Cusco",
+    "optionB": "Arequipa",
+    "optionC": "Lima",
+    "optionD": "Trujillo",
+    "answer": "Lima"
+  },
+  {
+    "questionId": 25,
+    "ques": "Which country is known as the 'Pearl of the Orient'?",
+    "optionA": "Thailand",
+    "optionB": "Philippines",
+    "optionC": "Malaysia",
+    "optionD": "Singapore",
+    "answer": "Philippines"
+  },
+  {
+    "questionId": 26,
+    "ques": "What is the deepest point on Earth's surface?",
+    "optionA": "Puerto Rico Trench",
+    "optionB": "Java Trench",
+    "optionC": "Mariana Trench",
+    "optionD": "Peru-Chile Trench",
+    "answer": "Mariana Trench"
+  },
+  {
+    "questionId": 27,
+    "ques": "Which African river is known as the 'lifeline of Egypt'?",
+    "optionA": "Congo River",
+    "optionB": "Niger River",
+    "optionC": "Zambezi River",
+    "optionD": "Nile River",
+    "answer": "Nile River"
+  },
+  {
+    "questionId": 28,
+    "ques": "What is the capital of Chile?",
+    "optionA": "Valparaíso",
+    "optionB": "Santiago",
+    "optionC": "Concepción",
+    "optionD": "Antofagasta",
+    "answer": "Santiago"
+  },
+  {
+    "questionId": 29,
+    "ques": "Which peninsula is shared by Spain and Portugal?",
+    "optionA": "Italian Peninsula",
+    "optionB": "Balkan Peninsula",
+    "optionC": "Iberian Peninsula",
+    "optionD": "Scandinavian Peninsula",
+    "answer": "Iberian Peninsula"
+  },
+  {
+    "questionId": 30,
+    "ques": "What is the largest lake in Africa?",
+    "optionA": "Lake Tanganyika",
+    "optionB": "Lake Malawi",
+    "optionC": "Lake Victoria",
+    "optionD": "Lake Chad",
+    "answer": "Lake Victoria"
+  },
+  {
+    "questionId": 31,
+    "ques": "Which country is home to Machu Picchu?",
+    "optionA": "Bolivia",
+    "optionB": "Ecuador",
+    "optionC": "Peru",
+    "optionD": "Colombia",
+    "answer": "Peru"
+  },
+  {
+    "questionId": 32,
+    "ques": "What is the capital of Myanmar?",
+    "optionA": "Yangon",
+    "optionB": "Mandalay",
+    "optionC": "Naypyidaw",
+    "optionD": "Bagan",
+    "answer": "Naypyidaw"
+  },
+  {
+    "questionId": 33,
+    "ques": "Which ocean is the smallest by area?",
+    "optionA": "Indian Ocean",
+    "optionB": "Arctic Ocean",
+    "optionC": "Atlantic Ocean",
+    "optionD": "Southern Ocean",
+    "answer": "Arctic Ocean"
+  },
+  {
+    "questionId": 34,
+    "ques": "What is the highest mountain in North America?",
+    "optionA": "Mount Whitney",
+    "optionB": "Mount McKinley",
+    "optionC": "Mount Elbert",
+    "optionD": "Mount Rainier",
+    "answer": "Mount McKinley"
+  },
+  {
+    "questionId": 35,
+    "ques": "Which country is known as the 'Land of the Rising Sun'?",
+    "optionA": "China",
+    "optionB": "South Korea",
+    "optionC": "Japan",
+    "optionD": "Thailand",
+    "answer": "Japan"
+  },
+  {
+    "questionId": 36,
+    "ques": "What is the capital of Ethiopia?",
+    "optionA": "Dire Dawa",
+    "optionB": "Addis Ababa",
+    "optionC": "Mekelle",
+    "optionD": "Bahir Dar",
+    "answer": "Addis Ababa"
+  },
+  {
+    "questionId": 37,
+    "ques": "Which river forms part of the border between Mexico and the United States?",
+    "optionA": "Colorado River",
+    "optionB": "Rio Grande",
+    "optionC": "Mississippi River",
+    "optionD": "Columbia River",
+    "answer": "Rio Grande"
+  },
+  {
+    "questionId": 38,
+    "ques": "What is the largest island in the world?",
+    "optionA": "Madagascar",
+    "optionB": "Greenland",
+    "optionC": "New Guinea",
+    "optionD": "Borneo",
+    "answer": "Greenland"
+  },
+  {
+    "questionId": 39,
+    "ques": "Which European country has the most neighbors?",
+    "optionA": "France",
+    "optionB": "Germany",
+    "optionC": "Austria",
+    "optionD": "Switzerland",
+    "answer": "Germany"
+  },
+  {
+    "questionId": 40,
+    "ques": "What is the capital of Argentina?",
+    "optionA": "Córdoba",
+    "optionB": "Rosario",
+    "optionC": "Buenos Aires",
+    "optionD": "Mendoza",
+    "answer": "Buenos Aires"
+  },
+  {
+    "questionId": 41,
+    "ques": "Which country is home to the Sahara Desert's largest portion?",
+    "optionA": "Libya",
+    "optionB": "Egypt",
+    "optionC": "Algeria",
+    "optionD": "Chad",
+    "answer": "Algeria"
+  },
+  {
+    "questionId": 42,
+    "ques": "What is the longest mountain range in the world?",
+    "optionA": "Himalayas",
+    "optionB": "Rocky Mountains",
+    "optionC": "Andes Mountains",
+    "optionD": "Alps",
+    "answer": "Andes Mountains"
+  },
+  {
+    "questionId": 43,
+    "ques": "Which country is known as the 'Hermit Kingdom'?",
+    "optionA": "Myanmar",
+    "optionB": "North Korea",
+    "optionC": "Bhutan",
+    "optionD": "Nepal",
+    "answer": "North Korea"
+  },
+  {
+    "questionId": 44,
+    "ques": "What is the capital of New Zealand?",
+    "optionA": "Auckland",
+    "optionB": "Christchurch",
+    "optionC": "Wellington",
+    "optionD": "Hamilton",
+    "answer": "Wellington"
+  },
+  {
+    "questionId": 45,
+    "ques": "Which sea is the saltiest in the world?",
+    "optionA": "Red Sea",
+    "optionB": "Dead Sea",
+    "optionC": "Mediterranean Sea",
+    "optionD": "Arabian Sea",
+    "answer": "Dead Sea"
+  },
+  {
+    "questionId": 46,
+    "ques": "What is the capital of Canada?",
+    "optionA": "Toronto",
+    "optionB": "Vancouver",
+    "optionC": "Ottawa",
+    "optionD": "Montreal",
+    "answer": "Ottawa"
+  },
+  {
+    "questionId": 47,
+    "ques": "Which country has the most volcanoes?",
+    "optionA": "Japan",
+    "optionB": "Indonesia",
+    "optionC": "Philippines",
+    "optionD": "Chile",
+    "answer": "Indonesia"
+  },
+  {
+    "questionId": 48,
+    "ques": "What is the highest peak in Africa?",
+    "optionA": "Mount Kenya",
+    "optionB": "Mount Kilimanjaro",
+    "optionC": "Ras Dashen",
+    "optionD": "Mount Elgon",
+    "answer": "Mount Kilimanjaro"
+  },
+  {
+    "questionId": 49,
+    "ques": "Which country is both in Europe and Asia?",
+    "optionA": "Russia",
+    "optionB": "Turkey",
+    "optionC": "Kazakhstan",
+    "optionD": "All of the above",
+    "answer": "All of the above"
+  },
+  {
+    "questionId": 50,
+    "ques": "What is the capital of South Korea?",
+    "optionA": "Busan",
+    "optionB": "Incheon",
+    "optionC": "Seoul",
+    "optionD": "Daegu",
+    "answer": "Seoul"
+  },
+  {
+    "questionId": 1,
+    "ques": "What is the longest river in the world?",
+    "optionA": "Amazon",
+    "optionB": "Nile",
+    "optionC": "Yangtze",
+    "optionD": "Mississippi",
+    "answer": "Nile"
+  },
+  {
+    "questionId": 2,
+    "ques": "Which is the largest desert in the world?",
+    "optionA": "Sahara",
+    "optionB": "Antarctic Desert",
+    "optionC": "Arabian Desert",
+    "optionD": "Gobi Desert",
+    "answer": "Antarctic Desert"
+  },
+  {
+    "questionId": 3,
+    "ques": "What is the capital of Australia?",
+    "optionA": "Sydney",
+    "optionB": "Melbourne",
+    "optionC": "Canberra",
+    "optionD": "Perth",
+    "answer": "Canberra"
+  },
+  {
+    "questionId": 4,
+    "ques": "Which latitude passes through the middle of India?",
+    "optionA": "Equator",
+    "optionB": "Tropic of Cancer",
+    "optionC": "Tropic of Capricorn",
+    "optionD": "Arctic Circle",
+    "answer": "Tropic of Cancer"
+  },
+  {
+    "questionId": 5,
+    "ques": "What percentage of Earth's surface is covered by water?",
+    "optionA": "51%",
+    "optionB": "61%",
+    "optionC": "71%",
+    "optionD": "81%",
+    "answer": "71%"
+  },
+  {
+    "questionId": 6,
+    "ques": "Which country has the most time zones?",
+    "optionA": "Russia",
+    "optionB": "USA",
+    "optionC": "China",
+    "optionD": "France",
+    "answer": "France"
+  },
+  {
+    "questionId": 7,
+    "ques": "What is the smallest continent by area?",
+    "optionA": "Europe",
+    "optionB": "Australia",
+    "optionC": "Antarctica",
+    "optionD": "South America",
+    "answer": "Australia"
+  },
+  {
+    "questionId": 8,
+    "ques": "Which ocean is the deepest?",
+    "optionA": "Atlantic Ocean",
+    "optionB": "Pacific Ocean",
+    "optionC": "Indian Ocean",
+    "optionD": "Arctic Ocean",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "questionId": 9,
+    "ques": "What type of climate does Chennai experience?",
+    "optionA": "Tropical wet",
+    "optionB": "Tropical dry",
+    "optionC": "Tropical wet and dry",
+    "optionD": "Semi-arid",
+    "answer": "Tropical wet and dry"
+  },
+  {
+    "questionId": 10,
+    "ques": "Which is the highest peak in the world?",
+    "optionA": "K2",
+    "optionB": "Kangchenjunga",
+    "optionC": "Mount Everest",
+    "optionD": "Makalu",
+    "answer": "Mount Everest"
+  },
+  {
+    "questionId": 11,
+    "ques": "What causes day and night?",
+    "optionA": "Revolution of Earth",
+    "optionB": "Rotation of Earth",
+    "optionC": "Tilt of Earth's axis",
+    "optionD": "Distance from Sun",
+    "answer": "Rotation of Earth"
+  },
+  {
+    "questionId": 12,
+    "ques": "Which Indian state has the longest coastline?",
+    "optionA": "Tamil Nadu",
+    "optionB": "Andhra Pradesh",
+    "optionC": "Gujarat",
+    "optionD": "Maharashtra",
+    "answer": "Gujarat"
+  },
+  {
+    "questionId": 13,
+    "ques": "What is the standard meridian of India?",
+    "optionA": "82°30'E",
+    "optionB": "83°30'E",
+    "optionC": "81°30'E",
+    "optionD": "84°30'E",
+    "answer": "82°30'E"
+  },
+  {
+    "questionId": 14,
+    "ques": "Which soil is known as 'Black Cotton Soil'?",
+    "optionA": "Alluvial soil",
+    "optionB": "Red soil",
+    "optionC": "Regur soil",
+    "optionD": "Laterite soil",
+    "answer": "Regur soil"
+  },
+  {
+    "questionId": 15,
+    "ques": "What is the largest island in the world?",
+    "optionA": "Australia",
+    "optionB": "Greenland",
+    "optionC": "New Guinea",
+    "optionD": "Borneo",
+    "answer": "Greenland"
+  },
+  {
+    "questionId": 16,
+    "ques": "Which wind brings rainfall to Tamil Nadu in winter?",
+    "optionA": "Southwest monsoon",
+    "optionB": "Northeast monsoon",
+    "optionC": "Western disturbances",
+    "optionD": "Loo",
+    "answer": "Northeast monsoon"
+  },
+  {
+    "questionId": 17,
+    "ques": "What is the capital of Brazil?",
+    "optionA": "Rio de Janeiro",
+    "optionB": "São Paulo",
+    "optionC": "Brasília",
+    "optionD": "Salvador",
+    "answer": "Brasília"
+  },
+  {
+    "questionId": 18,
+    "ques": "Which river is known as the 'Sorrow of Bengal'?",
+    "optionA": "Ganga",
+    "optionB": "Brahmaputra",
+    "optionC": "Damodar",
+    "optionD": "Kosi",
+    "answer": "Damodar"
+  },
+  {
+    "questionId": 19,
+    "ques": "What type of vegetation is found in the Amazon Basin?",
+    "optionA": "Deciduous forest",
+    "optionB": "Coniferous forest",
+    "optionC": "Tropical rainforest",
+    "optionD": "Mediterranean vegetation",
+    "answer": "Tropical rainforest"
+  },
+  {
+    "questionId": 20,
+    "ques": "Which country is known as the 'Land of the Rising Sun'?",
+    "optionA": "China",
+    "optionB": "Japan",
+    "optionC": "Korea",
+    "optionD": "Thailand",
+    "answer": "Japan"
+  },
+  {
+    "questionId": 21,
+    "ques": "What is the largest delta in the world?",
+    "optionA": "Nile Delta",
+    "optionB": "Mississippi Delta",
+    "optionC": "Sundarbans Delta",
+    "optionD": "Mekong Delta",
+    "answer": "Sundarbans Delta"
+  },
+  {
+    "questionId": 22,
+    "ques": "Which layer of atmosphere contains ozone layer?",
+    "optionA": "Troposphere",
+    "optionB": "Stratosphere",
+    "optionC": "Mesosphere",
+    "optionD": "Thermosphere",
+    "answer": "Stratosphere"
+  },
+  {
+    "questionId": 23,
+    "ques": "What is the southernmost point of India?",
+    "optionA": "Kanyakumari",
+    "optionB": "Indira Point",
+    "optionC": "Dhanushkodi",
+    "optionD": "Rameshwaram",
+    "answer": "Indira Point"
+  },
+  {
+    "questionId": 24,
+    "ques": "Which strait separates India and Sri Lanka?",
+    "optionA": "Palk Strait",
+    "optionB": "Malacca Strait",
+    "optionC": "Hormuz Strait",
+    "optionD": "Bering Strait",
+    "answer": "Palk Strait"
+  },
+  {
+    "questionId": 25,
+    "ques": "What causes tides in the ocean?",
+    "optionA": "Wind",
+    "optionB": "Earth's rotation",
+    "optionC": "Gravitational pull of Moon and Sun",
+    "optionD": "Ocean currents",
+    "answer": "Gravitational pull of Moon and Sun"
+  },
+  {
+    "questionId": 26,
+    "ques": "Which is the wettest place on Earth?",
+    "optionA": "Cherrapunji",
+    "optionB": "Mawsynram",
+    "optionC": "Mount Waialeale",
+    "optionD": "Tutunendo",
+    "answer": "Mawsynram"
+  },
+  {
+    "questionId": 27,
+    "ques": "What is the approximate circumference of Earth?",
+    "optionA": "20,000 km",
+    "optionB": "30,000 km",
+    "optionC": "40,000 km",
+    "optionD": "50,000 km",
+    "answer": "40,000 km"
+  },
+  {
+    "questionId": 28,
+    "ques": "Which Indian state is the largest producer of tea?",
+    "optionA": "Kerala",
+    "optionB": "Tamil Nadu",
+    "optionC": "West Bengal",
+    "optionD": "Assam",
+    "answer": "Assam"
+  },
+  {
+    "questionId": 29,
+    "ques": "What type of rock is granite?",
+    "optionA": "Sedimentary",
+    "optionB": "Igneous",
+    "optionC": "Metamorphic",
+    "optionD": "Volcanic",
+    "answer": "Igneous"
+  },
+  {
+    "questionId": 30,
+    "ques": "Which canal connects the Atlantic and Pacific Oceans?",
+    "optionA": "Suez Canal",
+    "optionB": "Panama Canal",
+    "optionC": "Kiel Canal",
+    "optionD": "Erie Canal",
+    "answer": "Panama Canal"
+  },
+  {
+    "questionId": 31,
+    "ques": "What is the largest plateau in India?",
+    "optionA": "Malwa Plateau",
+    "optionB": "Chota Nagpur Plateau",
+    "optionC": "Deccan Plateau",
+    "optionD": "Mysore Plateau",
+    "answer": "Deccan Plateau"
+  },
+  {
+    "questionId": 32,
+    "ques": "Which line divides the Earth into Northern and Southern hemispheres?",
+    "optionA": "Prime Meridian",
+    "optionB": "Equator",
+    "optionC": "Tropic of Cancer",
+    "optionD": "International Date Line",
+    "answer": "Equator"
+  },
+  {
+    "questionId": 33,
+    "ques": "What is the main crop of Punjab?",
+    "optionA": "Rice",
+    "optionB": "Cotton",
+    "optionC": "Wheat",
+    "optionD": "Sugarcane",
+    "answer": "Wheat"
+  },
+  {
+    "questionId": 34,
+    "ques": "Which mountain range is known as the 'Roof of the World'?",
+    "optionA": "Himalayas",
+    "optionB": "Pamir",
+    "optionC": "Andes",
+    "optionD": "Alps",
+    "answer": "Pamir"
+  },
+  {
+    "questionId": 35,
+    "ques": "What is the currency of Japan?",
+    "optionA": "Yuan",
+    "optionB": "Won",
+    "optionC": "Yen",
+    "optionD": "Ringgit",
+    "answer": "Yen"
+  },
+  {
+    "questionId": 36,
+    "ques": "Which state in India has the highest literacy rate?",
+    "optionA": "Goa",
+    "optionB": "Kerala",
+    "optionC": "Mizoram",
+    "optionD": "Tripura",
+    "answer": "Kerala"
+  },
+  {
+    "questionId": 37,
+    "ques": "What causes earthquakes?",
+    "optionA": "Volcanic eruption",
+    "optionB": "Movement of tectonic plates",
+    "optionC": "Ocean waves",
+    "optionD": "Wind pressure",
+    "answer": "Movement of tectonic plates"
+  },
+  {
+    "questionId": 38,
+    "ques": "Which is the smallest ocean?",
+    "optionA": "Indian Ocean",
+    "optionB": "Atlantic Ocean",
+    "optionC": "Arctic Ocean",
+    "optionD": "Southern Ocean",
+    "answer": "Arctic Ocean"
+  },
+  {
+    "questionId": 39,
+    "ques": "What is the capital of Canada?",
+    "optionA": "Toronto",
+    "optionB": "Montreal",
+    "optionC": "Vancouver",
+    "optionD": "Ottawa",
+    "answer": "Ottawa"
+  },
+  {
+    "questionId": 40,
+    "ques": "Which river forms the border between USA and Mexico?",
+    "optionA": "Colorado",
+    "optionB": "Rio Grande",
+    "optionC": "Mississippi",
+    "optionD": "Missouri",
+    "answer": "Rio Grande"
+  },
+  {
+    "questionId": 41,
+    "ques": "What type of farming is practiced in Ladakh?",
+    "optionA": "Intensive farming",
+    "optionB": "Plantation farming",
+    "optionC": "Subsistence farming",
+    "optionD": "Commercial farming",
+    "answer": "Subsistence farming"
+  },
+  {
+    "questionId": 42,
+    "ques": "Which continent has no permanent human population?",
+    "optionA": "Australia",
+    "optionB": "Antarctica",
+    "optionC": "South America",
+    "optionD": "Africa",
+    "answer": "Antarctica"
+  },
+  {
+    "questionId": 43,
+    "ques": "What is the largest freshwater lake by volume?",
+    "optionA": "Lake Superior",
+    "optionB": "Lake Victoria",
+    "optionC": "Lake Baikal",
+    "optionD": "Lake Tanganyika",
+    "answer": "Lake Baikal"
+  },
+  {
+    "questionId": 44,
+    "ques": "Which Indian city is known as the 'Silicon Valley of India'?",
+    "optionA": "Hyderabad",
+    "optionB": "Pune",
+    "optionC": "Chennai",
+    "optionD": "Bengaluru",
+    "answer": "Bengaluru"
+  },
+  {
+    "questionId": 45,
+    "ques": "What is the main source of energy for the water cycle?",
+    "optionA": "Wind",
+    "optionB": "Sun",
+    "optionC": "Moon",
+    "optionD": "Earth's core",
+    "answer": "Sun"
+  },
+  {
+    "questionId": 46,
+    "ques": "Which country is both in Europe and Asia?",
+    "optionA": "Russia",
+    "optionB": "Turkey",
+    "optionC": "Kazakhstan",
+    "optionD": "All of the above",
+    "answer": "All of the above"
+  },
+  {
+    "questionId": 47,
+    "ques": "What is the study of weather called?",
+    "optionA": "Geology",
+    "optionB": "Meteorology",
+    "optionC": "Astronomy",
+    "optionD": "Geography",
+    "answer": "Meteorology"
+  },
+  {
+    "questionId": 48,
+    "ques": "Which is the longest river in India?",
+    "optionA": "Brahmaputra",
+    "optionB": "Godavari",
+    "optionC": "Ganga",
+    "optionD": "Narmada",
+    "answer": "Ganga"
+  },
+  {
+    "questionId": 49,
+    "ques": "What percentage of Earth's water is freshwater?",
+    "optionA": "3%",
+    "optionB": "10%",
+    "optionC": "15%",
+    "optionD": "20%",
+    "answer": "3%"
+  },
+  {
+    "questionId": 50,
+    "ques": "Which wind system brings most rainfall to India?",
+    "optionA": "Northeast monsoon",
+    "optionB": "Southwest monsoon",
+    "optionC": "Trade winds",
+    "optionD": "Westerlies",
+    "answer": "Southwest monsoon"
+  },
+  {
+    "questionId": 51,
+    "ques": "What is the imaginary line at 180° longitude called?",
+    "optionA": "Prime Meridian",
+    "optionB": "Equator",
+    "optionC": "International Date Line",
+    "optionD": "Tropic of Cancer",
+    "answer": "International Date Line"
+  },
+  {
+    "questionId": 52,
+    "ques": "Which is the largest producer of coffee in the world?",
+    "optionA": "Colombia",
+    "optionB": "Vietnam",
+    "optionC": "Brazil",
+    "optionD": "Ethiopia",
+    "answer": "Brazil"
+  },
+  {
+    "questionId": 53,
+    "ques": "What type of climate is found in the Mediterranean region?",
+    "optionA": "Hot dry summers, mild wet winters",
+    "optionB": "Hot wet summers, cold dry winters",
+    "optionC": "Cold throughout the year",
+    "optionD": "Hot and humid throughout",
+    "answer": "Hot dry summers, mild wet winters"
+  },
+  {
+    "questionId": 54,
+    "ques": "Which Indian state has the largest forest cover?",
+    "optionA": "Arunachal Pradesh",
+    "optionB": "Madhya Pradesh",
+    "optionC": "Chhattisgarh",
+    "optionD": "Odisha",
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "questionId": 55,
+    "ques": "What is the deepest point on Earth?",
+    "optionA": "Java Trench",
+    "optionB": "Puerto Rico Trench",
+    "optionC": "Mariana Trench",
+    "optionD": "Tonga Trench",
+    "answer": "Mariana Trench"
+  },
+  {
+    "questionId": 56,
+    "ques": "Which city is known as the 'Venice of the East'?",
+    "optionA": "Udaipur",
+    "optionB": "Alleppey",
+    "optionC": "Srinagar",
+    "optionD": "Kochi",
+    "answer": "Alleppey"
+  },
+  {
+    "questionId": 57,
+    "ques": "What causes the change of seasons?",
+    "optionA": "Distance from Sun",
+    "optionB": "Tilt of Earth's axis",
+    "optionC": "Speed of rotation",
+    "optionD": "Ocean currents",
+    "answer": "Tilt of Earth's axis"
+  },
+  {
+    "questionId": 58,
+    "ques": "Which is the largest mangrove forest in the world?",
+    "optionA": "Amazon mangroves",
+    "optionB": "Sundarbans",
+    "optionC": "Florida Everglades",
+    "optionD": "Niger Delta",
+    "answer": "Sundarbans"
+  },
+  {
+    "questionId": 59,
+    "ques": "What is the capital of Egypt?",
+    "optionA": "Alexandria",
+    "optionB": "Cairo",
+    "optionC": "Luxor",
+    "optionD": "Giza",
+    "answer": "Cairo"
+  },
+  {
+    "questionId": 60,
+    "ques": "Which Indian river flows from east to west?",
+    "optionA": "Ganga",
+    "optionB": "Godavari",
+    "optionC": "Narmada",
+    "optionD": "Krishna",
+    "answer": "Narmada"
+  },
+  {
+    "questionId": 61,
+    "ques": "What type of agriculture is practiced in thickly populated areas?",
+    "optionA": "Extensive farming",
+    "optionB": "Intensive farming",
+    "optionC": "Plantation farming",
+    "optionD": "Shifting cultivation",
+    "answer": "Intensive farming"
+  },
+  {
+    "questionId": 62,
+    "ques": "Which ocean current warms Western Europe?",
+    "optionA": "Labrador Current",
+    "optionB": "Gulf Stream",
+    "optionC": "Canary Current",
+    "optionD": "Benguela Current",
+    "answer": "Gulf Stream"
+  },
+  {
+    "questionId": 63,
+    "ques": "What is the highest plateau in the world?",
+    "optionA": "Deccan Plateau",
+    "optionB": "Colorado Plateau",
+    "optionC": "Tibetan Plateau",
+    "optionD": "Ethiopian Plateau",
+    "answer": "Tibetan Plateau"
+  },
+  {
+    "questionId": 64,
+    "ques": "Which country has the most neighbors?",
+    "optionA": "Russia",
+    "optionB": "China",
+    "optionC": "Brazil",
+    "optionD": "Germany",
+    "answer": "China"
+  },
+  {
+    "questionId": 65,
+    "ques": "What is the term for the boundary between two tectonic plates?",
+    "optionA": "Fault",
+    "optionB": "Ridge",
+    "optionC": "Trench",
+    "optionD": "Plate boundary",
+    "answer": "Plate boundary"
+  },
+  {
+    "questionId": 66,
+    "ques": "Which state is the largest producer of coal in India?",
+    "optionA": "Jharkhand",
+    "optionB": "Chhattisgarh",
+    "optionC": "Odisha",
+    "optionD": "West Bengal",
+    "answer": "Odisha"
+  },
+  {
+    "questionId": 67,
+    "ques": "What is the smallest country in the world?",
+    "optionA": "Monaco",
+    "optionB": "Vatican City",
+    "optionC": "San Marino",
+    "optionD": "Liechtenstein",
+    "answer": "Vatican City"
+  },
+  {
+    "questionId": 68,
+    "ques": "Which type of rainfall occurs on the windward side of mountains?",
+    "optionA": "Convectional rainfall",
+    "optionB": "Cyclonic rainfall",
+    "optionC": "Orographic rainfall",
+    "optionD": "Frontal rainfall",
+    "answer": "Orographic rainfall"
+  },
+  {
+    "questionId": 69,
+    "ques": "What is the largest coral reef system in the world?",
+    "optionA": "Red Sea Coral Reef",
+    "optionB": "Great Barrier Reef",
+    "optionC": "Belize Barrier Reef",
+    "optionD": "Andros Coral Reef",
+    "answer": "Great Barrier Reef"
+  },
+  {
+    "questionId": 70,
+    "ques": "Which Indian state shares the longest international border?",
+    "optionA": "Rajasthan",
+    "optionB": "West Bengal",
+    "optionC": "Arunachal Pradesh",
+    "optionD": "Jammu and Kashmir",
+    "answer": "West Bengal"
+  },
+  {
+    "questionId": 71,
+    "ques": "What is the main occupation in rural India?",
+    "optionA": "Manufacturing",
+    "optionB": "Agriculture",
+    "optionC": "Services",
+    "optionD": "Mining",
+    "answer": "Agriculture"
+  },
+  {
+    "questionId": 72,
+    "ques": "Which continent is called the 'Dark Continent'?",
+    "optionA": "Asia",
+    "optionB": "Africa",
+    "optionC": "South America",
+    "optionD": "Australia",
+    "answer": "Africa"
+  },
+  {
+    "questionId": 73,
+    "ques": "What is the process of soil formation called?",
+    "optionA": "Erosion",
+    "optionB": "Weathering",
+    "optionC": "Pedogenesis",
+    "optionD": "Sedimentation",
+    "answer": "Pedogenesis"
+  },
+  {
+    "questionId": 74,
+    "ques": "Which is the driest place in India?",
+    "optionA": "Jaisalmer",
+    "optionB": "Leh",
+    "optionC": "Bikaner",
+    "optionD": "Barmer",
+    "answer": "Leh"
+  },
+  {
+    "questionId": 75,
+    "ques": "What type of forest is found in the Sundarbans?",
+    "optionA": "Tropical evergreen",
+    "optionB": "Tropical deciduous",
+    "optionC": "Mangrove",
+    "optionD": "Montane",
+    "answer": "Mangrove"
+  },
+  {
+    "questionId": 76,
+    "ques": "Which country is known as the 'Land of Thousand Lakes'?",
+    "optionA": "Sweden",
+    "optionB": "Finland",
+    "optionC": "Canada",
+    "optionD": "Norway",
+    "answer": "Finland"
+  },
+  {
+    "questionId": 77,
+    "ques": "What is the primary economic activity in the Prairies?",
+    "optionA": "Mining",
+    "optionB": "Wheat cultivation",
+    "optionC": "Dairy farming",
+    "optionD": "Forestry",
+    "answer": "Wheat cultivation"
+  },
+  {
+    "questionId": 78,
+    "ques": "Which pass connects Manali and Leh?",
+    "optionA": "Nathu La",
+    "optionB": "Rohtang Pass",
+    "optionC": "Zoji La",
+    "optionD": "Khardung La",
+    "answer": "Rohtang Pass"
+  },
+  {
+    "questionId": 79,
+    "ques": "What is the largest river basin in India?",
+    "optionA": "Godavari Basin",
+    "optionB": "Ganga Basin",
+    "optionC": "Brahmaputra Basin",
+    "optionD": "Krishna Basin",
+    "answer": "Ganga Basin"
+  },
+  {
+    "questionId": 80,
+    "ques": "Which type of coal has the highest carbon content?",
+    "optionA": "Peat",
+    "optionB": "Lignite",
+    "optionC": "Bituminous",
+    "optionD": "Anthracite",
+    "answer": "Anthracite"
+  },
+  {
+    "questionId": 81,
+    "ques": "What is the ring of volcanoes around the Pacific Ocean called?",
+    "optionA": "Ring of Fire",
+    "optionB": "Volcanic Belt",
+    "optionC": "Pacific Ring",
+    "optionD": "Fire Circle",
+    "answer": "Ring of Fire"
+  },
+  {
+    "questionId": 82,
+    "ques": "Which Indian city is located on the banks of river Sabarmati?",
+    "optionA": "Surat",
+    "optionB": "Vadodara",
+    "optionC": "Ahmedabad",
+    "optionD": "Rajkot",
+    "answer": "Ahmedabad"
+  },
+  {
+    "questionId": 83,
+    "ques": "What is the process of converting forest land to other uses called?",
+    "optionA": "Afforestation",
+    "optionB": "Deforestation",
+    "optionC": "Reforestation",
+    "optionD": "Desertification",
+    "answer": "Deforestation"
+  },
+  {
+    "questionId": 84,
+    "ques": "Which hemisphere has more land mass?",
+    "optionA": "Northern Hemisphere",
+    "optionB": "Southern Hemisphere",
+    "optionC": "Eastern Hemisphere",
+    "optionD": "Western Hemisphere",
+    "answer": "Northern Hemisphere"
+  },
+  {
+    "questionId": 85,
+    "ques": "What is the main mineral found in Kolar region?",
+    "optionA": "Iron",
+    "optionB": "Coal",
+    "optionC": "Gold",
+    "optionD": "Copper",
+    "answer": "Gold"
+  },
+  {
+    "questionId": 86,
+    "ques": "Which country is the largest producer of wheat?",
+    "optionA": "USA",
+    "optionB": "India",
+    "optionC": "China",
+    "optionD": "Russia",
+    "answer": "China"
+  },
+  {
+    "questionId": 87,
+    "ques": "What type of industry is iron and steel industry?",
+    "optionA": "Light industry",
+    "optionB": "Heavy industry",
+    "optionC": "Cottage industry",
+    "optionD": "Service industry",
+    "answer": "Heavy industry"
+  },
+  {
+    "questionId": 88,
+    "ques": "Which waterfall is known as 'Niagara of India'?",
+    "optionA": "Jog Falls",
+    "optionB": "Chitrakoot Falls",
+    "optionC": "Dudhsagar Falls",
+    "optionD": "Athirappilly Falls",
+    "answer": "Chitrakoot Falls"
+  },
+  {
+    "questionId": 89,
+    "ques": "What is the distance between two consecutive longitudes at equator?",
+    "optionA": "101 km",
+    "optionB": "111 km",
+    "optionC": "121 km",
+    "optionD": "131 km",
+    "answer": "111 km"
+  },
+  {
+    "questionId": 90,
+    "ques": "Which is the oldest mountain range in India?",
+    "optionA": "Himalayas",
+    "optionB": "Western Ghats",
+    "optionC": "Aravalli",
+    "optionD": "Eastern Ghats",
+    "answer": "Aravalli"
+  },
+  {
+    "questionId": 91,
+    "ques": "What type of drainage pattern resembles tree branches?",
+    "optionA": "Radial",
+    "optionB": "Dendritic",
+    "optionC": "Trellis",
+    "optionD": "Rectangular",
+    "answer": "Dendritic"
+  },
+  {
+    "questionId": 92,
+    "ques": "Which state is known as the 'Spice Garden of India'?",
+    "optionA": "Karnataka",
+    "optionB": "Tamil Nadu",
+    "optionC": "Kerala",
+    "optionD": "Andhra Pradesh",
+    "answer": "Kerala"
+  },
+  {
+    "questionId": 93,
+    "ques": "What is the imaginary line at 23.5°N latitude called?",
+    "optionA": "Equator",
+    "optionB": "Tropic of Cancer",
+    "optionC": "Tropic of Capricorn",
+    "optionD": "Arctic Circle",
+    "answer": "Tropic of Cancer"
+  },
+  {
+    "questionId": 94,
+    "ques": "Which is the largest tea producing country?",
+    "optionA": "India",
+    "optionB": "Sri Lanka",
+    "optionC": "China",
+    "optionD": "Kenya",
+    "answer": "China"
+  },
+  {
+    "questionId": 95,
+    "ques": "What type of energy is generated from Earth's internal heat?",
+    "optionA": "Solar energy",
+    "optionB": "Wind energy",
+    "optionC": "Geothermal energy",
+    "optionD": "Tidal energy",
+    "answer": "Geothermal energy"
+  },
+  {
+    "questionId": 96,
+    "ques": "Which city is known as the 'Manchester of India'?",
+    "optionA": "Mumbai",
+    "optionB": "Ahmedabad",
+    "optionC": "Coimbatore",
+    "optionD": "Surat",
+    "answer": "Ahmedabad"
+  },
+  {
+    "questionId": 97,
+    "ques": "What percentage of India's population lives in rural areas?",
+    "optionA": "55%",
+    "optionB": "65%",
+    "optionC": "75%",
+    "optionD": "85%",
+    "answer": "65%"
+  },
+  {
+    "questionId": 98,
+    "ques": "Which is the largest lagoon in India?",
+    "optionA": "Pulicat Lake",
+    "optionB": "Chilika Lake",
+    "optionC": "Vembanad Lake",
+    "optionD": "Kolleru Lake",
+    "answer": "Chilika Lake"
+  },
+  {
+    "questionId": 99,
+    "ques": "What is the term for seasonal reversal of wind direction?",
+    "optionA": "Trade winds",
+    "optionB": "Westerlies",
+    "optionC": "Monsoon",
+    "optionD": "Cyclone",
+    "answer": "Monsoon"
+  },
+  {
+    "questionId": 100,
+    "ques": "Which port is known as the 'Gateway of India'?",
+    "optionA": "Chennai",
+    "optionB": "Kolkata",
+    "optionC": "Mumbai",
+    "optionD": "Kochi",
+    "answer": "Mumbai"
+  }
+]

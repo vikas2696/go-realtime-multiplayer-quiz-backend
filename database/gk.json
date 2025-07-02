@@ -1,0 +1,902 @@
+[
+  {
+    "questionId": 1,
+    "ques": "Who wrote the book 'Discovery of India'?",
+    "optionA": "Mahatma Gandhi",
+    "optionB": "Jawaharlal Nehru",
+    "optionC": "Rabindranath Tagore",
+    "optionD": "S. Radhakrishnan",
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "questionId": 2,
+    "ques": "Which is the smallest planet in our solar system?",
+    "optionA": "Mars",
+    "optionB": "Mercury",
+    "optionC": "Venus",
+    "optionD": "Pluto",
+    "answer": "Mercury"
+  },
+  {
+    "questionId": 3,
+    "ques": "What is the capital of Canada?",
+    "optionA": "Toronto",
+    "optionB": "Montreal",
+    "optionC": "Ottawa",
+    "optionD": "Vancouver",
+    "answer": "Ottawa"
+  },
+  {
+    "questionId": 4,
+    "ques": "Who is known as the 'Father of Computer Science'?",
+    "optionA": "Charles Babbage",
+    "optionB": "Alan Turing",
+    "optionC": "Bill Gates",
+    "optionD": "Steve Jobs",
+    "answer": "Alan Turing"
+  },
+  {
+    "questionId": 5,
+    "ques": "Which Indian state is famous for 'Kathakali' dance?",
+    "optionA": "Tamil Nadu",
+    "optionB": "Karnataka",
+    "optionC": "Kerala",
+    "optionD": "Andhra Pradesh",
+    "answer": "Kerala"
+  },
+  {
+    "questionId": 6,
+    "ques": "What is the chemical formula of common salt?",
+    "optionA": "NaCl",
+    "optionB": "KCl",
+    "optionC": "CaCl2",
+    "optionD": "MgCl2",
+    "answer": "NaCl"
+  },
+  {
+    "questionId": 7,
+    "ques": "Which country has the largest population after India and China?",
+    "optionA": "Indonesia",
+    "optionB": "United States",
+    "optionC": "Brazil",
+    "optionD": "Pakistan",
+    "answer": "United States"
+  },
+  {
+    "questionId": 8,
+    "ques": "When is World Water Day observed?",
+    "optionA": "March 22",
+    "optionB": "April 22",
+    "optionC": "May 22",
+    "optionD": "June 22",
+    "answer": "March 22"
+  },
+  {
+    "questionId": 9,
+    "ques": "Who was the first Indian to win an individual Olympic gold medal?",
+    "optionA": "Milkha Singh",
+    "optionB": "P.T. Usha",
+    "optionC": "Abhinav Bindra",
+    "optionD": "Mary Kom",
+    "answer": "Abhinav Bindra"
+  },
+  {
+    "questionId": 10,
+    "ques": "Which gas is known as 'laughing gas'?",
+    "optionA": "Nitrogen dioxide",
+    "optionB": "Nitrous oxide",
+    "optionC": "Carbon dioxide",
+    "optionD": "Sulfur dioxide",
+    "answer": "Nitrous oxide"
+  },
+  {
+    "questionId": 11,
+    "ques": "Who founded the Maurya Empire?",
+    "optionA": "Ashoka",
+    "optionB": "Chandragupta Maurya",
+    "optionC": "Bindusara",
+    "optionD": "Harsha",
+    "answer": "Chandragupta Maurya"
+  },
+  {
+    "questionId": 12,
+    "ques": "Which is the highest waterfall in the world?",
+    "optionA": "Niagara Falls",
+    "optionB": "Victoria Falls",
+    "optionC": "Angel Falls",
+    "optionD": "Iguazu Falls",
+    "answer": "Angel Falls"
+  },
+  {
+    "questionId": 13,
+    "ques": "What does CPU stand for?",
+    "optionA": "Central Processing Unit",
+    "optionB": "Central Program Unit",
+    "optionC": "Computer Processing Unit",
+    "optionD": "Central Power Unit",
+    "answer": "Central Processing Unit"
+  },
+  {
+    "questionId": 14,
+    "ques": "Which Indian city is called the 'City of Joy'?",
+    "optionA": "Mumbai",
+    "optionB": "Delhi",
+    "optionC": "Kolkata",
+    "optionD": "Chennai",
+    "answer": "Kolkata"
+  },
+  {
+    "questionId": 15,
+    "ques": "Who painted 'The Last Supper'?",
+    "optionA": "Michelangelo",
+    "optionB": "Leonardo da Vinci",
+    "optionC": "Raphael",
+    "optionD": "Rembrandt",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "questionId": 16,
+    "ques": "Which metal is liquid at room temperature?",
+    "optionA": "Lead",
+    "optionB": "Mercury",
+    "optionC": "Tin",
+    "optionD": "Zinc",
+    "answer": "Mercury"
+  },
+  {
+    "questionId": 17,
+    "ques": "What is the parliament of Japan called?",
+    "optionA": "Congress",
+    "optionB": "Parliament",
+    "optionC": "Diet",
+    "optionD": "Assembly",
+    "answer": "Diet"
+  },
+  {
+    "questionId": 18,
+    "ques": "Who was the first woman President of India?",
+    "optionA": "Indira Gandhi",
+    "optionB": "Pratibha Patil",
+    "optionC": "Sushma Swaraj",
+    "optionD": "Sarojini Naidu",
+    "answer": "Pratibha Patil"
+  },
+  {
+    "questionId": 19,
+    "ques": "Which is the longest bone in the human body?",
+    "optionA": "Tibia",
+    "optionB": "Femur",
+    "optionC": "Humerus",
+    "optionD": "Radius",
+    "answer": "Femur"
+  },
+  {
+    "questionId": 20,
+    "ques": "In which year did the Titanic sink?",
+    "optionA": "1910",
+    "optionB": "1912",
+    "optionC": "1914",
+    "optionD": "1916",
+    "answer": "1912"
+  },
+  {
+    "questionId": 21,
+    "ques": "What is the national currency of China?",
+    "optionA": "Yen",
+    "optionB": "Won",
+    "optionC": "Yuan",
+    "optionD": "Ringgit",
+    "answer": "Yuan"
+  },
+  {
+    "questionId": 22,
+    "ques": "Who invented the printing press?",
+    "optionA": "Johannes Gutenberg",
+    "optionB": "Benjamin Franklin",
+    "optionC": "Thomas Edison",
+    "optionD": "Alexander Bell",
+    "answer": "Johannes Gutenberg"
+  },
+  {
+    "questionId": 23,
+    "ques": "Which river is called the 'Ganga of the South'?",
+    "optionA": "Krishna",
+    "optionB": "Godavari",
+    "optionC": "Kaveri",
+    "optionD": "Tungabhadra",
+    "answer": "Godavari"
+  },
+  {
+    "questionId": 24,
+    "ques": "What does RAM stand for in computers?",
+    "optionA": "Read Access Memory",
+    "optionB": "Random Access Memory",
+    "optionC": "Ready Application Module",
+    "optionD": "Remote Access Memory",
+    "answer": "Random Access Memory"
+  },
+  {
+    "questionId": 25,
+    "ques": "Which Sikh Guru founded the city of Amritsar?",
+    "optionA": "Guru Nanak",
+    "optionB": "Guru Ram Das",
+    "optionC": "Guru Arjan",
+    "optionD": "Guru Gobind Singh",
+    "answer": "Guru Ram Das"
+  },
+  {
+    "questionId": 26,
+    "ques": "What is the fear of heights called?",
+    "optionA": "Claustrophobia",
+    "optionB": "Acrophobia",
+    "optionC": "Agoraphobia",
+    "optionD": "Hydrophobia",
+    "answer": "Acrophobia"
+  },
+  {
+    "questionId": 27,
+    "ques": "Which country is known as 'Land of Maple Leaf'?",
+    "optionA": "Australia",
+    "optionB": "Canada",
+    "optionC": "New Zealand",
+    "optionD": "Norway",
+    "answer": "Canada"
+  },
+  {
+    "questionId": 28,
+    "ques": "Who was the first Indian to win Miss World?",
+    "optionA": "Aishwarya Rai",
+    "optionB": "Sushmita Sen",
+    "optionC": "Reita Faria",
+    "optionD": "Diana Hayden",
+    "answer": "Reita Faria"
+  },
+  {
+    "questionId": 29,
+    "ques": "Which planet is known as the 'Blue Planet'?",
+    "optionA": "Neptune",
+    "optionB": "Uranus",
+    "optionC": "Earth",
+    "optionD": "Venus",
+    "answer": "Earth"
+  },
+  {
+    "questionId": 30,
+    "ques": "What is the SI unit of force?",
+    "optionA": "Joule",
+    "optionB": "Newton",
+    "optionC": "Pascal",
+    "optionD": "Watt",
+    "answer": "Newton"
+  },
+  {
+    "questionId": 31,
+    "ques": "Which Indian king was known as 'Napoleon of India'?",
+    "optionA": "Chandragupta Maurya",
+    "optionB": "Ashoka",
+    "optionC": "Samudragupta",
+    "optionD": "Harshavardhana",
+    "answer": "Samudragupta"
+  },
+  {
+    "questionId": 32,
+    "ques": "What is the largest internal organ in the human body?",
+    "optionA": "Heart",
+    "optionB": "Liver",
+    "optionC": "Brain",
+    "optionD": "Lungs",
+    "answer": "Liver"
+  },
+  {
+    "questionId": 33,
+    "ques": "Which city hosted the first modern Olympic Games in 1896?",
+    "optionA": "Paris",
+    "optionB": "London",
+    "optionC": "Athens",
+    "optionD": "Rome",
+    "answer": "Athens"
+  },
+  {
+    "questionId": 34,
+    "ques": "Who is the author of 'Gitanjali'?",
+    "optionA": "Bankim Chandra Chatterjee",
+    "optionB": "Rabindranath Tagore",
+    "optionC": "Munshi Premchand",
+    "optionD": "R.K. Narayan",
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "questionId": 35,
+    "ques": "Which is the only metal that is antibacterial?",
+    "optionA": "Gold",
+    "optionB": "Silver",
+    "optionC": "Copper",
+    "optionD": "Platinum",
+    "answer": "Silver"
+  },
+  {
+    "questionId": 36,
+    "ques": "What does FAQ stand for?",
+    "optionA": "Frequently Asked Questions",
+    "optionB": "Fast Access Queue",
+    "optionC": "File Access Query",
+    "optionD": "Format And Quality",
+    "answer": "Frequently Asked Questions"
+  },
+  {
+    "questionId": 37,
+    "ques": "Which Indian state is known as 'Land of Five Rivers'?",
+    "optionA": "Haryana",
+    "optionB": "Punjab",
+    "optionC": "Uttar Pradesh",
+    "optionD": "Bihar",
+    "answer": "Punjab"
+  },
+  {
+    "questionId": 38,
+    "ques": "Who discovered X-rays?",
+    "optionA": "Marie Curie",
+    "optionB": "Wilhelm Roentgen",
+    "optionC": "Albert Einstein",
+    "optionD": "Ernest Rutherford",
+    "answer": "Wilhelm Roentgen"
+  },
+  {
+    "questionId": 39,
+    "ques": "Which is the largest lake in India?",
+    "optionA": "Chilika Lake",
+    "optionB": "Vembanad Lake",
+    "optionC": "Pulicat Lake",
+    "optionD": "Loktak Lake",
+    "answer": "Vembanad Lake"
+  },
+  {
+    "questionId": 40,
+    "ques": "What is the national tree of India?",
+    "optionA": "Neem",
+    "optionB": "Peepal",
+    "optionC": "Banyan",
+    "optionD": "Mango",
+    "answer": "Banyan"
+  },
+  {
+    "questionId": 41,
+    "ques": "Who was the first person to walk on the moon?",
+    "optionA": "Yuri Gagarin",
+    "optionB": "Neil Armstrong",
+    "optionC": "Buzz Aldrin",
+    "optionD": "Michael Collins",
+    "answer": "Neil Armstrong"
+  },
+  {
+    "questionId": 42,
+    "ques": "Which vitamin is also known as 'Sunshine Vitamin'?",
+    "optionA": "Vitamin A",
+    "optionB": "Vitamin C",
+    "optionC": "Vitamin D",
+    "optionD": "Vitamin E",
+    "answer": "Vitamin D"
+  },
+  {
+    "questionId": 43,
+    "ques": "What is the capital of Argentina?",
+    "optionA": "Rio de Janeiro",
+    "optionB": "Buenos Aires",
+    "optionC": "Santiago",
+    "optionD": "Lima",
+    "answer": "Buenos Aires"
+  },
+  {
+    "questionId": 44,
+    "ques": "Which Fundamental Right was removed from the Indian Constitution?",
+    "optionA": "Right to Freedom",
+    "optionB": "Right to Property",
+    "optionC": "Right to Equality",
+    "optionD": "Right to Education",
+    "answer": "Right to Property"
+  },
+  {
+    "questionId": 45,
+    "ques": "Who is known as the 'Nightingale of India'?",
+    "optionA": "Lata Mangeshkar",
+    "optionB": "M.S. Subbulakshmi",
+    "optionC": "Sarojini Naidu",
+    "optionD": "Asha Bhosle",
+    "answer": "Sarojini Naidu"
+  },
+  {
+    "questionId": 46,
+    "ques": "Which is the hottest planet in our solar system?",
+    "optionA": "Mercury",
+    "optionB": "Venus",
+    "optionC": "Mars",
+    "optionD": "Jupiter",
+    "answer": "Venus"
+  },
+  {
+    "questionId": 47,
+    "ques": "What does LED stand for?",
+    "optionA": "Light Emitting Diode",
+    "optionB": "Light Energy Device",
+    "optionC": "Low Energy Display",
+    "optionD": "Light Electronic Display",
+    "answer": "Light Emitting Diode"
+  },
+  {
+    "questionId": 48,
+    "ques": "Which Mughal emperor was called 'Zinda Pir'?",
+    "optionA": "Akbar",
+    "optionB": "Jahangir",
+    "optionC": "Shah Jahan",
+    "optionD": "Aurangzeb",
+    "answer": "Aurangzeb"
+  },
+  {
+    "questionId": 49,
+    "ques": "What is the largest cell in the human body?",
+    "optionA": "Nerve cell",
+    "optionB": "Muscle cell",
+    "optionC": "Female egg cell",
+    "optionD": "White blood cell",
+    "answer": "Female egg cell"
+  },
+  {
+    "questionId": 50,
+    "ques": "Which country has won the most FIFA World Cups?",
+    "optionA": "Germany",
+    "optionB": "Argentina",
+    "optionC": "Brazil",
+    "optionD": "Italy",
+    "answer": "Brazil"
+  },
+  {
+    "questionId": 51,
+    "ques": "Who wrote 'Wings of Fire'?",
+    "optionA": "Vikram Seth",
+    "optionB": "A.P.J. Abdul Kalam",
+    "optionC": "Amitav Ghosh",
+    "optionD": "Chetan Bhagat",
+    "answer": "A.P.J. Abdul Kalam"
+  },
+  {
+    "questionId": 52,
+    "ques": "Which gas is used to fill balloons that float?",
+    "optionA": "Hydrogen",
+    "optionB": "Helium",
+    "optionC": "Oxygen",
+    "optionD": "Nitrogen",
+    "answer": "Helium"
+  },
+  {
+    "questionId": 53,
+    "ques": "When is National Science Day celebrated in India?",
+    "optionA": "January 28",
+    "optionB": "February 28",
+    "optionC": "March 28",
+    "optionD": "April 28",
+    "answer": "February 28"
+  },
+  {
+    "questionId": 54,
+    "ques": "Which organ in the human body produces insulin?",
+    "optionA": "Liver",
+    "optionB": "Kidney",
+    "optionC": "Pancreas",
+    "optionD": "Stomach",
+    "answer": "Pancreas"
+  },
+  {
+    "questionId": 55,
+    "ques": "Who founded the Red Cross?",
+    "optionA": "Florence Nightingale",
+    "optionB": "Henri Dunant",
+    "optionC": "Mother Teresa",
+    "optionD": "Louis Pasteur",
+    "answer": "Henri Dunant"
+  },
+  {
+    "questionId": 56,
+    "ques": "Which is the smallest country in Asia?",
+    "optionA": "Singapore",
+    "optionB": "Maldives",
+    "optionC": "Bahrain",
+    "optionD": "Brunei",
+    "answer": "Maldives"
+  },
+  {
+    "questionId": 57,
+    "ques": "What does SIM stand for in SIM card?",
+    "optionA": "Subscriber Identity Module",
+    "optionB": "System Identity Module",
+    "optionC": "Service Integration Module",
+    "optionD": "Smart Interface Module",
+    "answer": "Subscriber Identity Module"
+  },
+  {
+    "questionId": 58,
+    "ques": "Which Indian state is known as 'Jewel of India'?",
+    "optionA": "Sikkim",
+    "optionB": "Manipur",
+    "optionC": "Meghalaya",
+    "optionD": "Mizoram",
+    "answer": "Manipur"
+  },
+  {
+    "questionId": 59,
+    "ques": "Who discovered the circulation of blood?",
+    "optionA": "Louis Pasteur",
+    "optionB": "William Harvey",
+    "optionC": "Robert Koch",
+    "optionD": "Alexander Fleming",
+    "answer": "William Harvey"
+  },
+  {
+    "questionId": 60,
+    "ques": "Which is the first National Park in India?",
+    "optionA": "Kanha National Park",
+    "optionB": "Kaziranga National Park",
+    "optionC": "Jim Corbett National Park",
+    "optionD": "Gir National Park",
+    "answer": "Jim Corbett National Park"
+  },
+  {
+    "questionId": 61,
+    "ques": "What is the freezing point of water in Fahrenheit?",
+    "optionA": "0°F",
+    "optionB": "32°F",
+    "optionC": "100°F",
+    "optionD": "212°F",
+    "answer": "32°F"
+  },
+  {
+    "questionId": 62,
+    "ques": "Who is called the 'Father of Indian Cinema'?",
+    "optionA": "Satyajit Ray",
+    "optionB": "Dadasaheb Phalke",
+    "optionC": "V. Shantaram",
+    "optionD": "Raj Kapoor",
+    "answer": "Dadasaheb Phalke"
+  },
+  {
+    "questionId": 63,
+    "ques": "Which is the world's largest archipelago?",
+    "optionA": "Philippines",
+    "optionB": "Indonesia",
+    "optionC": "Japan",
+    "optionD": "Maldives",
+    "answer": "Indonesia"
+  },
+  {
+    "questionId": 64,
+    "ques": "What does LASER stand for?",
+    "optionA": "Light Amplification by Stimulated Emission of Radiation",
+    "optionB": "Light And Sound Energy Radiation",
+    "optionC": "Light Absorption by Stimulated Energy Reaction",
+    "optionD": "Light Application for Scientific Energy Research",
+    "answer": "Light Amplification by Stimulated Emission of Radiation"
+  },
+  {
+    "questionId": 65,
+    "ques": "Which battle marked the beginning of British rule in India?",
+    "optionA": "Battle of Panipat",
+    "optionB": "Battle of Plassey",
+    "optionC": "Battle of Buxar",
+    "optionD": "Battle of Wandiwash",
+    "answer": "Battle of Plassey"
+  },
+  {
+    "questionId": 66,
+    "ques": "What is the main component of biogas?",
+    "optionA": "Ethane",
+    "optionB": "Methane",
+    "optionC": "Propane",
+    "optionD": "Butane",
+    "answer": "Methane"
+  },
+  {
+    "questionId": 67,
+    "ques": "Which Indian cricketer is known as 'The Wall'?",
+    "optionA": "Sachin Tendulkar",
+    "optionB": "Rahul Dravid",
+    "optionC": "Sourav Ganguly",
+    "optionD": "V.V.S. Laxman",
+    "answer": "Rahul Dravid"
+  },
+  {
+    "questionId": 68,
+    "ques": "Which city is known as 'City of Seven Hills'?",
+    "optionA": "Athens",
+    "optionB": "Rome",
+    "optionC": "Istanbul",
+    "optionD": "Jerusalem",
+    "answer": "Rome"
+  },
+  {
+    "questionId": 69,
+    "ques": "What is the unit of frequency?",
+    "optionA": "Decibel",
+    "optionB": "Hertz",
+    "optionC": "Pascal",
+    "optionD": "Newton",
+    "answer": "Hertz"
+  },
+  {
+    "questionId": 70,
+    "ques": "Which Indian freedom fighter was known as 'Punjab Kesari'?",
+    "optionA": "Bhagat Singh",
+    "optionB": "Lala Lajpat Rai",
+    "optionC": "Bal Gangadhar Tilak",
+    "optionD": "Bipin Chandra Pal",
+    "answer": "Lala Lajpat Rai"
+  },
+  {
+    "questionId": 71,
+    "ques": "What type of animal is a Komodo dragon?",
+    "optionA": "Snake",
+    "optionB": "Lizard",
+    "optionC": "Crocodile",
+    "optionD": "Dinosaur",
+    "answer": "Lizard"
+  },
+  {
+    "questionId": 72,
+    "ques": "Which ocean is the saltiest?",
+    "optionA": "Pacific Ocean",
+    "optionB": "Atlantic Ocean",
+    "optionC": "Indian Ocean",
+    "optionD": "Arctic Ocean",
+    "answer": "Atlantic Ocean"
+  },
+  {
+    "questionId": 73,
+    "ques": "When was the United Nations formed?",
+    "optionA": "1943",
+    "optionB": "1944",
+    "optionC": "1945",
+    "optionD": "1946",
+    "answer": "1945"
+  },
+  {
+    "questionId": 74,
+    "ques": "Which Indian classical dance is from Andhra Pradesh?",
+    "optionA": "Bharatanatyam",
+    "optionB": "Kuchipudi",
+    "optionC": "Kathak",
+    "optionD": "Odissi",
+    "answer": "Kuchipudi"
+  },
+  {
+    "questionId": 75,
+    "ques": "Who invented the airplane?",
+    "optionA": "Wright Brothers",
+    "optionB": "Leonardo da Vinci",
+    "optionC": "Thomas Edison",
+    "optionD": "Alexander Bell",
+    "answer": "Wright Brothers"
+  },
+  {
+    "questionId": 76,
+    "ques": "Which is the oldest stock exchange in Asia?",
+    "optionA": "Tokyo Stock Exchange",
+    "optionB": "Shanghai Stock Exchange",
+    "optionC": "Bombay Stock Exchange",
+    "optionD": "Hong Kong Stock Exchange",
+    "answer": "Bombay Stock Exchange"
+  },
+  {
+    "questionId": 77,
+    "ques": "What is measured using a seismograph?",
+    "optionA": "Rainfall",
+    "optionB": "Earthquakes",
+    "optionC": "Wind speed",
+    "optionD": "Temperature",
+    "answer": "Earthquakes"
+  },
+  {
+    "questionId": 78,
+    "ques": "Which Indian emperor embraced Buddhism after the Kalinga War?",
+    "optionA": "Chandragupta Maurya",
+    "optionB": "Ashoka",
+    "optionC": "Harsha",
+    "optionD": "Kanishka",
+    "answer": "Ashoka"
+  },
+  {
+    "questionId": 79,
+    "ques": "What does WiFi stand for?",
+    "optionA": "Wireless Fidelity",
+    "optionB": "Wireless Field",
+    "optionC": "Wide Fidelity",
+    "optionD": "World Fidelity",
+    "answer": "Wireless Fidelity"
+  },
+  {
+    "questionId": 80,
+    "ques": "Which is the national aquatic animal of India?",
+    "optionA": "Whale",
+    "optionB": "Dolphin",
+    "optionC": "Shark",
+    "optionD": "Turtle",
+    "answer": "Dolphin"
+  },
+  {
+    "questionId": 81,
+    "ques": "Who was the first Indian to win the Booker Prize?",
+    "optionA": "Salman Rushdie",
+    "optionB": "Arundhati Roy",
+    "optionC": "Kiran Desai",
+    "optionD": "Aravind Adiga",
+    "answer": "Salman Rushdie"
+  },
+  {
+    "questionId": 82,
+    "ques": "Which blood cells help in clotting?",
+    "optionA": "Red blood cells",
+    "optionB": "White blood cells",
+    "optionC": "Platelets",
+    "optionD": "Plasma cells",
+    "answer": "Platelets"
+  },
+  {
+    "questionId": 83,
+    "ques": "When did the Jallianwala Bagh massacre occur?",
+    "optionA": "1917",
+    "optionB": "1918",
+    "optionC": "1919",
+    "optionD": "1920",
+    "answer": "1919"
+  },
+  {
+    "questionId": 84,
+    "ques": "Which is the largest moon in our solar system?",
+    "optionA": "Europa",
+    "optionB": "Titan",
+    "optionC": "Ganymede",
+    "optionD": "Callisto",
+    "answer": "Ganymede"
+  },
+  {
+    "questionId": 85,
+    "ques": "Who is known as 'Grand Old Man of India'?",
+    "optionA": "Mahatma Gandhi",
+    "optionB": "Dadabhai Naoroji",
+    "optionC": "Gopal Krishna Gokhale",
+    "optionD": "Bal Gangadhar Tilak",
+    "answer": "Dadabhai Naoroji"
+  },
+  {
+    "questionId": 86,
+    "ques": "Which animal can sleep for up to 3 years?",
+    "optionA": "Bear",
+    "optionB": "Snail",
+    "optionC": "Tortoise",
+    "optionD": "Sloth",
+    "answer": "Snail"
+  },
+  {
+    "questionId": 87,
+    "ques": "What does PDF stand for?",
+    "optionA": "Portable Document Format",
+    "optionB": "Personal Data File",
+    "optionC": "Print Document Format",
+    "optionD": "Protected Document File",
+    "answer": "Portable Document Format"
+  },
+  {
+    "questionId": 88,
+    "ques": "Which Indian state has Sanskrit as its official language?",
+    "optionA": "Himachal Pradesh",
+    "optionB": "Uttarakhand",
+    "optionC": "Uttar Pradesh",
+    "optionD": "Bihar",
+    "answer": "Uttarakhand"
+  },
+  {
+    "questionId": 89,
+    "ques": "What is the pH of lemon juice?",
+    "optionA": "2-3",
+    "optionB": "5-6",
+    "optionC": "7",
+    "optionD": "8-9",
+    "answer": "2-3"
+  },
+  {
+    "questionId": 90,
+    "ques": "Which country is called 'Land of Thousand Elephants'?",
+    "optionA": "Thailand",
+    "optionB": "Laos",
+    "optionC": "Cambodia",
+    "optionD": "Myanmar",
+    "answer": "Laos"
+  },
+  {
+    "questionId": 91,
+    "ques": "Who started the Chipko Movement?",
+    "optionA": "Medha Patkar",
+    "optionB": "Sunderlal Bahuguna",
+    "optionC": "Baba Amte",
+    "optionD": "Anna Hazare",
+    "answer": "Sunderlal Bahuguna"
+  },
+  {
+    "questionId": 92,
+    "ques": "Which is the most spoken language in the world?",
+    "optionA": "English",
+    "optionB": "Spanish",
+    "optionC": "Mandarin Chinese",
+    "optionD": "Hindi",
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "questionId": 93,
+    "ques": "When is World AIDS Day observed?",
+    "optionA": "October 1",
+    "optionB": "November 1",
+    "optionC": "December 1",
+    "optionD": "January 1",
+    "answer": "December 1"
+  },
+  {
+    "questionId": 94,
+    "ques": "Which is the highest mountain peak in Africa?",
+    "optionA": "Mount Kenya",
+    "optionB": "Mount Kilimanjaro",
+    "optionC": "Mount Atlas",
+    "optionD": "Mount Cameroon",
+    "answer": "Mount Kilimanjaro"
+  },
+  {
+    "questionId": 95,
+    "ques": "Who invented the microscope?",
+    "optionA": "Robert Hooke",
+    "optionB": "Anton van Leeuwenhoek",
+    "optionC": "Louis Pasteur",
+    "optionD": "Galileo Galilei",
+    "answer": "Anton van Leeuwenhoek"
+  },
+  {
+    "questionId": 96,
+    "ques": "What is the study of fungi called?",
+    "optionA": "Mycology",
+    "optionB": "Phycology",
+    "optionC": "Bryology",
+    "optionD": "Virology",
+    "answer": "Mycology"
+  },
+  {
+    "questionId": 97,
+    "ques": "Which Indian state is known as 'Land of Orchids'?",
+    "optionA": "Sikkim",
+    "optionB": "Arunachal Pradesh",
+    "optionC": "Meghalaya",
+    "optionD": "Manipur",
+    "answer": "Arunachal Pradesh"
+  },
+  {
+    "questionId": 98,
+    "ques": "Who was the first Chief Justice of India?",
+    "optionA": "H.J. Kania",
+    "optionB": "M. Patanjali Sastri",
+    "optionC": "Mehr Chand Mahajan",
+    "optionD": "B.K. Mukherjea",
+    "answer": "H.J. Kania"
+  },
+  {
+    "questionId": 99,
+    "ques": "Which is the largest library in the world?",
+    "optionA": "British Library",
+    "optionB": "Library of Congress",
+    "optionC": "Russian State Library",
+    "optionD": "National Library of China",
+    "answer": "Library of Congress"
+  },
+  {
+    "questionId": 100,
+    "ques": "What does UNICEF stand for?",
+    "optionA": "United Nations International Children's Emergency Fund",
+    "optionB": "United Nations International Cultural and Educational Fund",
+    "optionC": "United Nations International Children's Educational Fund",
+    "optionD": "United Nations International Community Emergency Fund",
+    "answer": "United Nations International Children's Emergency Fund"
+  }
+]

@@ -1,0 +1,747 @@
+  [{
+    "questionId": 1,
+    "ques": "What is the capital of India?",
+    "optionA": "Mumbai",
+    "optionB": "Kolkata",
+    "optionC": "New Delhi",
+    "optionD": "Chennai",
+    "answer": "New Delhi"
+  },
+  {
+    "questionId": 2,
+    "ques": "Which is the longest river in India?",
+    "optionA": "Yamuna",
+    "optionB": "Ganga",
+    "optionC": "Godavari",
+    "optionD": "Narmada",
+    "answer": "Ganga"
+  },
+  {
+    "questionId": 3,
+    "ques": "Which is the highest mountain peak in India?",
+    "optionA": "Kanchenjunga",
+    "optionB": "Nanda Devi",
+    "optionC": "Kamet",
+    "optionD": "Annapurna",
+    "answer": "Kanchenjunga"
+  },
+  {
+    "questionId": 4,
+    "ques": "Which state has the longest coastline in India?",
+    "optionA": "Tamil Nadu",
+    "optionB": "Gujarat",
+    "optionC": "Maharashtra",
+    "optionD": "Andhra Pradesh",
+    "answer": "Gujarat"
+  },
+  {
+    "questionId": 5,
+    "ques": "What is the southernmost point of India?",
+    "optionA": "Kanyakumari",
+    "optionB": "Indira Point",
+    "optionC": "Point Calimere",
+    "optionD": "Dhanushkodi",
+    "answer": "Indira Point"
+  },
+  {
+    "questionId": 6,
+    "ques": "Which desert is located in India?",
+    "optionA": "Gobi Desert",
+    "optionB": "Thar Desert",
+    "optionC": "Sahara Desert",
+    "optionD": "Kalahari Desert",
+    "answer": "Thar Desert"
+  },
+  {
+    "questionId": 7,
+    "ques": "Which is the largest state in India by area?",
+    "optionA": "Uttar Pradesh",
+    "optionB": "Madhya Pradesh",
+    "optionC": "Rajasthan",
+    "optionD": "Maharashtra",
+    "answer": "Rajasthan"
+  },
+  {
+    "questionId": 8,
+    "ques": "Which river is known as the 'Sorrow of Bengal'?",
+    "optionA": "Ganga",
+    "optionB": "Damodar",
+    "optionC": "Brahmaputra",
+    "optionD": "Hooghly",
+    "answer": "Damodar"
+  },
+  {
+    "questionId": 9,
+    "ques": "Which is the smallest state in India by area?",
+    "optionA": "Sikkim",
+    "optionB": "Goa",
+    "optionC": "Tripura",
+    "optionD": "Manipur",
+    "answer": "Goa"
+  },
+  {
+    "questionId": 10,
+    "ques": "Which plateau is known as the 'Roof of the World'?",
+    "optionA": "Deccan Plateau",
+    "optionB": "Tibetan Plateau",
+    "optionC": "Chota Nagpur Plateau",
+    "optionD": "Malwa Plateau",
+    "answer": "Tibetan Plateau"
+  },
+  {
+    "questionId": 11,
+    "ques": "Which pass connects India with China?",
+    "optionA": "Khyber Pass",
+    "optionB": "Nathu La Pass",
+    "optionC": "Bolan Pass",
+    "optionD": "Rohtang Pass",
+    "answer": "Nathu La Pass"
+  },
+  {
+    "questionId": 12,
+    "ques": "Which is the largest delta in the world located in India?",
+    "optionA": "Godavari Delta",
+    "optionB": "Sundarbans Delta",
+    "optionC": "Krishna Delta",
+    "optionD": "Cauvery Delta",
+    "answer": "Sundarbans Delta"
+  },
+  {
+    "questionId": 13,
+    "ques": "Which state is known as the 'Land of Five Rivers'?",
+    "optionA": "Haryana",
+    "optionB": "Punjab",
+    "optionC": "Himachal Pradesh",
+    "optionD": "Uttar Pradesh",
+    "answer": "Punjab"
+  },
+  {
+    "questionId": 14,
+    "ques": "Which is the westernmost state of India?",
+    "optionA": "Rajasthan",
+    "optionB": "Gujarat",
+    "optionC": "Maharashtra",
+    "optionD": "Goa",
+    "answer": "Gujarat"
+  },
+  {
+    "questionId": 15,
+    "ques": "Which river does not originate in India?",
+    "optionA": "Ganga",
+    "optionB": "Brahmaputra",
+    "optionC": "Godavari",
+    "optionD": "Krishna",
+    "answer": "Brahmaputra"
+  },
+  {
+    "questionId": 16,
+    "ques": "Which is the highest waterfall in India?",
+    "optionA": "Jog Falls",
+    "optionB": "Kunchikal Falls",
+    "optionC": "Dudhsagar Falls",
+    "optionD": "Athirapally Falls",
+    "answer": "Kunchikal Falls"
+  },
+  {
+    "questionId": 17,
+    "ques": "Which state has the maximum number of districts?",
+    "optionA": "Rajasthan",
+    "optionB": "Uttar Pradesh",
+    "optionC": "Madhya Pradesh",
+    "optionD": "Maharashtra",
+    "answer": "Uttar Pradesh"
+  },
+  {
+    "questionId": 18,
+    "ques": "Which is the deepest river valley in India?",
+    "optionA": "Ganga Valley",
+    "optionB": "Brahmaputra Valley",
+    "optionC": "Bhagirathi Valley",
+    "optionD": "Indus Valley",
+    "answer": "Bhagirathi Valley"
+  },
+  {
+    "questionId": 19,
+    "ques": "Which state is known as the 'Spice Garden of India'?",
+    "optionA": "Tamil Nadu",
+    "optionB": "Kerala",
+    "optionC": "Karnataka",
+    "optionD": "Andhra Pradesh",
+    "answer": "Kerala"
+  },
+  {
+    "questionId": 20,
+    "ques": "Which is the largest saltwater lake in India?",
+    "optionA": "Dal Lake",
+    "optionB": "Chilika Lake",
+    "optionC": "Vembanad Lake",
+    "optionD": "Loktak Lake",
+    "answer": "Chilika Lake"
+  },
+  {
+    "questionId": 21,
+    "ques": "Which mountain range separates India from Myanmar?",
+    "optionA": "Himalayas",
+    "optionB": "Purvanchal Hills",
+    "optionC": "Western Ghats",
+    "optionD": "Aravalli Range",
+    "answer": "Purvanchal Hills"
+  },
+  {
+    "questionId": 22,
+    "ques": "Which is the largest freshwater lake in India?",
+    "optionA": "Dal Lake",
+    "optionB": "Wular Lake",
+    "optionC": "Loktak Lake",
+    "optionD": "Bhimtal Lake",
+    "answer": "Wular Lake"
+  },
+  {
+    "questionId": 23,
+    "ques": "Which state is called the 'Rice Bowl of India'?",
+    "optionA": "Punjab",
+    "optionB": "West Bengal",
+    "optionC": "Andhra Pradesh",
+    "optionD": "Tamil Nadu",
+    "answer": "Andhra Pradesh"
+  },
+  {
+    "questionId": 24,
+    "ques": "Which is the oldest mountain range in India?",
+    "optionA": "Himalayas",
+    "optionB": "Aravalli Range",
+    "optionC": "Western Ghats",
+    "optionD": "Eastern Ghats",
+    "answer": "Aravalli Range"
+  },
+  {
+    "questionId": 25,
+    "ques": "Which tropic passes through India?",
+    "optionA": "Tropic of Cancer",
+    "optionB": "Tropic of Capricorn",
+    "optionC": "Arctic Circle",
+    "optionD": "Antarctic Circle",
+    "answer": "Tropic of Cancer"
+  },
+  {
+    "questionId": 26,
+    "ques": "Which is the largest island of India?",
+    "optionA": "Andaman Island",
+    "optionB": "Nicobar Island",
+    "optionC": "Lakshadweep",
+    "optionD": "Middle Andaman",
+    "answer": "Middle Andaman"
+  },
+  {
+    "questionId": 27,
+    "ques": "Which state has the maximum forest cover?",
+    "optionA": "Madhya Pradesh",
+    "optionB": "Odisha",
+    "optionC": "Chhattisgarh",
+    "optionD": "Jharkhand",
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "questionId": 28,
+    "ques": "Which river is called the 'Ganges of the South'?",
+    "optionA": "Krishna",
+    "optionB": "Godavari",
+    "optionC": "Cauvery",
+    "optionD": "Tungabhadra",
+    "answer": "Godavari"
+  },
+  {
+    "questionId": 29,
+    "ques": "Which is the easternmost state of India?",
+    "optionA": "Assam",
+    "optionB": "Arunachal Pradesh",
+    "optionC": "Manipur",
+    "optionD": "Mizoram",
+    "answer": "Arunachal Pradesh"
+  },
+  {
+    "questionId": 30,
+    "ques": "Which port is known as the 'Gateway of India'?",
+    "optionA": "Chennai Port",
+    "optionB": "Mumbai Port",
+    "optionC": "Kolkata Port",
+    "optionD": "Kochi Port",
+    "answer": "Mumbai Port"
+  },
+  {
+    "questionId": 31,
+    "ques": "Which is the driest place in India?",
+    "optionA": "Jaisalmer",
+    "optionB": "Bikaner",
+    "optionC": "Leh",
+    "optionD": "Barmer",
+    "answer": "Leh"
+  },
+  {
+    "questionId": 32,
+    "ques": "Which state is known as the 'Sugar Bowl of India'?",
+    "optionA": "Punjab",
+    "optionB": "Uttar Pradesh",
+    "optionC": "Maharashtra",
+    "optionD": "Karnataka",
+    "answer": "Uttar Pradesh"
+  },
+  {
+    "questionId": 33,
+    "ques": "Which is the highest plateau in India?",
+    "optionA": "Deccan Plateau",
+    "optionB": "Ladakh Plateau",
+    "optionC": "Chota Nagpur Plateau",
+    "optionD": "Malwa Plateau",
+    "answer": "Ladakh Plateau"
+  },
+  {
+    "questionId": 34,
+    "ques": "Which river forms the famous Marble Rocks near Jabalpur?",
+    "optionA": "Ganga",
+    "optionB": "Narmada",
+    "optionC": "Tapti",
+    "optionD": "Chambal",
+    "answer": "Narmada"
+  },
+  {
+    "questionId": 35,
+    "ques": "Which is the wettest place in India?",
+    "optionA": "Cherrapunji",
+    "optionB": "Mawsynram",
+    "optionC": "Agumbe",
+    "optionD": "Mahabaleshwar",
+    "answer": "Mawsynram"
+  },
+  {
+    "questionId": 36,
+    "ques": "Which strait separates India from Sri Lanka?",
+    "optionA": "Bering Strait",
+    "optionB": "Palk Strait",
+    "optionC": "Malacca Strait",
+    "optionD": "Hormuz Strait",
+    "answer": "Palk Strait"
+  },
+  {
+    "questionId": 37,
+    "ques": "Which is the largest coal producing state in India?",
+    "optionA": "Jharkhand",
+    "optionB": "Chhattisgarh",
+    "optionC": "Odisha",
+    "optionD": "West Bengal",
+    "answer": "Chhattisgarh"
+  },
+  {
+    "questionId": 38,
+    "ques": "Which National Park is famous for one-horned rhinoceros?",
+    "optionA": "Jim Corbett",
+    "optionB": "Kaziranga",
+    "optionC": "Ranthambore",
+    "optionD": "Sundarbans",
+    "answer": "Kaziranga"
+  },
+  {
+    "questionId": 39,
+    "ques": "Which is the largest tiger reserve in India?",
+    "optionA": "Sundarbans",
+    "optionB": "Nagarjunsagar-Srisailam",
+    "optionC": "Ranthambore",
+    "optionD": "Jim Corbett",
+    "answer": "Nagarjunsagar-Srisailam"
+  },
+  {
+    "questionId": 40,
+    "ques": "Which city is known as the 'Silicon Valley of India'?",
+    "optionA": "Hyderabad",
+    "optionB": "Bangalore",
+    "optionC": "Pune",
+    "optionD": "Chennai",
+    "answer": "Bangalore"
+  },
+  {
+    "questionId": 41,
+    "ques": "Which is the largest mangrove forest in India?",
+    "optionA": "Sundarbans",
+    "optionB": "Bhitarkanika",
+    "optionC": "Pichavaram",
+    "optionD": "Coringa",
+    "answer": "Sundarbans"
+  },
+  {
+    "questionId": 42,
+    "ques": "Which state is the largest producer of coffee in India?",
+    "optionA": "Tamil Nadu",
+    "optionB": "Karnataka",
+    "optionC": "Kerala",
+    "optionD": "Andhra Pradesh",
+    "answer": "Karnataka"
+  },
+  {
+    "questionId": 43,
+    "ques": "Which is the northernmost point of India?",
+    "optionA": "Siachen Glacier",
+    "optionB": "Indira Col",
+    "optionC": "Karakoram Pass",
+    "optionD": "Dras",
+    "answer": "Indira Col"
+  },
+  {
+    "questionId": 44,
+    "ques": "Which river is known as the 'Lifeline of Gujarat'?",
+    "optionA": "Sabarmati",
+    "optionB": "Narmada",
+    "optionC": "Tapti",
+    "optionD": "Mahi",
+    "answer": "Narmada"
+  },
+  {
+    "questionId": 45,
+    "ques": "Which is the largest uranium producing state in India?",
+    "optionA": "Rajasthan",
+    "optionB": "Jharkhand",
+    "optionC": "Andhra Pradesh",
+    "optionD": "Karnataka",
+    "answer": "Jharkhand"
+  },
+  {
+    "questionId": 46,
+    "ques": "Which hill station is known as the 'Queen of Hills'?",
+    "optionA": "Shimla",
+    "optionB": "Mussoorie",
+    "optionC": "Darjeeling",
+    "optionD": "Ooty",
+    "answer": "Mussoorie"
+  },
+  {
+    "questionId": 47,
+    "ques": "Which is the largest salt water lake in Asia?",
+    "optionA": "Sambhar Lake",
+    "optionB": "Chilika Lake",
+    "optionC": "Loktak Lake",
+    "optionD": "Dal Lake",
+    "answer": "Chilika Lake"
+  },
+  {
+    "questionId": 48,
+    "ques": "Which state is known as the 'Land of Sunrise'?",
+    "optionA": "Assam",
+    "optionB": "Arunachal Pradesh",
+    "optionC": "Manipur",
+    "optionD": "Meghalaya",
+    "answer": "Arunachal Pradesh"
+  },
+  {
+    "questionId": 49,
+    "ques": "Which is the largest multipurpose river project in India?",
+    "optionA": "Bhakra Nangal",
+    "optionB": "Hirakud Dam",
+    "optionC": "Damodar Valley Project",
+    "optionD": "Nagarjuna Sagar",
+    "answer": "Bhakra Nangal"
+  },
+  {
+    "questionId": 50,
+    "ques": "Which city is called the 'Manchester of India'?",
+    "optionA": "Mumbai",
+    "optionB": "Ahmedabad",
+    "optionC": "Coimbatore",
+    "optionD": "Kanpur",
+    "answer": "Ahmedabad"
+  },
+  {
+    "questionId": 51,
+    "ques": "Which is the largest hot desert in India?",
+    "optionA": "Thar Desert",
+    "optionB": "Great Indian Desert",
+    "optionC": "Kutch Desert",
+    "optionD": "Rajasthan Desert",
+    "answer": "Thar Desert"
+  },
+  {
+    "questionId": 52,
+    "ques": "Which river flows through the maximum number of states?",
+    "optionA": "Ganga",
+    "optionB": "Narmada",
+    "optionC": "Godavari",
+    "optionD": "Krishna",
+    "answer": "Ganga"
+  },
+  {
+    "questionId": 53,
+    "ques": "Which is the largest glacier in India?",
+    "optionA": "Gangotri Glacier",
+    "optionB": "Siachen Glacier",
+    "optionC": "Yamunotri Glacier",
+    "optionD": "Pindari Glacier",
+    "answer": "Siachen Glacier"
+  },
+  {
+    "questionId": 54,
+    "ques": "Which state has the maximum number of wildlife sanctuaries?",
+    "optionA": "Rajasthan",
+    "optionB": "Maharashtra",
+    "optionC": "Karnataka",
+    "optionD": "Madhya Pradesh",
+    "answer": "Maharashtra"
+  },
+  {
+    "questionId": 55,
+    "ques": "Which is the highest dam in India?",
+    "optionA": "Bhakra Dam",
+    "optionB": "Tehri Dam",
+    "optionC": "Nagarjuna Sagar Dam",
+    "optionD": "Hirakud Dam",
+    "answer": "Tehri Dam"
+  },
+  {
+    "questionId": 56,
+    "ques": "Which state is the largest producer of iron ore in India?",
+    "optionA": "Jharkhand",
+    "optionB": "Odisha",
+    "optionC": "Chhattisgarh",
+    "optionD": "Karnataka",
+    "answer": "Odisha"
+  },
+  {
+    "questionId": 57,
+    "ques": "Which is the largest river island in the world located in India?",
+    "optionA": "Dibrugarh Island",
+    "optionB": "Majuli Island",
+    "optionC": "Umananda Island",
+    "optionD": "Peacock Island",
+    "answer": "Majuli Island"
+  },
+  {
+    "questionId": 58,
+    "ques": "Which city is known as the 'Pink City'?",
+    "optionA": "Udaipur",
+    "optionB": "Jaipur",
+    "optionC": "Jodhpur",
+    "optionD": "Bikaner",
+    "answer": "Jaipur"
+  },
+  {
+    "questionId": 59,
+    "ques": "Which is the largest backwater in India?",
+    "optionA": "Vembanad Lake",
+    "optionB": "Ashtamudi Lake",
+    "optionC": "Pulicat Lake",
+    "optionD": "Kolleru Lake",
+    "answer": "Vembanad Lake"
+  },
+  {
+    "questionId": 60,
+    "ques": "Which mountain pass connects Leh with Kashmir Valley?",
+    "optionA": "Rohtang Pass",
+    "optionB": "Zoji La Pass",
+    "optionC": "Banihal Pass",
+    "optionD": "Pir Panjal Pass",
+    "answer": "Zoji La Pass"
+  },
+  {
+    "questionId": 61,
+    "ques": "Which state is known as the 'Granary of India'?",
+    "optionA": "Punjab",
+    "optionB": "Haryana",
+    "optionC": "Uttar Pradesh",
+    "optionD": "Rajasthan",
+    "answer": "Punjab"
+  },
+  {
+    "questionId": 62,
+    "ques": "Which is the longest beach in India?",
+    "optionA": "Marina Beach",
+    "optionB": "Juhu Beach",
+    "optionC": "Puri Beach",
+    "optionD": "Kovalam Beach",
+    "answer": "Marina Beach"
+  },
+  {
+    "questionId": 63,
+    "ques": "Which river is known as the 'Sorrow of Bihar'?",
+    "optionA": "Ganga",
+    "optionB": "Kosi",
+    "optionC": "Gandak",
+    "optionD": "Son",
+    "answer": "Kosi"
+  },
+  {
+    "questionId": 64,
+    "ques": "Which is the largest cave temple in India?",
+    "optionA": "Ajanta Caves",
+    "optionB": "Ellora Caves",
+    "optionC": "Elephanta Caves",
+    "optionD": "Badami Caves",
+    "answer": "Ellora Caves"
+  },
+  {
+    "questionId": 65,
+    "ques": "Which state has the maximum number of national parks?",
+    "optionA": "Rajasthan",
+    "optionB": "Madhya Pradesh",
+    "optionC": "Uttarakhand",
+    "optionD": "Karnataka",
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "questionId": 66,
+    "ques": "Which is the longest river bridge in India?",
+    "optionA": "Howrah Bridge",
+    "optionB": "Bhupen Hazarika Setu",
+    "optionC": "Mahatma Gandhi Setu",
+    "optionD": "Vidyasagar Setu",
+    "answer": "Bhupen Hazarika Setu"
+  },
+  {
+    "questionId": 67,
+    "ques": "Which city is called the 'Steel City of India'?",
+    "optionA": "Bhilai",
+    "optionB": "Jamshedpur",
+    "optionC": "Rourkela",
+    "optionD": "Bokaro",
+    "answer": "Jamshedpur"
+  },
+  {
+    "questionId": 68,
+    "ques": "Which is the largest cotton producing state in India?",
+    "optionA": "Maharashtra",
+    "optionB": "Gujarat",
+    "optionC": "Punjab",
+    "optionD": "Haryana",
+    "answer": "Gujarat"
+  },
+  {
+    "questionId": 69,
+    "ques": "Which hill station is known as the 'Scotland of India'?",
+    "optionA": "Shimla",
+    "optionB": "Coorg",
+    "optionC": "Ooty",
+    "optionD": "Munnar",
+    "answer": "Coorg"
+  },
+  {
+    "questionId": 70,
+    "ques": "Which is the largest artificial lake in India?",
+    "optionA": "Gobind Ballabh Pant Sagar",
+    "optionB": "Indira Gandhi Canal",
+    "optionC": "Nagarjuna Sagar",
+    "optionD": "Hirakud Reservoir",
+    "answer": "Gobind Ballabh Pant Sagar"
+  },
+  {
+    "questionId": 71,
+    "ques": "Which state is the largest producer of spices in India?",
+    "optionA": "Kerala",
+    "optionB": "Karnataka",
+    "optionC": "Rajasthan",
+    "optionD": "Gujarat",
+    "answer": "Rajasthan"
+  },
+  {
+    "questionId": 72,
+    "ques": "Which river is called the 'Ganga of Kerala'?",
+    "optionA": "Periyar",
+    "optionB": "Bharathapuzha",
+    "optionC": "Pamba",
+    "optionD": "Chalakudy",
+    "answer": "Bharathapuzha"
+  },
+  {
+    "questionId": 73,
+    "ques": "Which is the largest coral reef in India?",
+    "optionA": "Lakshadweep",
+    "optionB": "Gulf of Mannar",
+    "optionC": "Andaman Islands",
+    "optionD": "Gulf of Kutch",
+    "answer": "Lakshadweep"
+  },
+  {
+    "questionId": 74,
+    "ques": "Which state is known as the 'Fruit Bowl of India'?",
+    "optionA": "Kashmir",
+    "optionB": "Himachal Pradesh",
+    "optionC": "Uttarakhand",
+    "optionD": "Punjab",
+    "answer": "Himachal Pradesh"
+  },
+  {
+    "questionId": 75,
+    "ques": "Which is the highest motorable pass in the world located in India?",
+    "optionA": "Khardung La",
+    "optionB": "Chang La",
+    "optionC": "Marsimik La",
+    "optionD": "Umling La",
+    "answer": "Umling La"
+  },
+  {
+    "questionId": 76,
+    "ques": "Which city is known as the 'City of Lakes'?",
+    "optionA": "Srinagar",
+    "optionB": "Udaipur",
+    "optionC": "Nainital",
+    "optionD": "Bhopal",
+    "answer": "Udaipur"
+  },
+  {
+    "questionId": 77,
+    "ques": "Which is the largest tea producing state in India?",
+    "optionA": "West Bengal",
+    "optionB": "Assam",
+    "optionC": "Kerala",
+    "optionD": "Tamil Nadu",
+    "answer": "Assam"
+  },
+  {
+    "questionId": 78,
+    "ques": "Which river forms the boundary between India and Pakistan?",
+    "optionA": "Indus",
+    "optionB": "Sutlej",
+    "optionC": "Chenab",
+    "optionD": "Ravi",
+    "answer": "Sutlej"
+  },
+  {
+    "questionId": 79,
+    "ques": "Which is the largest biosphere reserve in India?",
+    "optionA": "Nilgiri",
+    "optionB": "Gulf of Mannar",
+    "optionC": "Sundarbans",
+    "optionD": "Great Rann of Kutch",
+    "answer": "Great Rann of Kutch"
+  },
+  {
+    "questionId": 80,
+    "ques": "Which state is called the 'Jewel of India'?",
+    "optionA": "Kerala",
+    "optionB": "Goa",
+    "optionC": "Manipur",
+    "optionD": "Kashmir",
+    "answer": "Manipur"
+  },
+  {
+    "questionId": 81,
+    "ques": "Which is the largest river in South India?",
+    "optionA": "Krishna",
+    "optionB": "Godavari",
+    "optionC": "Cauvery",
+    "optionD": "Tungabhadra",
+    "answer": "Godavari"
+  },
+  {
+    "questionId": 82,
+    "ques": "Which mountain range runs parallel to the western coast of India?",
+    "optionA": "Eastern Ghats",
+    "optionB": "Western Ghats",
+    "optionC": "Aravalli Range",
+    "optionD": "Vindhya Range",
+    "answer": "Western Ghats"
+  },
+  {
+    "questionId": 83,
+    "ques": "Which is the largest producer of bauxite in India?",
+    "optionA": "Jharkhand",
+    "optionB": "Odisha",
+    "optionC": "Gujarat",
+    "optionD": "Maharashtra",
+    "answer": "Odisha"
+  }]

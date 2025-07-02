@@ -1,0 +1,452 @@
+[
+  {
+    "questionId": 1,
+    "ques": "What is the capital of Australia?",
+    "optionA": "Sydney",
+    "optionB": "Melbourne",
+    "optionC": "Canberra",
+    "optionD": "Brisbane",
+    "answer": "Canberra"
+  },
+  {
+    "questionId": 2,
+    "ques": "What is the capital of Switzerland?",
+    "optionA": "Zurich",
+    "optionB": "Geneva",
+    "optionC": "Basel",
+    "optionD": "Bern",
+    "answer": "Bern"
+  },
+  {
+    "questionId": 3,
+    "ques": "What is the capital of Brazil?",
+    "optionA": "São Paulo",
+    "optionB": "Rio de Janeiro",
+    "optionC": "Brasília",
+    "optionD": "Salvador",
+    "answer": "Brasília"
+  },
+  {
+    "questionId": 4,
+    "ques": "What is the capital of Turkey?",
+    "optionA": "Istanbul",
+    "optionB": "Ankara",
+    "optionC": "Izmir",
+    "optionD": "Bursa",
+    "answer": "Ankara"
+  },
+  {
+    "questionId": 5,
+    "ques": "What is the capital of South Africa?",
+    "optionA": "Johannesburg",
+    "optionB": "Cape Town",
+    "optionC": "Durban",
+    "optionD": "Pretoria",
+    "answer": "Pretoria"
+  },
+  {
+    "questionId": 6,
+    "ques": "What is the capital of Nepal?",
+    "optionA": "Pokhara",
+    "optionB": "Kathmandu",
+    "optionC": "Lalitpur",
+    "optionD": "Biratnagar",
+    "answer": "Kathmandu"
+  },
+  {
+    "questionId": 7,
+    "ques": "What is the capital of Iceland?",
+    "optionA": "Akureyri",
+    "optionB": "Reykjavik",
+    "optionC": "Hafnarfjörður",
+    "optionD": "Kópavogur",
+    "answer": "Reykjavik"
+  },
+  {
+    "questionId": 8,
+    "ques": "What is the capital of Nigeria?",
+    "optionA": "Lagos",
+    "optionB": "Kano",
+    "optionC": "Abuja",
+    "optionD": "Ibadan",
+    "answer": "Abuja"
+  },
+  {
+    "questionId": 9,
+    "ques": "What is the capital of Thailand?",
+    "optionA": "Chiang Mai",
+    "optionB": "Phuket",
+    "optionC": "Bangkok",
+    "optionD": "Pattaya",
+    "answer": "Bangkok"
+  },
+  {
+    "questionId": 10,
+    "ques": "What is the capital of Norway?",
+    "optionA": "Bergen",
+    "optionB": "Trondheim",
+    "optionC": "Stavanger",
+    "optionD": "Oslo",
+    "answer": "Oslo"
+  },
+  {
+    "questionId": 11,
+    "ques": "What is the capital of Pakistan?",
+    "optionA": "Karachi",
+    "optionB": "Lahore",
+    "optionC": "Islamabad",
+    "optionD": "Faisalabad",
+    "answer": "Islamabad"
+  },
+  {
+    "questionId": 12,
+    "ques": "What is the capital of Egypt?",
+    "optionA": "Alexandria",
+    "optionB": "Cairo",
+    "optionC": "Luxor",
+    "optionD": "Aswan",
+    "answer": "Cairo"
+  },
+  {
+    "questionId": 13,
+    "ques": "What is the capital of Indonesia?",
+    "optionA": "Surabaya",
+    "optionB": "Bandung",
+    "optionC": "Jakarta",
+    "optionD": "Medan",
+    "answer": "Jakarta"
+  },
+  {
+    "questionId": 14,
+    "ques": "What is the capital of Saudi Arabia?",
+    "optionA": "Jeddah",
+    "optionB": "Mecca",
+    "optionC": "Riyadh",
+    "optionD": "Medina",
+    "answer": "Riyadh"
+  },
+  {
+    "questionId": 15,
+    "ques": "What is the capital of Kenya?",
+    "optionA": "Mombasa",
+    "optionB": "Nairobi",
+    "optionC": "Kisumu",
+    "optionD": "Nakuru",
+    "answer": "Nairobi"
+  },
+  {
+    "questionId": 16,
+    "ques": "What is the capital of Sri Lanka?",
+    "optionA": "Colombo",
+    "optionB": "Kandy",
+    "optionC": "Sri Jayawardenepura Kotte",
+    "optionD": "Galle",
+    "answer": "Sri Jayawardenepura Kotte"
+  },
+  {
+    "questionId": 17,
+    "ques": "What is the capital of Cuba?",
+    "optionA": "Santiago de Cuba",
+    "optionB": "Havana",
+    "optionC": "Camagüey",
+    "optionD": "Holguín",
+    "answer": "Havana"
+  },
+  {
+    "questionId": 18,
+    "ques": "What is the capital of Poland?",
+    "optionA": "Kraków",
+    "optionB": "Gdańsk",
+    "optionC": "Warsaw",
+    "optionD": "Wrocław",
+    "answer": "Warsaw"
+  },
+  {
+    "questionId": 19,
+    "ques": "What is the capital of Ukraine?",
+    "optionA": "Kharkiv",
+    "optionB": "Odesa",
+    "optionC": "Kyiv",
+    "optionD": "Dnipro",
+    "answer": "Kyiv"
+  },
+  {
+    "questionId": 20,
+    "ques": "What is the capital of Romania?",
+    "optionA": "Cluj-Napoca",
+    "optionB": "Timișoara",
+    "optionC": "Bucharest",
+    "optionD": "Iași",
+    "answer": "Bucharest"
+  },
+  {
+    "questionId": 21,
+    "ques": "What is the capital of Czech Republic?",
+    "optionA": "Brno",
+    "optionB": "Prague",
+    "optionC": "Ostrava",
+    "optionD": "Plzen",
+    "answer": "Prague"
+  },
+  {
+    "questionId": 22,
+    "ques": "What is the capital of Hungary?",
+    "optionA": "Debrecen",
+    "optionB": "Szeged",
+    "optionC": "Budapest",
+    "optionD": "Pécs",
+    "answer": "Budapest"
+  },
+  {
+    "questionId": 23,
+    "ques": "What is the capital of Malaysia?",
+    "optionA": "George Town",
+    "optionB": "Johor Bahru",
+    "optionC": "Kuala Lumpur",
+    "optionD": "Ipoh",
+    "answer": "Kuala Lumpur"
+  },
+  {
+    "questionId": 24,
+    "ques": "What is the capital of Algeria?",
+    "optionA": "Oran",
+    "optionB": "Constantine",
+    "optionC": "Algiers",
+    "optionD": "Annaba",
+    "answer": "Algiers"
+  },
+  {
+    "questionId": 25,
+    "ques": "What is the capital of Morocco?",
+    "optionA": "Casablanca",
+    "optionB": "Marrakech",
+    "optionC": "Fez",
+    "optionD": "Rabat",
+    "answer": "Rabat"
+  },
+  {
+    "questionId": 26,
+    "ques": "What is the capital of Tunisia?",
+    "optionA": "Sfax",
+    "optionB": "Sousse",
+    "optionC": "Tunis",
+    "optionD": "Kairouan",
+    "answer": "Tunis"
+  },
+  {
+    "questionId": 27,
+    "ques": "What is the capital of Ghana?",
+    "optionA": "Kumasi",
+    "optionB": "Accra",
+    "optionC": "Tamale",
+    "optionD": "Cape Coast",
+    "answer": "Accra"
+  },
+  {
+    "questionId": 28,
+    "ques": "What is the capital of Uruguay?",
+    "optionA": "Salto",
+    "optionB": "Paysandú",
+    "optionC": "Montevideo",
+    "optionD": "Rivera",
+    "answer": "Montevideo"
+  },
+  {
+    "questionId": 29,
+    "ques": "What is the capital of Ecuador?",
+    "optionA": "Guayaquil",
+    "optionB": "Cuenca",
+    "optionC": "Quito",
+    "optionD": "Machala",
+    "answer": "Quito"
+  },
+  {
+    "questionId": 30,
+    "ques": "What is the capital of Colombia?",
+    "optionA": "Medellín",
+    "optionB": "Cali",
+    "optionC": "Bogotá",
+    "optionD": "Barranquilla",
+    "answer": "Bogotá"
+  },
+  {
+    "questionId": 31,
+    "ques": "What is the capital of Venezuela?",
+    "optionA": "Maracaibo",
+    "optionB": "Valencia",
+    "optionC": "Caracas",
+    "optionD": "Barquisimeto",
+    "answer": "Caracas"
+  },
+  {
+    "questionId": 32,
+    "ques": "What is the capital of Bolivia?",
+    "optionA": "La Paz",
+    "optionB": "Santa Cruz",
+    "optionC": "Sucre",
+    "optionD": "Cochabamba",
+    "answer": "Sucre"
+  },
+  {
+    "questionId": 33,
+    "ques": "What is the capital of Paraguay?",
+    "optionA": "Ciudad del Este",
+    "optionB": "San Lorenzo",
+    "optionC": "Asunción",
+    "optionD": "Luque",
+    "answer": "Asunción"
+  },
+  {
+    "questionId": 34,
+    "ques": "What is the capital of Austria?",
+    "optionA": "Salzburg",
+    "optionB": "Graz",
+    "optionC": "Vienna",
+    "optionD": "Innsbruck",
+    "answer": "Vienna"
+  },
+  {
+    "questionId": 35,
+    "ques": "What is the capital of Belgium?",
+    "optionA": "Antwerp",
+    "optionB": "Ghent",
+    "optionC": "Brussels",
+    "optionD": "Bruges",
+    "answer": "Brussels"
+  },
+  {
+    "questionId": 36,
+    "ques": "What is the capital of Denmark?",
+    "optionA": "Aarhus",
+    "optionB": "Odense",
+    "optionC": "Copenhagen",
+    "optionD": "Aalborg",
+    "answer": "Copenhagen"
+  },
+  {
+    "questionId": 37,
+    "ques": "What is the capital of Finland?",
+    "optionA": "Tampere",
+    "optionB": "Turku",
+    "optionC": "Helsinki",
+    "optionD": "Oulu",
+    "answer": "Helsinki"
+  },
+  {
+    "questionId": 38,
+    "ques": "What is the capital of Sweden?",
+    "optionA": "Gothenburg",
+    "optionB": "Malmö",
+    "optionC": "Stockholm",
+    "optionD": "Uppsala",
+    "answer": "Stockholm"
+  },
+  {
+    "questionId": 39,
+    "ques": "What is the capital of Portugal?",
+    "optionA": "Porto",
+    "optionB": "Braga",
+    "optionC": "Lisbon",
+    "optionD": "Coimbra",
+    "answer": "Lisbon"
+  },
+  {
+    "questionId": 40,
+    "ques": "What is the capital of Ireland?",
+    "optionA": "Cork",
+    "optionB": "Galway",
+    "optionC": "Dublin",
+    "optionD": "Limerick",
+    "answer": "Dublin"
+  },
+  {
+    "questionId": 41,
+    "ques": "What is the capital of Greece?",
+    "optionA": "Thessaloniki",
+    "optionB": "Patras",
+    "optionC": "Athens",
+    "optionD": "Heraklion",
+    "answer": "Athens"
+  },
+  {
+    "questionId": 42,
+    "ques": "What is the capital of Bulgaria?",
+    "optionA": "Plovdiv",
+    "optionB": "Varna",
+    "optionC": "Sofia",
+    "optionD": "Burgas",
+    "answer": "Sofia"
+  },
+  {
+    "questionId": 43,
+    "ques": "What is the capital of Serbia?",
+    "optionA": "Novi Sad",
+    "optionB": "Niš",
+    "optionC": "Belgrade",
+    "optionD": "Kragujevac",
+    "answer": "Belgrade"
+  },
+  {
+    "questionId": 44,
+    "ques": "What is the capital of Croatia?",
+    "optionA": "Split",
+    "optionB": "Rijeka",
+    "optionC": "Zagreb",
+    "optionD": "Osijek",
+    "answer": "Zagreb"
+  },
+  {
+    "questionId": 45,
+    "ques": "What is the capital of Slovenia?",
+    "optionA": "Maribor",
+    "optionB": "Celje",
+    "optionC": "Ljubljana",
+    "optionD": "Kranj",
+    "answer": "Ljubljana"
+  },
+  {
+    "questionId": 46,
+    "ques": "What is the capital of Slovakia?",
+    "optionA": "Košice",
+    "optionB": "Prešov",
+    "optionC": "Bratislava",
+    "optionD": "Žilina",
+    "answer": "Bratislava"
+  },
+  {
+    "questionId": 47,
+    "ques": "What is the capital of Lithuania?",
+    "optionA": "Kaunas",
+    "optionB": "Klaipėda",
+    "optionC": "Vilnius",
+    "optionD": "Šiauliai",
+    "answer": "Vilnius"
+  },
+  {
+    "questionId": 48,
+    "ques": "What is the capital of Latvia?",
+    "optionA": "Daugavpils",
+    "optionB": "Liepāja",
+    "optionC": "Riga",
+    "optionD": "Jelgava",
+    "answer": "Riga"
+  },
+  {
+    "questionId": 49,
+    "ques": "What is the capital of Estonia?",
+    "optionA": "Tartu",
+    "optionB": "Narva",
+    "optionC": "Tallinn",
+    "optionD": "Pärnu",
+    "answer": "Tallinn"
+  },
+  {
+    "questionId": 50,
+    "ques": "What is the capital of Luxembourg?",
+    "optionA": "Esch-sur-Alzette",
+    "optionB": "Differdange",
+    "optionC": "Luxembourg City",
+    "optionD": "Dudelange",
+    "answer": "Luxembourg City"
+  }
+]

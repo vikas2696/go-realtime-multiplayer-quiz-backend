@@ -1,0 +1,3 @@
+PATCH http://localhost:8080/quizrooms/4/leave
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDgzNzIwMTIsInVzZXJfaWQiOjEsInVzZXJuYW1lIjoidGVzdCJ9.6g5kB3An0vHWkbYrMYMwJh0uqJx-WFK7NPJBvmypmOI

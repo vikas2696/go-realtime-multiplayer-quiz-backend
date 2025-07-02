@@ -1,0 +1,4 @@
+GET http://localhost:8080/quizrooms/1/lobby
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDc0Mzc5MTQsInVzZXJfaWQiOjEsInVzZXJuYW1lIjoidGVzdCJ9.EQ2OfsMvfPQGfYoHpXYDmT7YUSQHWOvwZmL_L-80caY
+

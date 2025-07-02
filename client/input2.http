@@ -1,0 +1,7 @@
+POST http://localhost:8080/quizrooms/34/save-answer
+Content-type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDg2MzMwMTQsInVzZXJfaWQiOjIsInVzZXJuYW1lIjoidGVzdDIifQ.ZNJo-plE8YSk1rFFsD4gO2Bb3UnLGFrOtaHJcbe5J00
+
+
+    "earth"
+

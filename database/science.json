@@ -1,0 +1,902 @@
+[
+  {
+    "questionId": 1,
+    "ques": "What is the SI unit of force?",
+    "optionA": "Newton",
+    "optionB": "Joule",
+    "optionC": "Pascal",
+    "optionD": "Watt",
+    "answer": "Newton"
+  },
+  {
+    "questionId": 2,
+    "ques": "Which organelle is known as the powerhouse of the cell?",
+    "optionA": "Nucleus",
+    "optionB": "Mitochondria",
+    "optionC": "Chloroplast",
+    "optionD": "Ribosome",
+    "answer": "Mitochondria"
+  },
+  {
+    "questionId": 3,
+    "ques": "What is the chemical formula for sulfuric acid?",
+    "optionA": "HCl",
+    "optionB": "HNO3",
+    "optionC": "H2SO4",
+    "optionD": "H3PO4",
+    "answer": "H2SO4"
+  },
+  {
+    "questionId": 4,
+    "ques": "Which planet has the most moons in our solar system?",
+    "optionA": "Jupiter",
+    "optionB": "Saturn",
+    "optionC": "Uranus",
+    "optionD": "Neptune",
+    "answer": "Saturn"
+  },
+  {
+    "questionId": 5,
+    "ques": "What type of bond forms between two water molecules?",
+    "optionA": "Ionic bond",
+    "optionB": "Covalent bond",
+    "optionC": "Hydrogen bond",
+    "optionD": "Metallic bond",
+    "answer": "Hydrogen bond"
+  },
+  {
+    "questionId": 6,
+    "ques": "What is the speed of light in vacuum?",
+    "optionA": "3 × 10^6 m/s",
+    "optionB": "3 × 10^7 m/s",
+    "optionC": "3 × 10^8 m/s",
+    "optionD": "3 × 10^9 m/s",
+    "answer": "3 × 10^8 m/s"
+  },
+  {
+    "questionId": 7,
+    "ques": "Which process converts ADP to ATP in cells?",
+    "optionA": "Photosynthesis",
+    "optionB": "Phosphorylation",
+    "optionC": "Hydrolysis",
+    "optionD": "Denaturation",
+    "answer": "Phosphorylation"
+  },
+  {
+    "questionId": 8,
+    "ques": "What is the atomic number of carbon?",
+    "optionA": "4",
+    "optionB": "6",
+    "optionC": "8",
+    "optionD": "12",
+    "answer": "6"
+  },
+  {
+    "questionId": 9,
+    "ques": "Which law states that energy cannot be created or destroyed?",
+    "optionA": "Newton's First Law",
+    "optionB": "Law of Conservation of Mass",
+    "optionC": "First Law of Thermodynamics",
+    "optionD": "Ohm's Law",
+    "answer": "First Law of Thermodynamics"
+  },
+  {
+    "questionId": 10,
+    "ques": "What is the pH of pure water at 25°C?",
+    "optionA": "0",
+    "optionB": "7",
+    "optionC": "14",
+    "optionD": "10",
+    "answer": "7"
+  },
+  {
+    "questionId": 11,
+    "ques": "Which type of electromagnetic radiation has the longest wavelength?",
+    "optionA": "Gamma rays",
+    "optionB": "X-rays",
+    "optionC": "Visible light",
+    "optionD": "Radio waves",
+    "answer": "Radio waves"
+  },
+  {
+    "questionId": 12,
+    "ques": "What is the process of cell division in somatic cells called?",
+    "optionA": "Meiosis",
+    "optionB": "Mitosis",
+    "optionC": "Binary fission",
+    "optionD": "Budding",
+    "answer": "Mitosis"
+  },
+  {
+    "questionId": 13,
+    "ques": "Which gas makes up approximately 78% of Earth's atmosphere?",
+    "optionA": "Oxygen",
+    "optionB": "Carbon dioxide",
+    "optionC": "Nitrogen",
+    "optionD": "Argon",
+    "answer": "Nitrogen"
+  },
+  {
+    "questionId": 14,
+    "ques": "What is the functional unit of the kidney?",
+    "optionA": "Neuron",
+    "optionB": "Nephron",
+    "optionC": "Alveolus",
+    "optionD": "Villus",
+    "answer": "Nephron"
+  },
+  {
+    "questionId": 15,
+    "ques": "Which element has the highest electronegativity?",
+    "optionA": "Oxygen",
+    "optionB": "Chlorine",
+    "optionC": "Fluorine",
+    "optionD": "Nitrogen",
+    "answer": "Fluorine"
+  },
+  {
+    "questionId": 16,
+    "ques": "What is the acceleration due to gravity on Earth?",
+    "optionA": "9.8 m/s²",
+    "optionB": "10.8 m/s²",
+    "optionC": "8.8 m/s²",
+    "optionD": "11.8 m/s²",
+    "answer": "9.8 m/s²"
+  },
+  {
+    "questionId": 17,
+    "ques": "Which vitamin is synthesized by the human skin in sunlight?",
+    "optionA": "Vitamin A",
+    "optionB": "Vitamin C",
+    "optionC": "Vitamin D",
+    "optionD": "Vitamin E",
+    "answer": "Vitamin D"
+  },
+  {
+    "questionId": 18,
+    "ques": "What type of reaction releases energy?",
+    "optionA": "Endothermic",
+    "optionB": "Exothermic",
+    "optionC": "Isothermic",
+    "optionD": "Adiabatic",
+    "answer": "Exothermic"
+  },
+  {
+    "questionId": 19,
+    "ques": "Which organ produces insulin?",
+    "optionA": "Liver",
+    "optionB": "Kidney",
+    "optionC": "Pancreas",
+    "optionD": "Thyroid",
+    "answer": "Pancreas"
+  },
+  {
+    "questionId": 20,
+    "ques": "What is the molecular formula of glucose?",
+    "optionA": "C6H12O6",
+    "optionB": "C12H22O11",
+    "optionC": "C3H6O3",
+    "optionD": "C2H5OH",
+    "answer": "C6H12O6"
+  },
+  {
+    "questionId": 21,
+    "ques": "Which type of lens is used to correct myopia?",
+    "optionA": "Convex lens",
+    "optionB": "Concave lens",
+    "optionC": "Bifocal lens",
+    "optionD": "Cylindrical lens",
+    "answer": "Concave lens"
+  },
+  {
+    "questionId": 22,
+    "ques": "What is the valency of oxygen?",
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "3",
+    "optionD": "4",
+    "answer": "2"
+  },
+  {
+    "questionId": 23,
+    "ques": "Which blood cells are responsible for immunity?",
+    "optionA": "Red blood cells",
+    "optionB": "White blood cells",
+    "optionC": "Platelets",
+    "optionD": "Plasma cells",
+    "answer": "White blood cells"
+  },
+  {
+    "questionId": 24,
+    "ques": "What is the SI unit of electric current?",
+    "optionA": "Volt",
+    "optionB": "Ohm",
+    "optionC": "Ampere",
+    "optionD": "Coulomb",
+    "answer": "Ampere"
+  },
+  {
+    "questionId": 25,
+    "ques": "Which acid is present in the stomach?",
+    "optionA": "Sulfuric acid",
+    "optionB": "Nitric acid",
+    "optionC": "Hydrochloric acid",
+    "optionD": "Acetic acid",
+    "answer": "Hydrochloric acid"
+  },
+  {
+    "questionId": 26,
+    "ques": "What is the primary pigment in plant photosynthesis?",
+    "optionA": "Carotene",
+    "optionB": "Chlorophyll",
+    "optionC": "Xanthophyll",
+    "optionD": "Anthocyanin",
+    "answer": "Chlorophyll"
+  },
+  {
+    "questionId": 27,
+    "ques": "Which law relates voltage, current, and resistance?",
+    "optionA": "Newton's Law",
+    "optionB": "Ohm's Law",
+    "optionC": "Faraday's Law",
+    "optionD": "Coulomb's Law",
+    "answer": "Ohm's Law"
+  },
+  {
+    "questionId": 28,
+    "ques": "What is the chemical symbol for gold?",
+    "optionA": "Go",
+    "optionB": "Gd",
+    "optionC": "Au",
+    "optionD": "Ag",
+    "answer": "Au"
+  },
+  {
+    "questionId": 29,
+    "ques": "Which process do plants use to make food?",
+    "optionA": "Respiration",
+    "optionB": "Photosynthesis",
+    "optionC": "Fermentation",
+    "optionD": "Digestion",
+    "answer": "Photosynthesis"
+  },
+  {
+    "questionId": 30,
+    "ques": "What is the charge on a proton?",
+    "optionA": "Negative",
+    "optionB": "Positive",
+    "optionC": "Neutral",
+    "optionD": "Variable",
+    "answer": "Positive"
+  },
+  {
+    "questionId": 31,
+    "ques": "Which tissue transports water in plants?",
+    "optionA": "Phloem",
+    "optionB": "Xylem",
+    "optionC": "Cambium",
+    "optionD": "Cortex",
+    "answer": "Xylem"
+  },
+  {
+    "questionId": 32,
+    "ques": "What is the formula for kinetic energy?",
+    "optionA": "½mv²",
+    "optionB": "mgh",
+    "optionC": "mc²",
+    "optionD": "mv",
+    "answer": "½mv²"
+  },
+  {
+    "questionId": 33,
+    "ques": "Which gas is released during photosynthesis?",
+    "optionA": "Carbon dioxide",
+    "optionB": "Nitrogen",
+    "optionC": "Oxygen",
+    "optionD": "Hydrogen",
+    "answer": "Oxygen"
+  },
+  {
+    "questionId": 34,
+    "ques": "What is the number of chromosomes in human cells?",
+    "optionA": "23",
+    "optionB": "46",
+    "optionC": "48",
+    "optionD": "44",
+    "answer": "46"
+  },
+  {
+    "questionId": 35,
+    "ques": "Which metal is liquid at room temperature?",
+    "optionA": "Sodium",
+    "optionB": "Mercury",
+    "optionC": "Gallium",
+    "optionD": "Lead",
+    "answer": "Mercury"
+  },
+  {
+    "questionId": 36,
+    "ques": "What type of wave is sound?",
+    "optionA": "Transverse wave",
+    "optionB": "Longitudinal wave",
+    "optionC": "Electromagnetic wave",
+    "optionD": "Surface wave",
+    "answer": "Longitudinal wave"
+  },
+  {
+    "questionId": 37,
+    "ques": "Which gland is known as the master gland?",
+    "optionA": "Thyroid",
+    "optionB": "Pituitary",
+    "optionC": "Adrenal",
+    "optionD": "Pineal",
+    "answer": "Pituitary"
+  },
+  {
+    "questionId": 38,
+    "ques": "What is the chemical name of common salt?",
+    "optionA": "Sodium chloride",
+    "optionB": "Sodium carbonate",
+    "optionC": "Sodium bicarbonate",
+    "optionD": "Sodium hydroxide",
+    "answer": "Sodium chloride"
+  },
+  {
+    "questionId": 39,
+    "ques": "Which phenomenon causes a rainbow?",
+    "optionA": "Reflection",
+    "optionB": "Refraction",
+    "optionC": "Dispersion",
+    "optionD": "Diffraction",
+    "answer": "Dispersion"
+  },
+  {
+    "questionId": 40,
+    "ques": "What is the study of heredity called?",
+    "optionA": "Ecology",
+    "optionB": "Genetics",
+    "optionC": "Evolution",
+    "optionD": "Taxonomy",
+    "answer": "Genetics"
+  },
+  {
+    "questionId": 41,
+    "ques": "Which element is the most abundant in the universe?",
+    "optionA": "Oxygen",
+    "optionB": "Carbon",
+    "optionC": "Hydrogen",
+    "optionD": "Helium",
+    "answer": "Hydrogen"
+  },
+  {
+    "questionId": 42,
+    "ques": "What is the unit of frequency?",
+    "optionA": "Hertz",
+    "optionB": "Decibel",
+    "optionC": "Pascal",
+    "optionD": "Newton",
+    "answer": "Hertz"
+  },
+  {
+    "questionId": 43,
+    "ques": "Which blood group is known as universal donor?",
+    "optionA": "A+",
+    "optionB": "B+",
+    "optionC": "AB+",
+    "optionD": "O-",
+    "answer": "O-"
+  },
+  {
+    "questionId": 44,
+    "ques": "What is the chemical formula of ammonia?",
+    "optionA": "NH4",
+    "optionB": "NH3",
+    "optionC": "NH2",
+    "optionD": "N2H4",
+    "answer": "NH3"
+  },
+  {
+    "questionId": 45,
+    "ques": "Which mirror forms virtual and erect images?",
+    "optionA": "Concave mirror",
+    "optionB": "Convex mirror",
+    "optionC": "Plane mirror",
+    "optionD": "Both B and C",
+    "answer": "Both B and C"
+  },
+  {
+    "questionId": 46,
+    "ques": "What is the main component of natural gas?",
+    "optionA": "Ethane",
+    "optionB": "Propane",
+    "optionC": "Methane",
+    "optionD": "Butane",
+    "answer": "Methane"
+  },
+  {
+    "questionId": 47,
+    "ques": "Which part of the brain controls balance?",
+    "optionA": "Cerebrum",
+    "optionB": "Cerebellum",
+    "optionC": "Medulla",
+    "optionD": "Pons",
+    "answer": "Cerebellum"
+  },
+  {
+    "questionId": 48,
+    "ques": "What is the SI unit of power?",
+    "optionA": "Joule",
+    "optionB": "Newton",
+    "optionC": "Watt",
+    "optionD": "Pascal",
+    "answer": "Watt"
+  },
+  {
+    "questionId": 49,
+    "ques": "Which enzyme breaks down starch?",
+    "optionA": "Lipase",
+    "optionB": "Amylase",
+    "optionC": "Protease",
+    "optionD": "Lactase",
+    "answer": "Amylase"
+  },
+  {
+    "questionId": 50,
+    "ques": "What is the atomic mass of hydrogen?",
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "3",
+    "optionD": "4",
+    "answer": "1"
+  },
+  {
+    "questionId": 51,
+    "ques": "Which type of reproduction involves only one parent?",
+    "optionA": "Sexual reproduction",
+    "optionB": "Asexual reproduction",
+    "optionC": "Bisexual reproduction",
+    "optionD": "Cross reproduction",
+    "answer": "Asexual reproduction"
+  },
+  {
+    "questionId": 52,
+    "ques": "What is the melting point of ice at standard pressure?",
+    "optionA": "0°C",
+    "optionB": "100°C",
+    "optionC": "32°C",
+    "optionD": "-273°C",
+    "answer": "0°C"
+  },
+  {
+    "questionId": 53,
+    "ques": "Which gas is used in fire extinguishers?",
+    "optionA": "Oxygen",
+    "optionB": "Nitrogen",
+    "optionC": "Carbon dioxide",
+    "optionD": "Helium",
+    "answer": "Carbon dioxide"
+  },
+  {
+    "questionId": 54,
+    "ques": "What is the smallest bone in the human body?",
+    "optionA": "Femur",
+    "optionB": "Stapes",
+    "optionC": "Tibia",
+    "optionD": "Radius",
+    "answer": "Stapes"
+  },
+  {
+    "questionId": 55,
+    "ques": "Which scientist discovered the electron?",
+    "optionA": "Rutherford",
+    "optionB": "Thomson",
+    "optionC": "Bohr",
+    "optionD": "Chadwick",
+    "answer": "Thomson"
+  },
+  {
+    "questionId": 56,
+    "ques": "What is the process of converting solid directly to gas?",
+    "optionA": "Evaporation",
+    "optionB": "Condensation",
+    "optionC": "Sublimation",
+    "optionD": "Deposition",
+    "answer": "Sublimation"
+  },
+  {
+    "questionId": 57,
+    "ques": "Which hormone regulates blood sugar levels?",
+    "optionA": "Thyroxine",
+    "optionB": "Insulin",
+    "optionC": "Adrenaline",
+    "optionD": "Growth hormone",
+    "answer": "Insulin"
+  },
+  {
+    "questionId": 58,
+    "ques": "What is the chemical formula of methane?",
+    "optionA": "CH3",
+    "optionB": "CH4",
+    "optionC": "C2H6",
+    "optionD": "C2H4",
+    "answer": "CH4"
+  },
+  {
+    "questionId": 59,
+    "ques": "Which type of energy is stored in a stretched spring?",
+    "optionA": "Kinetic energy",
+    "optionB": "Potential energy",
+    "optionC": "Thermal energy",
+    "optionD": "Chemical energy",
+    "answer": "Potential energy"
+  },
+  {
+    "questionId": 60,
+    "ques": "What is the function of red blood cells?",
+    "optionA": "Fight infection",
+    "optionB": "Transport oxygen",
+    "optionC": "Blood clotting",
+    "optionD": "Produce antibodies",
+    "answer": "Transport oxygen"
+  },
+  {
+    "questionId": 61,
+    "ques": "Which planet is known as the Red Planet?",
+    "optionA": "Venus",
+    "optionB": "Mars",
+    "optionC": "Jupiter",
+    "optionD": "Mercury",
+    "answer": "Mars"
+  },
+  {
+    "questionId": 62,
+    "ques": "What is the pH range of acids?",
+    "optionA": "0-7",
+    "optionB": "7-14",
+    "optionC": "7",
+    "optionD": "Above 14",
+    "answer": "0-7"
+  },
+  {
+    "questionId": 63,
+    "ques": "Which instrument is used to measure atmospheric pressure?",
+    "optionA": "Thermometer",
+    "optionB": "Barometer",
+    "optionC": "Hygrometer",
+    "optionD": "Anemometer",
+    "answer": "Barometer"
+  },
+  {
+    "questionId": 64,
+    "ques": "What type of joint is the elbow?",
+    "optionA": "Ball and socket",
+    "optionB": "Hinge",
+    "optionC": "Pivot",
+    "optionD": "Fixed",
+    "answer": "Hinge"
+  },
+  {
+    "questionId": 65,
+    "ques": "Which element is essential for hemoglobin formation?",
+    "optionA": "Calcium",
+    "optionB": "Iron",
+    "optionC": "Sodium",
+    "optionD": "Potassium",
+    "answer": "Iron"
+  },
+  {
+    "questionId": 66,
+    "ques": "What is the unit of resistance?",
+    "optionA": "Volt",
+    "optionB": "Ampere",
+    "optionC": "Ohm",
+    "optionD": "Watt",
+    "answer": "Ohm"
+  },
+  {
+    "questionId": 67,
+    "ques": "Which process removes carbon dioxide from blood?",
+    "optionA": "Digestion",
+    "optionB": "Respiration",
+    "optionC": "Circulation",
+    "optionD": "Excretion",
+    "answer": "Respiration"
+  },
+  {
+    "questionId": 68,
+    "ques": "What is the common name for sodium bicarbonate?",
+    "optionA": "Washing soda",
+    "optionB": "Baking soda",
+    "optionC": "Caustic soda",
+    "optionD": "Soda ash",
+    "answer": "Baking soda"
+  },
+  {
+    "questionId": 69,
+    "ques": "Which color has the shortest wavelength in visible light?",
+    "optionA": "Red",
+    "optionB": "Green",
+    "optionC": "Blue",
+    "optionD": "Violet",
+    "answer": "Violet"
+  },
+  {
+    "questionId": 70,
+    "ques": "What is the largest organ in the human body?",
+    "optionA": "Liver",
+    "optionB": "Brain",
+    "optionC": "Skin",
+    "optionD": "Heart",
+    "answer": "Skin"
+  },
+  {
+    "questionId": 71,
+    "ques": "Which gas is known as laughing gas?",
+    "optionA": "Nitrogen dioxide",
+    "optionB": "Nitrous oxide",
+    "optionC": "Nitric oxide",
+    "optionD": "Nitrogen trioxide",
+    "answer": "Nitrous oxide"
+  },
+  {
+    "questionId": 72,
+    "ques": "What is the formula for acceleration?",
+    "optionA": "Distance/Time",
+    "optionB": "Force/Mass",
+    "optionC": "Change in velocity/Time",
+    "optionD": "Mass × Velocity",
+    "answer": "Change in velocity/Time"
+  },
+  {
+    "questionId": 73,
+    "ques": "Which vitamin deficiency causes scurvy?",
+    "optionA": "Vitamin A",
+    "optionB": "Vitamin B",
+    "optionC": "Vitamin C",
+    "optionD": "Vitamin D",
+    "answer": "Vitamin C"
+  },
+  {
+    "questionId": 74,
+    "ques": "What is the oxidation state of oxygen in most compounds?",
+    "optionA": "+2",
+    "optionB": "-2",
+    "optionC": "+1",
+    "optionD": "-1",
+    "answer": "-2"
+  },
+  {
+    "questionId": 75,
+    "ques": "Which layer of Earth's atmosphere contains the ozone layer?",
+    "optionA": "Troposphere",
+    "optionB": "Stratosphere",
+    "optionC": "Mesosphere",
+    "optionD": "Thermosphere",
+    "answer": "Stratosphere"
+  },
+  {
+    "questionId": 76,
+    "ques": "What type of solution has pH = 7?",
+    "optionA": "Acidic",
+    "optionB": "Basic",
+    "optionC": "Neutral",
+    "optionD": "Alkaline",
+    "answer": "Neutral"
+  },
+  {
+    "questionId": 77,
+    "ques": "Which cell organelle contains digestive enzymes?",
+    "optionA": "Mitochondria",
+    "optionB": "Lysosome",
+    "optionC": "Ribosome",
+    "optionD": "Golgi apparatus",
+    "answer": "Lysosome"
+  },
+  {
+    "questionId": 78,
+    "ques": "What is the principle behind hydraulic machines?",
+    "optionA": "Archimedes' principle",
+    "optionB": "Pascal's law",
+    "optionC": "Bernoulli's principle",
+    "optionD": "Newton's law",
+    "answer": "Pascal's law"
+  },
+  {
+    "questionId": 79,
+    "ques": "Which metal is the best conductor of electricity?",
+    "optionA": "Gold",
+    "optionB": "Copper",
+    "optionC": "Silver",
+    "optionD": "Aluminum",
+    "answer": "Silver"
+  },
+  {
+    "questionId": 80,
+    "ques": "What is the process of water loss from plant leaves?",
+    "optionA": "Respiration",
+    "optionB": "Transpiration",
+    "optionC": "Evaporation",
+    "optionD": "Perspiration",
+    "answer": "Transpiration"
+  },
+  {
+    "questionId": 81,
+    "ques": "Which type of electromagnetic radiation is used in X-ray machines?",
+    "optionA": "Infrared",
+    "optionB": "Ultraviolet",
+    "optionC": "X-rays",
+    "optionD": "Microwaves",
+    "answer": "X-rays"
+  },
+  {
+    "questionId": 82,
+    "ques": "What is the molecular mass of water (H2O)?",
+    "optionA": "16 g/mol",
+    "optionB": "18 g/mol",
+    "optionC": "20 g/mol",
+    "optionD": "22 g/mol",
+    "answer": "18 g/mol"
+  },
+  {
+    "questionId": 83,
+    "ques": "Which part of the eye controls the amount of light entering?",
+    "optionA": "Cornea",
+    "optionB": "Lens",
+    "optionC": "Iris",
+    "optionD": "Retina",
+    "answer": "Iris"
+  },
+  {
+    "questionId": 84,
+    "ques": "What type of bond is formed by sharing of electrons?",
+    "optionA": "Ionic bond",
+    "optionB": "Covalent bond",
+    "optionC": "Metallic bond",
+    "optionD": "Hydrogen bond",
+    "answer": "Covalent bond"
+  },
+  {
+    "questionId": 85,
+    "ques": "Which scientist proposed the theory of evolution?",
+    "optionA": "Newton",
+    "optionB": "Einstein",
+    "optionC": "Darwin",
+    "optionD": "Mendel",
+    "answer": "Darwin"
+  },
+  {
+    "questionId": 86,
+    "ques": "What is the SI unit of work?",
+    "optionA": "Newton",
+    "optionB": "Joule",
+    "optionC": "Watt",
+    "optionD": "Pascal",
+    "answer": "Joule"
+  },
+  {
+    "questionId": 87,
+    "ques": "Which blood vessels carry blood away from the heart?",
+    "optionA": "Veins",
+    "optionB": "Arteries",
+    "optionC": "Capillaries",
+    "optionD": "Venules",
+    "answer": "Arteries"
+  },
+  {
+    "questionId": 88,
+    "ques": "What is the main constituent of biogas?",
+    "optionA": "Hydrogen",
+    "optionB": "Carbon dioxide",
+    "optionC": "Methane",
+    "optionD": "Nitrogen",
+    "answer": "Methane"
+  },
+  {
+    "questionId": 89,
+    "ques": "Which phenomenon explains why sky appears blue?",
+    "optionA": "Refraction",
+    "optionB": "Reflection",
+    "optionC": "Scattering",
+    "optionD": "Dispersion",
+    "answer": "Scattering"
+  },
+  {
+    "questionId": 90,
+    "ques": "What is the genetic material in most organisms?",
+    "optionA": "RNA",
+    "optionB": "DNA",
+    "optionC": "Protein",
+    "optionD": "Lipid",
+    "answer": "DNA"
+  },
+  {
+    "questionId": 91,
+    "ques": "Which noble gas is used in electric bulbs?",
+    "optionA": "Helium",
+    "optionB": "Neon",
+    "optionC": "Argon",
+    "optionD": "Krypton",
+    "answer": "Argon"
+  },
+  {
+    "questionId": 92,
+    "ques": "What is the unit of electric charge?",
+    "optionA": "Volt",
+    "optionB": "Coulomb",
+    "optionC": "Ampere",
+    "optionD": "Ohm",
+    "answer": "Coulomb"
+  },
+  {
+    "questionId": 93,
+    "ques": "Which tissue connects muscle to bone?",
+    "optionA": "Ligament",
+    "optionB": "Tendon",
+    "optionC": "Cartilage",
+    "optionD": "Adipose",
+    "answer": "Tendon"
+  },
+  {
+    "questionId": 94,
+    "ques": "What is the chemical name of vitamin C?",
+    "optionA": "Thiamine",
+    "optionB": "Riboflavin",
+    "optionC": "Ascorbic acid",
+    "optionD": "Folic acid",
+    "answer": "Ascorbic acid"
+  },
+  {
+    "questionId": 95,
+    "ques": "Which mirror is used in car headlights?",
+    "optionA": "Plane mirror",
+    "optionB": "Convex mirror",
+    "optionC": "Concave mirror",
+    "optionD": "Cylindrical mirror",
+    "answer": "Concave mirror"
+  },
+  {
+    "questionId": 96,
+    "ques": "What is the main ore of aluminum?",
+    "optionA": "Hematite",
+    "optionB": "Bauxite",
+    "optionC": "Magnetite",
+    "optionD": "Galena",
+    "answer": "Bauxite"
+  },
+  {
+    "questionId": 97,
+    "ques": "Which part of the cell controls all cellular activities?",
+    "optionA": "Cytoplasm",
+    "optionB": "Nucleus",
+    "optionC": "Cell membrane",
+    "optionD": "Mitochondria",
+    "answer": "Nucleus"
+  },
+  {
+    "questionId": 98,
+    "ques": "What is the escape velocity from Earth?",
+    "optionA": "11.2 km/s",
+    "optionB": "7.9 km/s",
+    "optionC": "15.0 km/s",
+    "optionD": "9.8 km/s",
+    "answer": "11.2 km/s"
+  },
+  {
+    "questionId": 99,
+    "ques": "Which acid is known as the king of chemicals?",
+    "optionA": "Hydrochloric acid",
+    "optionB": "Nitric acid",
+    "optionC": "Sulfuric acid",
+    "optionD": "Acetic acid",
+    "answer": "Sulfuric acid"
+  },
+  {
+    "questionId": 100,
+    "ques": "What type of symbiosis benefits both organisms?",
+    "optionA": "Parasitism",
+    "optionB": "Mutualism",
+    "optionC": "Commensalism",
+    "optionD": "Predation",
+    "answer": "Mutualism"
+  }
+]
