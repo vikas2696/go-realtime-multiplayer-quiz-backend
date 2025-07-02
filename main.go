@@ -3,6 +3,7 @@ package main
 import (
 	"go-multiplayer-quiz-project/backend/database"
 	"go-multiplayer-quiz-project/backend/routeshandlers"
+	"os"
 	"time"
 
 	"github.com/gin-contrib/cors"
@@ -26,6 +27,10 @@ func main() {
 
 	routeshandlers.RunRoutes(server)
 
-	server.Run("localhost:8080")
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8080" // for local dev
+	}
+	server.Run(":" + port)
 
 }
