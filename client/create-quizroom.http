@@ -1,14 +1,14 @@
 POST http://localhost:8080/create-quizroom
 Content-Type: application/json
-Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDkzOTU2MDYsInVzZXJfaWQiOjIsInVzZXJuYW1lIjoidGVzdDIifQ.0Oa75eYt0O6kSv3bo1q2Pb6dbx6RPT9h0HedF51Hwoo  
-  
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTE1NjM5MjQsInVzZXJfaWQiOjIsInVzZXJuYW1lIjoidGVzdCJ9.5iEgEVz7Lcn0VC9ZpXyTEmSiB1vD_30oyvaN3k9KAfs  
+
   {
-  "Players": [
-    {
-      "PlayerId": 2,
-      "Username": "test2"
+      "Players": [{
+        "PlayerId": 111,
+        "Username": "111"
+      }],
+      "TimerTime": 5,
+      "QuizTopic": "science",
+      "PlayersAnswers": {"0": "10",
+                         "1": "false"}
     }
-  ],
-  "TimerTime": 60,
-  "QuizTopic": "Science"
-}

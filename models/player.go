@@ -103,10 +103,6 @@ func (player Player) DeletePlayerFromQuiz(quizId int) error {
 		return err
 	}
 
-	if quizRoom.IsRunnning {
-		return errors.New("quiz is already going on")
-	}
-
 	players, err := GetJoinedPlayersList(quizId)
 	if err != nil {
 		return err
@@ -132,7 +128,7 @@ func (player Player) DeletePlayerFromQuiz(quizId int) error {
 	if err != nil {
 		return err
 	}
-	query := " UPDATE quizrooms SET  players = $1 WHERE quizroomid = $2 "
+	query := " UPDATE quizrooms SET players = $1 WHERE quizroomid = $2 "
 
 	_, err = database.DB.Exec(query, playersJson, quizId)
 
@@ -141,11 +137,6 @@ func (player Player) DeletePlayerFromQuiz(quizId int) error {
 	}
 
 	err = RemovePlayerFromScoreSheet(quizId, player.PlayerId, quizRoom.ScoreSheet)
-	if err != nil {
-		return errors.New("unable to remove player to scoresheet")
-	}
-
-	err = RemovePlayerToPlayersAnswers(quizId, player.PlayerId, quizRoom.PlayersAnswers)
 	if err != nil {
 		return errors.New("unable to remove player to scoresheet")
 	}

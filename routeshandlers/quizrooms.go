@@ -26,7 +26,7 @@ func createQuizRoom(context *gin.Context) {
 	var quizRoom models.QuizRoom
 	err := context.ShouldBindJSON(&quizRoom)
 	if err != nil {
-		context.JSON(http.StatusBadRequest, gin.H{"error": "Invalid inputs"})
+		context.JSON(http.StatusBadRequest, gin.H{"error": "Invalid inputs, " + err.Error()})
 		return
 	}
 

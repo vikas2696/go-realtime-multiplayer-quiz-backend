@@ -145,7 +145,8 @@ func readliveMessages(conn *websocket.Conn, quizId int, quizRoom models.QuizRoom
 
 		clientMsg.Conn = conn
 
-		if clientMsg.Type == "questions" {
+		switch clientMsg.Type {
+		case "questions":
 			questionsBytes, err := json.Marshal(clientMsg.Msg)
 			if err != nil {
 				fmt.Println("Wrong message format: ", err)
@@ -187,7 +188,7 @@ func readliveMessages(conn *websocket.Conn, quizId int, quizRoom models.QuizRoom
 					Conn: conn}
 			}
 
-		} else if clientMsg.Type == "next_question" {
+		case "next_question":
 
 			live_mu.RLock()
 			next_question_available := current_ques_indices[quizId]+1 < len(questionsPerRoom[quizId])
@@ -223,12 +224,12 @@ func readliveMessages(conn *websocket.Conn, quizId int, quizRoom models.QuizRoom
 				}
 			}
 
-		} else if clientMsg.Type == "get_scorecard" {
+		case "get_scorecard":
 			live_broadcastChans[quizId] <- models.LiveMessage{
 				Type: "scorecard",
 				Msg:  nil,
 				Conn: conn}
-		} else if clientMsg.Type == "answer" {
+		case "answer":
 			answerData := clientMsg.Msg.(map[string]interface{})
 			user_id := int(answerData["UserId"].(float64))
 			answer := answerData["Answer"].(string)
