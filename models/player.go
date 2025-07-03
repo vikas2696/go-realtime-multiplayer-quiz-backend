@@ -87,11 +87,6 @@ func (player Player) AddPlayerToQuiz(quizId int) error {
 		return errors.New("unable to add player to scoresheet")
 	}
 
-	err = AddPlayerToPlayersAnswers(quizId, player.PlayerId, quizRoom.PlayersAnswers)
-	if err != nil {
-		return errors.New("unable to add player to scoresheet")
-	}
-
 	return err
 }
 
