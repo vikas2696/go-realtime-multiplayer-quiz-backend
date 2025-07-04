@@ -64,7 +64,7 @@ func (player Player) AddPlayerToQuiz(quizId int) error {
 	for index := range players {
 
 		if players[index].PlayerId == player.PlayerId {
-			return errors.New("player already joined")
+			return nil
 		}
 
 	}
