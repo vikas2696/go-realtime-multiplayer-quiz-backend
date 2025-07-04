@@ -4,6 +4,8 @@ import (
 	"errors"
 	"go-multiplayer-quiz-project/backend/database"
 	"go-multiplayer-quiz-project/backend/utils"
+
+	"github.com/lib/pq"
 )
 
 type User struct {
@@ -18,6 +20,10 @@ func (user *User) SaveUserToDB() error {
 
 	err := database.DB.QueryRow(userQuery, user.Username, user.Password).Scan(&user.UserId)
 	if err != nil {
+		// Check if the error is the unique voilation error
+		if pgErr, ok := err.(*pq.Error); ok && pgErr.Code == "23505" {
+			return errors.New("username already exists")
+		}
 		return err
 	}
 

@@ -25,7 +25,7 @@ func signUp(context *gin.Context) {
 
 	err = user.SaveUserToDB()
 	if err != nil {
-		context.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to create user"})
+		context.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
 		return
 	}
 
